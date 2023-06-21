@@ -15,9 +15,17 @@
 body {
     margin-left: 10%;
     margin-right: 10%;
-    overflow-y: scroll;
 }
 
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 7px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, .5);
+  -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+}
     h2 {
     text-align: center; /* all headings centered */
     clear: both;
@@ -202,7 +210,7 @@ table.centered {
   </style>
   </head>
 <body style="background-color:black;color:white;font-size:150%">
-<!--button id="myBtn"><a href="#top" style="color: white">Top</a></button-->
+<button id="myBtn"><a href="#top" style="color: white">Top</a></button>
 <h2>CONTENTS</h2>
 
 
