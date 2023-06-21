@@ -179,6 +179,25 @@ table.centered {
         background-color: #7dbbf1;
     }
 
+    #scroll-btn {
+      opacity: 0;
+      width: 40px;
+      height: 40px;
+      color: #fff;
+      background-color: #ef476f;
+      position: fixed;
+      bottom: 10%;
+      right: 10%;
+      border: 2px solid #fff;
+      border-radius: 50%;
+      font: bold 20px monospace;
+      transition: opacity 0.5s, transform 0.5s;
+    }
+    #scroll-btn.show {
+      opacity: 1;
+      transition: opacity 1s, transform 1s;
+    }
+
     </style>
   </head>
 <!--style>
@@ -202,7 +221,7 @@ table.centered {
     }
 </style-->
 <body style="background-color:black;color:white;font-size:150%">
-<button id="myBtn"><a href="#top">top</a></button>
+<!--button id="myBtn"><a href="#top">top</a></button-->
 <h2>CONTENTS</h2>
 
 
@@ -8426,5 +8445,33 @@ has shown us!"</p>
 
 
 <!--button id="myBtn"><a href="#top" style="color: white">Top</a></button-->
+<script>
+  const scrollTop = function () {
+    // create HTML button element
+    const scrollBtn = document.createElement("button");
+    scrollBtn.innerHTML = "&uarr;";
+    scrollBtn.setAttribute("id", "scroll-btn");
+    document.body.appendChild(scrollBtn);
+    // hide/show button based on scroll distance
+    const scrollBtnDisplay = function () {
+      window.scrollY > window.innerHeight
+        ? scrollBtn.classList.add("show")
+        : scrollBtn.classList.remove("show");
+    };
+    window.addEventListener("scroll", scrollBtnDisplay);
+    // scroll to top when button clicked
+    const scrollWindow = function () {
+      if (window.scrollY != 0) {
+        setTimeout(function () {
+          window.scrollTo(0, window.scrollY - 50);
+          scrollWindow();
+        }, 10);
+      }
+    };
+    scrollBtn.addEventListener("click", scrollWindow);
+  };
+  scrollTop();
+
+</script>
 </body>
 </html>
