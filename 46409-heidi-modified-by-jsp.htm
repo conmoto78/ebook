@@ -160,25 +160,6 @@ table.centered {
      margin-bottom:5em;
      font-family:sans-serif, serif; }
 
-     #myBtn {
-        /*position: fixed;*/
-        /*bottom: 10px;
-        float: right;
-        right: 0%;
-        left: 90%;
-        max-width: 30px;
-        width: 100%;
-        font-size: 12px;
-        border-color: rgba(85, 85, 85, 0.2);
-        background-color: rgb(100,100,100);
-        padding: .5px;
-        border-radius: 4px;*/
-
-    }
-    #myBtn:hover {
-        background-color: #7dbbf1;
-    }
-
     #scroll-btn {
       opacity: 0;
       width: 40px;
@@ -221,7 +202,6 @@ table.centered {
     }
 </style-->
 <body style="background-color:black;color:white;font-size:150%">
-<!--button id="myBtn"><a href="#top">top</a></button-->
 <h2>CONTENTS</h2>
 
 
@@ -8441,9 +8421,6 @@ has shown us!"</p>
 
 <hr class="chap" />
 
-
-
-
 <!--button id="myBtn"><a href="#top" style="color: white">Top</a></button-->
 <script>
   const scrollTop = function () {
@@ -8465,7 +8442,7 @@ has shown us!"</p>
         setTimeout(function () {
           window.scrollTo(0, window.scrollY - 50);
           scrollWindow();
-        }, 10);
+        }, 1);
       }
     };
     scrollBtn.addEventListener("click", scrollWindow);
