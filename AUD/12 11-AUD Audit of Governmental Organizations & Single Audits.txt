@@ -1,0 +1,155 @@
+Audit of governmental organizations and single audits.
+ In this session, we are going to cover governmental auditing standards, types of engagements under government auditing standards, and finally, single audits.
+ We begin with governmental auditing standards.
+ We know that GAS, generally accepted auditing standards, are issued by the AICPA.
+ Okay, GAS, generally accepted government auditing standards, are issued by the United States Government Accountability Office, the GAO.
+ GAS is designed specifically for audits of governmental organizations, programs, activities, and functions, as well as audits of non-governmental organizations that receive government assistance.
+ GAGAS is organized into foundations and ethical principles, general standards, standards for financial audits and attestation engagements, and finally, field work and reporting standards for performance audits.
+ The purpose of GAGAS is to provide a framework for conducting high-quality audits with competence, integrity, objectivity, and independence in the government sector.
+ GAGAS is often adopted by state and local governments for their audits, regardless of whether federal funds are expended.
+ It's also applicable to audits of contractors, not-for-profit organizations, and other non-governmental organizations receiving government assistance.
+ For non-federal entities receiving federal financial assistance, an audit conforming to GAGAS is required under the provisions of the Single Audit Act, which we will get to a little later.
+ GAGAS incorporates gas by reference, but expands upon the GAGAS standards with additional requirements and guidance specific to governmental auditing.
+ In other words, GAGAS provides a general framework for all audits.
+ GAGAS provides additional standards and guidelines tailored to the unique needs and challenges of governmental audits.
+ The types of engagements under GAGAS are financial audits, attestation engagements, and performance audits.
+ Financial audits aim to provide users with an opinion on whether financial statements are presented fairly in all material respects in accordance with the applicable financial reporting framework, and we know this.
+ There's an opinion issued on the financial statements, on their internal controls, on compliance, attestation engagements, which we know are examinations, reviews, agreed-upon procedures, and then performance audits, which provide objective analysis to improve program performance and operations, reduce costs, facilitate decision-making, and also contribute to public accountability.
+ Performance audits evaluate a program's effectiveness, efficiency, efficiency, they provide perspective analysis based on assumptions about future events, they provide an opinion on compliance and internal control.
+ Our next topic is the general standards.
+ The general standards under the generally accepted governmental auditing standards, GAGAS, or also known as the yellow book are foundational requirements designed to ensure the quality and integrity of government audit work.
+ The five general standards are independence, professional judgment, quality control and assurance because audit organizations must establish and maintain a system of quality control designed to provide reasonable assurance that the organization and its personnel comply with professional standards and also the legal and regulatory requirements.
+ And then finally planning and supervision auditors should develop a written plan outlining the necessary procedures to address the audit objectives and experience auditors should provide proper supervision to less experienced team members to ensure audit objectives are met and the standards are followed.
+ So again, the five general standards for GAGAS are independence, professional judgment, competence, quality control and assurance, and planning and supervision.
+ Then you have the performance standards, which are materiality, early communication of deficiencies, because it's crucial for matters that are significantly important where immediate corrective action is required.
+ It's important to communicate those early.
+ Also, pertinent information to be communicated, because auditors must communicate pertinent information as determined by their professional judgment to individuals or entities contracting for or requesting the audit.
+ Communication is also necessary with legislative committees when the audit is performed under specific laws or regulations or when the work is conducted for these committees, ensuring transparency and adherence to mandates.
+ And then also previous audits and engagements.
+ Auditors must evaluate whether entities have taken appropriate corrective actions to address findings and recommendations from previous audits or engagements.
+ This evaluation helps auditors assess risk and determine the nature, timing and extent of the work required for the current audit.
+ The current audit.
+ Because if the entity did nothing in the past to address previous findings, then that means it's probably a pretty risky audit.
+ And then also another performance standard is elements of a finding to be developed.
+ When developing findings, auditors should meticulously plan and perform procedures to identify the condition, the current condition, the criteria, the required or desired state, the cause, the reason for the discrepancy between the condition and criteria, and the effect, the impact or potential impact of this discrepancy.
+ This structured approach ensures that audit findings are comprehensive, clear and useful to stakeholders.
+ So again, those are condition, criteria, cause and effect.
+ Another performance standard is non-compliance, fraud and abuse.
+ Auditors need to consider compliance with contracts and grant agreements, but also be vigilant for signs of abuse or fraud and avoid actions that might interfere with or compromise ongoing investigations or legal proceedings.
+ And then finally, documentation.
+ Auditors are required to document the supervisory review of the evidence supporting the findings, conclusions, and recommendations in the report before it's released.
+ Additionally, any departures from GAGIS requirements during the audit process must be carefully documented to maintain the integrity and transparency of the audit process.
+ It's also a good idea to document just to cover your butt.
+ So the performance standards again are materiality, early communication of deficiencies, pertinent information to be communicated, previous audits or engagements, elements of a finding to be developed, and under that was condition, criteria, cause and effect, then non-compliance with fraud and abuse, and then documentation.
+ Finally, we have the reporting standards.
+ We have the report on internal control over financial reporting, and we have the report on compliance with provisions of laws, regulations, contracts, and grant agreements.
+ Beginning with the report on internal control over financial reporting, this is mandatory.
+ There are distinctions between GAS and GAGIS requirements.
+ While GAS mandates the report on internal control only when significant deficiencies and material weaknesses in internal control are identified by the auditor, GAGIS requires that a report on internal control be issued with every audit.
+ Then there's the communication of weaknesses and deficiencies.
+ This must be communicated in the report on internal control.
+ And communication of other deficiencies is at the auditor's discretion.
+ If there's a material weakness, in the report.
+ Significant deficiency, in the report.
+ Other deficiencies, communicate it according to your judgment.
+ Then there's the presentation of the report on internal control, which can be included with the report on compliance or issued as a separate document.
+ If issued separately, the report on internal control must reference the report on compliance to provide users with a complete understanding of the internal control and compliance.
+ There's no opinion required on the effectiveness of internal control.
+ GAGIS does not require auditors to express an opinion on the effectiveness.
+ Instead, they're only required to describe the scope of their testing of internal controls and communicate any findings that arise from this testing.
+ This approach focuses on providing information about the auditor's work and findings rather than providing assurance on the overall effectiveness.
+ So that is the report on internal control under GAGIS.
+ Then there's the report on compliance.
+ First is the communication of fraud, noncompliance, and abuse.
+ Communication of fraud, noncompliance, and abuse refers to the process of reporting instances of fraud and noncompliance with laws and regulations, grant agreements that have been identified during the audit.
+ So you have fraud and noncompliance.
+ So you have fraud and noncompliance with provisions of laws and regulations.
+ You have noncompliance with provisions of contracts and grants.
+ And then you have abuse.
+ And with all three of these, if it's material and it has a material effect on the financial statements, communicate it in the report.
+ If it has non-material or has a non-material effect on the financial statements, but warrants the attention of those charged with governance, communicate it in the report.
+ If it has a non-material effect or it doesn't warrant the attention of those charged with governance, then communicate it according to your judgment.
+ Again, there's no opinion required on the effectiveness of internal control or compliance.
+ GAGIS does not require auditors to express an opinion in the report on compliance.
+ And then there's the presentation of the report on compliance.
+ There's the views of responsible officials.
+ So if deficiencies in internal control are disclosed or if noncompliance, fraud, or abuse is reported, auditors should provide a draft of the report to responsible officials.
+ Then there's the handling of confidential information.
+ This should be omitted from the auditor's report with the omission disclosed.
+ And then a separate limited use report may be issued for authorized persons to read.
+ Then there's the distribution of the report.
+ It should be distributed to the appropriate officials, those charged with governance, oversight bodies, legal oversight authorities.
+ If you look in the NINJA book, you will see an example report on an audit of financial statements under GAGIS.
+ You will see an example report on internal control and compliance.
+ So I would take a look at those.
+ Just glance over them.
+ Definitely don't memorize them.
+ Our final topic is single audits.
+ The Single Audit Act of 1984 laid the foundation for single audits.
+ Before this legislation, non-federal entities that received federal funds were subject to multiple audits, each focusing on individual federal assistance programs.
+ It was very burdensome to the recipients.
+ So the Single Audit Act aimed to streamline and improve the audit process.
+ And it established the requirement for non-federal entities to undergo a single organization-wide audit, instead of multiple audits for each federal assistance program that they administered.
+ So what are single audits?
+ It's a specialized kind of audit procedure applied to these organizations that get federal assistance.
+ And single audits are applicable to non-federal entities.
+ The entity must be a state, local government, Indian tribe, non-profit organization, or higher education institution that spends federal awards.
+ And the entity must spend $750,000 or more in federal funds in a fiscal year.
+ And if they meet both of those criteria, non-federal, more than $750,000, then they fall under the Single Audit Act.
+ Let's talk about planning and preparation for single audits.
+ These are pivotal stages in the single audit process.
+ You have pre-audit planning, risk assessment, and engagement with stakeholders.
+ Under pre-audit planning, we have understanding the entity, which we already know about that.
+ We have selecting federal programs for audit.
+ Not all federal programs within an entity are audited.
+ Auditors select the major programs.
+ Then develop an audit plan, which outlines the audit's objective, scope, methodology, and timeline.
+ It's the roadmap.
+ So that's pre-audit planning.
+ Then we have risk assessment.
+ We identify the risks.
+ We assess the risks.
+ And then we plan our responses to the risks.
+ Then we engage with shareholders.
+ We communicate with the entity's management.
+ We engage with those charged with governance.
+ And then we are a liaison with previous auditors, if applicable.
+ Now to conduct a single audit, there are five steps.
+ Step one, identify federal awards.
+ Step two, understand compliance requirements.
+ Step three, test internal controls.
+ Step four, assess compliance with laws and regulations.
+ Step five, draft our audit findings.
+ Under step one, identify federal awards, we list all federal awards.
+ We verify the award information.
+ And then we determine the major programs, which will help us to identify which programs we want to audit.
+ Step two, we understand the compliance requirement.
+ We review federal compliance requirements.
+ And then we study program-specific requirements.
+ Step three, we test internal controls.
+ We evaluate the design of those controls.
+ We test their operating effectiveness.
+ And we document our control testing.
+ Step four, we address compliance with laws and regulations.
+ We perform compliance testing.
+ Then we identify and document any non-compliance.
+ Step five, we draft the audit findings.
+ We summarize any identified issues.
+ Then we write our audit report.
+ So here are the reporting requirements for single audits.
+ If it's an audit report, per Gagas, an opinion is required.
+ If it's a report on internal control, no opinion required.
+ If it's a report on compliance, no opinion required.
+ We're just stating what we did, but we're not issuing an opinion on internal control, not issuing an opinion on compliance.
+ If it's an audit, then we are issuing an opinion.
+ So those are for reports under Gagas.
+ And then additional reports that are required for single audits.
+ There's a schedule of expenditures of federal awards.
+ An opinion is required.
+ There's a report on compliance for each major program.
+ Opinion required.
+ There's a report on internal control, no opinion.
+ There's a schedule of findings and questioned costs.
+ And that's a required summary.
+ This includes audits of governmental organizations and single audits.
+ 

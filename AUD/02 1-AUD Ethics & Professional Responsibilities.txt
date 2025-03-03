@@ -1,0 +1,319 @@
+Ethics and professional responsibilities.
+ This section will primarily cover the AICPA Code of Professional Conduct.
+ Later on we'll talk about the focus on the Sarbanes-Oxley Act and then some other regulations.
+ But the AICPA Code of Professional Conduct is what we're going to focus on here.
+ And the AICPA Code of Professional Conduct sets the ethical standards for CPAs and it gives us a framework for resolving ethical dilemmas.
+ Like this is where the rubber meets the road.
+ With ethics and being a CPA it's not theoretical.
+ You cannot violate the AICPA Code of Professional Conduct and remaining in good standing as a licensed CPA.
+ So it's designed to help CPAs carry out their duties with professionalism, integrity, objectivity, and then ultimately serve the best interest of the public.
+ So there's several different parts of the AICPA Code of Professional Conduct.
+ There's the principal section, members in public practice, members in business, and all other members.
+ So beginning with the principal section, there's the responsibilities principle.
+ So a CPA has a responsibility to cooperate with other CPAs to improve the art of accounting, to maintain the public's confidence, and carry out the profession's high standards.
+ So it's very important that the CPA credential means something to the public.
+ Otherwise, you know, being a CPA doesn't mean much.
+ Public interest.
+ CPAs have an obligation to serve the public interest and honor the public trust and have a commitment to professionalism.
+ Integrity.
+ CPAs should perform all professional responsibilities with the highest sense of integrity.
+ Objectivity.
+ CPAs should be impartial, intellectually honest, and free of conflicts of interest.
+ Independence.
+ CPAs should be independent in both fact and appearance.
+ So the appearance part is very important.
+ And again, it's the public perception of the CPA designation.
+ It needs to mean a lot in the public interest because you want the public to trust CPAs because it's why a CPA should be able to command a premium in the marketplace serving clients versus, you know, just your standard bookkeeper or enrolled agent, et cetera.
+ Independence is required for audit and attest services.
+ Only.
+ Do care.
+ CPAs should uphold both the technical and ethical standards of the profession.
+ So passing the CPA exam does not mean that you're an expert.
+ You then go on and become an expert in your little area.
+ Like whatever you do.
+ Audit.
+ Or even drill down even further.
+ Governmental audit.
+ Or if you do taxes or specifically corporate tax or estate tax planning for oil tycoons in northern Ohio.
+ Like whatever you do, whatever your specialty is, be an expert.
+ Passing the CPA exam just means that you meet the minimum requirements to serve the public interest.
+ So you'll probably leave that out when you go home for Thanksgiving dinner.
+ Like, hey, I now meet the minimum requirements.
+ No, don't mention that.
+ Just tell them your CPA and just sit back and watch them marvel.
+ You'll probably leave that out.
+ Scope and nature of the services.
+ So ethical standards must be considered when considering the, when taking into account the scope and the nature of the services that a CPA should provide.
+ Like, if you cannot take on an engagement and with the utmost and the highest due care, you shouldn't take it.
+ Integrity and objectivity.
+ Integrity, this applies to members in public practice, members in business, and other members.
+ So integrity and objectivity implies the following.
+ Honesty, no conflict of interest, free from bias, impartial, no misrepresentation of facts, and the auditor's judgment.
+ Independence.
+ Independence is required for the following engagements.
+ Audits of the financial statements of issuers.
+ Audits of the financial statements of non-issuers.
+ So, just to be clear, issuers, it's like a public company, public-traded company.
+ Non-issuers, like just a private company.
+ Audits of interim financial statements.
+ Governmental audits.
+ Examinations, reviews, agreed upon procedures, and review services.
+ Some examples where independence is not required.
+ Consulting, tax services, valuation, accounting services, bookkeeping services, training services, preparation engagements, compilation engagements.
+ As a general rule of thumb, just kind of the way you think of it, if an outside party is going to be relying on the work to make a decision, like a bank making a decision about whether or not to extend credit, you need to be independent.
+ If it's more internal, it's preparing a tax return, just general bookkeeping services where an outside party is not going to be relying on you attesting to something, then it's not required.
+ Independence is not required.
+ So, covered members, this is your audit firm, audit team, all partners of the audit firm, or members with an influencing position in the firm, firm members providing more than 10 hours of non-attest services to the client, employee benefit plans of the audit firm, and the immediate family of covered members, so your spouse, related dependents, and unrelated dependents, and close relatives of a covered member, like parents, siblings, non-dependent children.
+ The duration of independence is sustained from the date the engagement letter is signed until the professional relationship's termination.
+ So, let's go over some threats to independence.
+ There's the adverse interest threat.
+ This is the threat where a member will not act with objectivity because the member's interests are opposed to the client's interest.
+ Advocacy threat.
+ When a member promotes or supports a client's interest or positions to such an extent, that the member's objectivity or independence is compromised.
+ Familiarity threat.
+ This is when a member becomes overly sympathetic to the client's interest or excessively accepting of the client's work or products which may jeopardize their objectivity.
+ So, you're working with a company and the CEO's just had a really tough go at home and you maybe let something slip or you give an opinion that's higher than you would normally, more favorable than you would normally.
+ Just, man, that's the last thing this guy needs right now is a negative, odd opinion, something like that.
+ So, when you become too familiar with the client.
+ Management participation threat.
+ This is when a member takes on the role of client management or assumes management responsibilities.
+ Making management decisions is a huge no-no for independence.
+ Self-interest threat.
+ A member, like the auditor, could benefit either financially or some other manner from an interest in or a relationship with the client or persons associated with the client.
+ If you own a bunch of stock in the company that you're auditing and you know that a bad audit report is going to tank the stock and consequently tank your own net worth, not good.
+ Self-review threat.
+ This is when a member is required to evaluate the results of a previous judgment made or a service provided by them or supervised by them.
+ You shouldn't be checking your own work.
+ Undue influence threat.
+ It's when the member's judgment is subordinated or compromised due to external pressures, coercion, or influences.
+ So, you're on the audit team and you get a phone call from a burner phone and they tell you which way they want you to go on the audit.
+ Safeguards against threats to independence.
+ So, those were the threats to independence.
+ These are the safeguards.
+ You have the profession-based safeguards, like the AICPA Code of Conduct.
+ CPE, continuing professional education.
+ By the way, once you're done with the CPA exam, little plug, come hit us up for Ninja CPE.
+ Okay, advertisement over.
+ Legislation is the final profession-based safeguard.
+ Then there's client-based safeguards.
+ You have your corporate governance structure.
+ You have your internal auditors and then your policies on hiring the audit firm personnel.
+ So, after they're done auditing you, do you hire them to come work for the company?
+ And then the audit firm-based safeguards.
+ You have your quality control, peer review, rotation of audit partners, and policies to limit non-audit services to audit clients.
+ Because you don't want to become so dependent on them from a revenue perspective that you don't want to tick them off as an audit client.
+ Independence impairment.
+ Independence is impaired by financial relationships.
+ So, you have direct financial relationships like owning stock, which I talked about before, and a general partnership interest.
+ Then you have your indirect financial relationships like shares and mutual funds, or a limited partnership interest.
+ So, you cannot have a material indirect financial relationship.
+ To say that an auditor can't own a mutual fund, that the company that they're auditing has some fractional percentage of in the mutual fund, like that's just not practical.
+ But that fund cannot be material to your net worth.
+ Now, contrast that with a direct financial relationship, material or immaterial.
+ If you have a direct financial relationship, you actually own stocks, that impairs independence.
+ But you can own a mutual fund.
+ If it's immaterial to the covered member's net worth.
+ Independence is impaired by loans.
+ So, this is compromised on a member, their firm, or a close relative has a loan or a guarantee to or from an audit client.
+ So, let's say you're auditing a company and they owe you money.
+ You don't want them going bankrupt.
+ Not good.
+ So, independence is impaired by loans.
+ But loans will not impair independence when they're grandfathered.
+ If they're in accordance with market terms and conditions, they're fully collateralized, there's no delinquency, and the original terms and conditions remain.
+ The following types of loans will not impair that independence.
+ Credit card debt with balances up to $10,000 per month and FDIC insured checking accounts.
+ Fully collateralized automobile loans.
+ So, that'd be if you're auditing a bank and you have your auto loan through the bank.
+ If it's fully collateralized, that's okay.
+ Loans fully collateralized by the cash surrender value of an insurance policy.
+ And loans fully collateralized by cash deposits at the same financial institution.
+ So, independence is impaired by gifts if they're more than a nominal value.
+ So, you know, a $10 Chili's gift card, whatever.
+ A $10,000 Chili's gift card probably impairs independence.
+ Independence is impaired by employment relationships.
+ So, when a client employee joins the audit firm and then participates on the audit or the attest engagement team or is in a position to influence the engagement and doesn't disassociate from the client.
+ Independence is also impaired when the audit firm member joins the client and is in a position to influence the firm's operations or financial policies or they participate or seem to participate in the firm's business in a consultancy role and then if that move happens within one year of leaving the firm.
+ It's not fair to say that an audit like a covered member can never, ever, ever work for a former client again but within one year impairs independence.
+ Independence is also impaired when the audit firm member discusses a job offer with a client or when the audit firm member's family is employed by the client or simultaneous employment with an audit firm and the client.
+ Independence is impaired by unpaid fees.
+ So, that's kind of like a loan.
+ Like, you don't want them going under because then, because then they'll go, like, you want them to eventually write you the check.
+ But, if the client owes you money, that's no good.
+ It impairs independence.
+ And, finally, independence can be impaired by unsolicited financial interests like you get gifted stock or inheritance and there's some things you can do.
+ You can promptly just dispose of it or if you're actually not even on the engagement or if it's immaterial.
+ Next, we're going to cover the types of business relationships that will impair the independence of the CPA.
+ So, any type of role in client management or oversight.
+ Providing non-audit services.
+ Examples will be bookkeeping, internal audit, etc.
+ Financial relationships, like accepting a contingency fee from a client.
+ A contingency fee is if this is successful, then you will pay X.
+ Any type of JV, joint venture with a client.
+ Or, litigation.
+ If you're involved in actual or potential litigation with a client, that will impair independence.
+ That right there is a good CPA exam question.
+ Well, they all are, but that'd be a good one.
+ Business relationships that don't impair independence, like a social membership.
+ Honorary positions.
+ So, you're an honorary trustee for a not-for-profit client, so it's just an honorary position.
+ Certain financial relationships, like if you hold an account at a bank that's FDIC insured.
+ And, in some cases, tax services for issuers.
+ And, these are permitted if they're pre-approved by the Audit Committee and disclosed to the SEC.
+ But, tax services related to aggressive tax positions for corporate officers and their immediate family members are prohibited, but you can provide tax services to members of the board.
+ The general standards apply to members in public practice and members in business.
+ And, they include professional competence, due professional care, planning and supervision, sufficient relevant data, and third-party providers.
+ Then, there's the compliance with the standards rule.
+ This applies to members in public practice and members in business.
+ And, basically members must adhere to the standards laid down by governing bodies.
+ So, for instance, audits of non-issuers, you must, a CPA, must adhere to the generally accepted auditing standards, GAS, they're issued by the AICPA.
+ For audits of issuers, the CPA must comply with the PCAOB standards, or international audits, the international standards on auditing, et cetera.
+ So, in addition to things like the AICPA Code of Professional Conduct, the CPA must adhere to the professional standards of the governing body that oversees whatever work they're doing.
+ Consulting, statements on standards for consulting services.
+ Tax, statements on standards for tax services.
+ Accounting standards rule.
+ This applies to members in public practice and members in business.
+ And, members in public practice and members in business must adhere to the recognized and prevailing accounting standards.
+ Confidentiality, this applies to members in public practice.
+ So, you, as a CPA, are required to not disclose any confidential information pertaining to clients outside of the audit firm.
+ Some exceptions are things like subpoenas, court orders, or quality reviews done by other CPAs.
+ Contingent fees, this applies to members in public practice.
+ Contingent fees are allowed for fees fixed by courts and representation in tax cases.
+ So, if we're successful, this.
+ They're not allowed for preparing tax returns.
+ So, representing in tax court, yes.
+ Preparing tax returns, no.
+ They're also not allowed for audits, reviews, attestation engagements, reviews, compilations.
+ Commissions and referral fees.
+ This applies to members in public practice.
+ Advertising is allowed unless it's false, misleading, or deceptive.
+ You cannot claim a guaranteed refund.
+ So, a CPA or a tax preparer can advertise.
+ You just can't, you can't be shady.
+ Forms of practices and names.
+ This applies to members in public practice.
+ Misleading names are not allowed.
+ And members in the AICPA.
+ You can't represent yourself as a member of the AICPA unless all of the owners are AICPA members.
+ Use of CPA designation in your name.
+ So, individuals can use the CPA designation after their name, but if they are employed in a position that does not require a CPA license, so they work in industry or government, they must also disclose their title.
+ I always put the state that I'm licensed in after my name, just to avoid any confusion.
+ So, I work near Kansas City.
+ Well, Kansas City, Kansas and Kansas City, Missouri are basically separated by a road.
+ And they're two different states, two different licenses.
+ So, I am licensed in Kansas.
+ So, I always put Jeff Elliott, comma, CPA, and in parentheses, Kansas.
+ Discreditable acts.
+ So, discreditable acts and the rules apply to all part one, part two, and part three members.
+ So, a part one member is a member in public practice, part two is for members in business, and part three is other members.
+ So, discreditable acts, these rules ensure that the members of the profession uphold the integrity, respect, and the reputation of the accounting profession.
+ So, this rule applies broadly to all members irrespective of their specific professional roles.
+ And so, the following acts are considered discreditable to the profession.
+ And some of them are pretty obvious, and some of them, well, most of them are pretty obvious, but they're just common sense things.
+ So, like discrimination.
+ So, if you treat someone unfairly based on race, gender, age, religion, et cetera.
+ Tax compliance, so failing to file tax returns on time, or not paying taxes when they're due.
+ That's a breach of your personal responsibility, your professional responsibility.
+ If you're negligent in your work, if you withhold client records.
+ So, even if they owe fees, they still have the right to their own records.
+ Confidentiality violations, fraudulent marketing, one that applies specifically to CPA candidates is solicitation and disclosure of CPA exam questions.
+ So, if you let someone know what's on the test, technically that is a discreditable act, so don't do it.
+ And question and answer sharing, so if you share questions and answers from your review course materials, unless the course allows you to do that through collaboration, that is an act discreditable.
+ So, don't share your CPA review materials.
+ Falsifying or misrepresenting attendance, so at a professional education class, I guess that's more for CPE, someday when you're a CPA.
+ Or tampering with administration or grading of any professional education course, so again, this gets into CPE, so that must be a problem.
+ People falsifying their CPE records, tampering, those are acts discreditable.
+ So, again, basically, just act with integrity and there's really nothing to worry about.
+ The only thing that maybe doesn't make sense, just right off the top, would be withholding client records.
+ Like, if they haven't paid, well, you know, why do you have to give them their stuff back?
+ Well, you do, even if they haven't paid, you have to give them their records back, because they own their own records.
+ So, those are acts discreditable.
+ So, let's move on to the Sarbanes-Oxley Act of 2002, better known as SOX.
+ So, this is super boring, but we're going to cover it just from a high-level overview, just listen.
+ Title I, Public Company Accounting Oversight Board, or the PCAOB.
+ And this established the PCAOB, and auditors for issuers, in other words, public companies must register for the PCAOB, which is empowered to establish and adopt standards related to auditing, attestation, quality control, ethics, and independence.
+ Audit papers are required to be retained for seven years, and engagement quality control review is mandated to ensure quality.
+ You've got to have routine inspections.
+ So, if you are, if the firm is auditing more than 100 issuers, these must be inspected annually.
+ Fewer than 100 issuers, inspected once every three years.
+ Could be a good question right there.
+ It's 100, just basically remember, 100 issuers or more annually.
+ Less than 100 issuers every three years.
+ The PCAOB holds the authority to conduct investigations.
+ And foreign accounting firms that audit US public companies are under the umbrella of the PCAOB, and this has SEC oversight.
+ Title II, Auditor Independence.
+ There's a restriction on non-audit services and the rotation of key audit personnel.
+ The primary audit partner and the review partner must rotate off the audit every five years.
+ And enhanced communication with the audit committee is required.
+ Critical accounting policies used.
+ Any alternative accounting treatments or any communications between the auditor and the management is required.
+ Title III, corporate responsibility.
+ You have your independent audit committee.
+ And on the audit committee, there must be a financial expert.
+ The audit committee hires the external auditors.
+ That's something to know.
+ And they also handle complaints.
+ Who hires the auditor?
+ The audit committee.
+ And there's the corporate responsibility for the financial reports.
+ And there's a prohibition on improper influence on the conduct of audits.
+ Title IV, enhanced financial disclosures.
+ So the disclosures and periodic reports.
+ Any material corrections from the auditor.
+ Any off-balance sheet transactions.
+ Any pro forma financial information.
+ There's a prohibition on personal loans to executives.
+ And then certain disclosure requirements for directors, officers, and principal stockholders.
+ The management's assessment of internal controls.
+ That's important.
+ And each issuer has to disclose in periodic reports whether or not they have adopted a code of ethics for their senior financial officers.
+ Any real-time disclosures.
+ And then finally, you have Title V, VI, and VII, which are analysis of the conflict of interest, SEC resources and authority, and studies and reports.
+ Then you have your Title VIII, corporate and criminal fraud accountability.
+ So there's criminal penalties for altering documents.
+ There's criminal penalties for destruction of audit records.
+ There's the statute of limitations.
+ So violations of security laws may be brought within two years after the discovery of facts constituting the violation.
+ Or five years after the violation, whichever event is earlier.
+ Then there's whistleblower protections.
+ There's criminal penalties for defrauding shareholders.
+ As we go through this, I'm just kind of generally going over it, but pointing out what I think is important.
+ Then there's white-collar crime penalty enhancements.
+ There's a penalty for officers who fail to certify the corporate financial reports.
+ So if it's a misstatement, $1 million or imprisonment up to 10 years or both.
+ Or willful default, $5 million or imprisonment up to 20 years or both.
+ Then there's Title X, corporate tax returns.
+ Title X, corporate fraud accountability.
+ Tampering.
+ So if you tamper with the records, fine or imprisoned.
+ But not more than 20 years.
+ Or both.
+ Just basically do what you're supposed to do.
+ Other laws and regs.
+ You have the Private Securities Litigation Reform Act of 1995.
+ This was to curb perceived abuses in security class action lawsuits.
+ Key provisions are enhanced auditor procedures and the reporting of illegal acts.
+ Then you have your Dodd-Frank Wall Street Reform and Consumer Protection Act.
+ Basically in the early 2000s, everything was a mess.
+ And so the big thing was there's no integrated audit for non-accelerated filers.
+ Then there's the Jump Starter Business Startups Act.
+ The Jobs Act.
+ There's so much just red tape.
+ This was to help just smaller businesses ease their paperwork to be able to issue securities to fund small businesses.
+ Then you have the SEC.
+ The key responsibilities are the SEC.
+ They oversee the PCAOB.
+ They can remove PCAOB members.
+ And then they require SEC Regulation SK.
+ Department of Labor.
+ It's responsible for ensuring the welfare of wage-earning workers.
+ And key provisions.
+ They establish guidelines to ensure CPAs who audit employee benefit plans are independent.
+ Very important.
+ Then finally you have the Governmental Accountability Office.
+ The GAO, their independent, supposed to be non-partisan agency that works for the US Congress.
+ And they basically audit the federal agencies.
+ And they investigate how the federal government spends taxpayer dollars.
+ Which is usually poorly.
+ This includes ethics and professional responsibilities.
+ 

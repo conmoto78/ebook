@@ -1,0 +1,493 @@
+Internal control.
+ Okay, as we go down our audit stage checklist, we had our pre-engagement acceptance activities, then our engagement letter, then our audit strategy and planning, and now we turn to our internal control evaluation.
+ So our internal control evaluation includes understanding the internal controls of the entity that we're auditing and documenting that understanding.
+ And it includes the testing of controls.
+ Now, why do we test their controls?
+ Because it can lead to a more efficient audit, because we can do less substantive testing.
+ Now, the framework for internal controls is governed by a body called COSO, the Committee of Sponsoring Organizations of the Treadway Commission.
+ Sounds like the organization that Jason Bourne was a part of.
+ I think that's Treadstone, though.
+ But the Treadway Commission.
+ So, I don't think you'll need to know a lot about COSO, but just in general, it was formed in 1985, it had a 1992 framework, and then an updated 2013 framework.
+ Members of COSO include the AICPA, the American Accounting Association, the Financial Executives International, the Institute of Internal Auditors, and the Institute of Management Accountants.
+ Now, some objectives of internal controls include ensuring effective and efficient operations, accurate and reliable financial reporting, and compliance with laws and regulations.
+ And the components of internal control make up the mnemonic crime.
+ The components of crime are control activities, risk assessment, information and communication systems, monitoring of controls, and then environment.
+ Control activities are the policies and procedures that are established to provide reasonable assurance that management directives to mitigate risk are, in fact, executed.
+ Now, control activities may be preventative or detective, and include traditional internal controls, such as processing, recording, improving, reconciling, all that.
+ They occur on a routine day-to-day basis throughout the organization, and at all levels to record the transactions and the events that create the financial statements.
+ So the controls fall into three categories, general controls, application controls, and physical controls.
+ So that's the C in crime is control activities.
+ And the R in crime is risk assessment.
+ So risk assessment is not just the identification and the evaluation of the significance of risk, but it's also how the risks are managed.
+ Now COSO says that risks relevant to financial reporting include external and internal events that may occur and adversely affect the achievement of the objectives of the financial reporting.
+ So that's risk assessment.
+ Then the I in crime is information and communication.
+ So this is the identification, retention, and transfer of information in a timely manner that enables personnel to execute their responsibilities.
+ So the quality of the information impacts management's capacity to make decisions to direct the entity's activities and to prepare the financial statements.
+ So communication includes obtaining, providing, and then sharing that information both internally and externally.
+ So that's I in crime.
+ The M is monitoring, which is a process that evaluates whether the five internal control components and the principles within each component are present and functioning.
+ It also includes initiating any appropriate corrective actions.
+ Finally, the E in crime is the environment or control environment.
+ But for the mnemonic, it's environment.
+ And it's the foundation for all other components of internal control.
+ So if you get a question, which is the foundation?
+ It's the environment.
+ Which makes sense.
+ It's the environment.
+ It's everything that's going on.
+ All of the activities are happening in the environment.
+ So you have to have an environment of internal control because it sets the tone of the organization and really sets the overall attitude for internal control.
+ Next, we will discuss the segregation of duties in internal control.
+ And they are custody, authorization, recording, and reconciliation.
+ So custody is custody over the assets.
+ They have control over them.
+ Authorization is approval of transactions affecting those assets.
+ Recording is the recording of such a transaction.
+ And then reconciliation is performing periodic reconciliations and verifications of authorized and recorded amounts.
+ One thing that should be noted when considering internal control is that like financial reporting, the cost cannot exceed the benefit.
+ So the cost of internal control cannot exceed the benefit of internal control.
+ So the cost of a procedure or a control objective cannot exceed the impact of the risk on the financial reporting, operational efficiency, or non-compliance with laws and regulations.
+ So again, the cost benefit analysis is a major consideration with internal control.
+ Now some limitations on internal control.
+ They are competence, collusion, management override, obsolescence, and cost constraints, which is what we just talked about.
+ So competence, human errors, humans make mistakes, judgment calls.
+ So human judgment in decision making is an inherent limitation because humans are valuable and they make mistakes.
+ Collusion, while segregation of duties may exist, if you have two parties who are in charge of separate duties and they are colluding, that may circumvent internal controls.
+ Management, they can override controls.
+ Obsolescence, so if technology gets outdated and internal controls are not updated, then things can go wrong, and then cost versus benefit like we just talked about.
+ Internal control deficiencies.
+ These include control deficiencies, significant deficiencies, and material weaknesses.
+ So a control deficiency exists when the design or the operation of the control does not allow management or the employees in the normal course of performing their assigned functions to prevent or detect a misstatement on a timely basis.
+ So the control doesn't do its job.
+ A significant deficiency is a deficiency or a combination of deficiencies in internal control that is less severe than a material weakness, yet important enough to merit attention.
+ And a deficiency is significant if it could adversely affect the company's financial reporting process and the critical processes that feed data and information to the financial reporting.
+ Then finally, material weakness, which is a deficiency or a combination of deficiencies in internal control that creates a reasonable possibility that a material misstatement of the company's annual or interim financial statements will not be prevented or detected on a timely basis by employees in the normal course of performing their assigned functions, and the existence of a material weakness precludes management from concluding that internal control is effective, which precludes the auditor from issuing an unmodified opinion that internal control is effective.
+ So a material weakness is a big deal, obviously.
+ Types of controls.
+ Types of controls include preventative controls, detective controls, corrective controls, directive controls, and compensating controls.
+ So preventative controls are used to prevent errors and misappropriation of assets.
+ These are beneficial because they prevent errors from entering the system because it's cheaper to prevent problems than to detect them and correct them after they're in the system.
+ An example would be a credit check on a potential new customer.
+ You want to know ahead of time whether or not they have bad credit.
+ A detective control detects errors and misappropriations after they occur.
+ So note the difference between preventative and detective.
+ Detective controls back up preventative controls by detecting errors after they've already happened.
+ So this example would be cameras like security cameras or bank wrecks.
+ Corrective controls serve to correct errors and bring the system back to where it should be.
+ Directive controls are controls that produce positive results for an enterprise.
+ So, for example, obtaining a minimum of five bids before issuing purchase orders.
+ Finally, compensating controls enhance the effectiveness of controls that are already in place.
+ An example would be a quality assurance program.
+ So those are the types of internal controls.
+ In the next section we will discuss the auditor's consideration of internal control.
+ And it really breaks down to is the auditor auditing an issuer or a non-issuer?
+ Because it makes a difference.
+ For non-issuers, for financial statements, the auditor gives an opinion on the financial statements and it's mandatory to perform substantive procedures, like a test of details and analytical procedures.
+ For internal controls of a non-issuer, the auditor does not give an opinion on the client's internal control.
+ It's optional to perform a test of controls.
+ Now contrast that with issuers.
+ And the financial statements are the job of the auditor for the financial statements is the same, issuer or non-issuer.
+ Issue an opinion and substantive procedures are mandatory.
+ But for internal control, while a non-issuer does not issue an opinion on internal control, for an issuer, the auditor does.
+ So an auditor for an issuer issues an opinion on the client's internal control.
+ And it's mandatory for an auditor of an issuer to perform a test of controls.
+ So to recap, issuers and non-issuers, it's the same for financial statements.
+ The auditor issues an opinion on the financial statements and substantive procedures are mandatory.
+ For internal control of non-issuers, no opinion, no test.
+ For issuers, opinion, test.
+ Okay, so now that we've discussed the difference between the auditor's role for controls, non-issuer versus issuer, now we are going to walk through what the auditor must do to test controls.
+ And obviously this is for an issuer.
+ So the first thing that the auditor will do is to assess inherent risks.
+ Inherent risk, which is to obtain an understanding of the entity and its environment, which includes obtaining an understanding of the company's objectives and strategies.
+ So what are they trying to achieve?
+ What risks are associated with those strategies?
+ Financial performance, so past and present financial health, revenue streams, profitability, cash flow, external environment, industry trends, regulations, competition.
+ The nature of operations, so the types of businesses, the products that are offered.
+ Are they pretty boring, pretty bland?
+ Are they pretty edgy?
+ You know, is it corn or is it crypto?
+ Ownership and governance, so the structure, the board of directors, etc.
+ Investments, any significant investments that have been made or will be made.
+ Financial structure, how they're funded, equity, debt.
+ And then finally, accounting policies.
+ So that was obtaining an understanding of the entity.
+ Now we'll move on to procedures to assess inherent risk.
+ They are analytical procedures, inquiries, and inspection.
+ So analytical procedures help to understand the client's business and identify trends or unusual trends or transactions that might need further investigation.
+ Inquiries are just conversations with key management, internal auditors, etc.
+ They can provide guidance into the entity's operations and their risks.
+ And then inspection, such as reviewing essential documents, articles of incorporation, bylaws, etc.
+ So those are procedures.
+ Then we document, finally, that understanding of the entity.
+ So it is required that the auditor document that they understand the entity.
+ Because the documentation serves as a basis for assessing inherent risks and then subsequently planning the nature, timing, and extent of the audit procedures.
+ So that was assess inherent risk.
+ Next, we're going to assess control risk.
+ And obtain an understanding of the entity's internal control.
+ So to assess control risk, an auditor should obtain an understanding of the entity's internal control and gain an understanding of the system through a two-fold process.
+ Which is evaluate the design of the controls and assess the implementation of controls.
+ So the procedures for understanding internal control are inquiries, walkthroughs, inspections, and observation.
+ So it starts with inquiries and allows the auditor to gather information.
+ But inquiries alone are not sufficient.
+ Next, we have walkthroughs.
+ So we have to look at the controls, which involve following a transaction and then tracing it through the system.
+ All the way from the system, all the way through the financial statements.
+ Then inspection.
+ The auditor performs an inspection of relevant documents, such as internal control manuals and documentation.
+ And then finally, observation, where the auditor just physically watches the controls being performed.
+ For internal control testing, there's something called the top-down approach.
+ Which is a methodology that helps the auditor to understand the overall control environment and its entity, starting at the financial statement level.
+ And then gradually focusing on account balances, transactions and disclosures.
+ And then finally, assertions.
+ So it begins with financial statements and components of the financial statements.
+ Which are like sales, cost of sales, operating expenses, cash, property, plant, and equipment.
+ Intangibles.
+ So we're testing for account balances, transactions, disclosures.
+ Then we move into the assertion level.
+ Completeness, existence, and occurrence.
+ Valuation and accuracy.
+ Rights and obligations.
+ Cut off.
+ Understanding or understandability and classification.
+ And then risks.
+ And then controls.
+ So that's the top-down approach.
+ Just on the exam, to remember the top-down approach, it just begins with the financial statements at the top.
+ And then flows down to the controls.
+ So first we assessed the inherent risk.
+ Then we assessed the control risk.
+ Now we are going to assess the risk of material misstatement, which is a combination of the inherent risk and the control risk.
+ So first we obtained an understanding of the entity and its environment for the inherent risk.
+ Then we obtained an understanding of the internal control, which is control risk.
+ And so the formula for risk of material misstatement is inherent risk, IR, times control risk, CR.
+ So the steps to assess the risk of material misstatement, you identify the risks.
+ So you review the financial statements, internal control operations, industry factors, and look at previous audits.
+ Then you consider the likelihood of identified risks and how likely it is that a material misstatement could occur in absence of the controls.
+ And then consider the magnitude of the impact on the financial statements.
+ And so if there is a material misstatement, how significant would it be in terms of potential impact?
+ And will that misstatement impact the decisions of the end user?
+ Which is ultimately the threshold for whether or not something is material.
+ If it impacts the financial statement user.
+ Then finally, the final step to assess risk of material misstatement is to determine if the identified risks are significant.
+ If they are significant enough that they require special audit consideration.
+ So these often include fraud risks, complex calculations, risks that are associated with significant accounting estimates.
+ Things like that.
+ So the implications of the risk of material misstatement.
+ So once it is assessed, then the risk of material misstatement is used to guide the scope, the nature of timing, and extent of the further audit procedures.
+ Which includes both tests of controls and substantive procedures.
+ Again, this is for an issuer.
+ So high levels of risk of material misstatement often result in more intensive testing.
+ Less reliance on controls.
+ Or a combination of both to gather sufficient appropriate audit evidence.
+ So if the risk of material misstatement is high, we do more testing, less reliance on controls.
+ If the risk of material misstatement is low, then we do less testing and more reliance on controls.
+ So then all of this helps us to determine our audit approach and the risk of material misstatement factors into that.
+ And so there's the non-control reliance approach and the control reliance approach.
+ The non-control reliance approach means that the internal controls are improperly designed and not operating effectively.
+ Don't test them.
+ Don't rely on them.
+ Don't test them.
+ Don't test them.
+ Don't test them.
+ Don't test them.
+ Don't test them.
+ So we perform the test of those controls because ultimately if we can rely on those it will provide for a more efficient audit.
+ So when we test our controls, we need to determine the nature, extent, and timing of those tests.
+ So the nature of the test of controls, we are performing tests to see how the controls were applied at relevant times during the period under audit.
+ And to see if they were consistently applied and to see who applied them.
+ So that's the nature.
+ Then the extent, are they automated controls?
+ Are they manual controls?
+ Automated controls have a smaller sample size, less frequent testing because it's assumed that there's been no changes in the system.
+ Manual controls, larger sample size and more frequent testing due to the higher susceptibility of inconsistency and errors.
+ So that was the extent.
+ Then there's the timing of the controls.
+ We can test controls during the interim.
+ If there's significant changes in the controls, then we do additional testing.
+ If there's no significant changes, we don't need to do any additional testing.
+ We test our controls during the previous audit year for non-issuers.
+ If there's been a change in the control, then the controls should be tested in the current year.
+ If there's no change in controls or if no significant changes have occurred, then the controls should be tested at least every third year.
+ If there are significant risks, then they should be tested in the current period.
+ For issuers, auditors are required to test controls each year for issuers.
+ So contrast non-issuers and issuers.
+ Issuers test them every year.
+ Non-issuers test them every third year if no significant changes have occurred.
+ Next are the procedures for testing of controls to determine operating effectiveness.
+ There's re-performance, inquiry, inspection, and observation.
+ Re-performance is when the auditor independently carries out the control procedure that was initially performed by the employee.
+ And re-performance provides the most reliable form of evidence because the auditor independently confirms the effectiveness of the control.
+ Inquiry is when the auditor interviews, asks questions, talks with people inside and outside of the entity.
+ Now, inquiries can be oral or written, but the evidence is less reliable than re-performance.
+ Inspection is when the auditor reviews documents, records, physical assets, and it's highly reliable.
+ So inspection is highly reliable, especially if the document is external.
+ So the auditor could sample purchase orders to ensure that they've been appropriately authorized and approved before the purchase was made.
+ Going back to re-performance, an example of that would be if the company's procedure for a billing clerk to match sales orders and bills of lading before generating invoices, the auditor could perform this control, they could re-perform the control by selecting a sample of invoices and verifying that they accurately match the corresponding sales orders and the bills of lading.
+ For inquiry, they can inquire about procedures for granting credit to new customers, for instance.
+ And then finally, there's observation.
+ So the auditor physically observes the control being performed.
+ So they could watch a warehouse employee to ensure that goods are dispatched in accordance with a valid sales order.
+ So again, of all of the procedures, re-performance is the most reliable form of evidence because the auditor actually does it.
+ That would make for a good CPA exam question.
+ So going back to the non-control reliance approach and the control reliance approach, this helps us to decide the nature, extent, and the timing of the audit procedures.
+ So for a non-control reliance approach, so we're just gonna ditch internal controls, we're not going to rely on it because they're not operating effectively, we don't trust them.
+ And so if we don't rely on controls at all, then we assess our control risk at a maximum.
+ It means we don't think or we have no trust that controls are going to prevent a material misstatement from happening.
+ And so control risk is at a maximum.
+ The risk of material misstatement is high because remember the risk of material misstatement is a combination of internal control, excuse me, inherent risk and control risk.
+ And so when control risk is at a maximum, then the risk of material misstatement is high.
+ And so we have a low threshold for detection risk.
+ And so that means that we are going to do more or fewer audit procedures.
+ The answer is more.
+ We are going to increase the nature, extent, and timing of our audit procedures.
+ And so we really have to dot our I's and cross our T's here.
+ That's for the non-control reliance approach.
+ For the control reliance approach, we believe that internal control is functioning properly.
+ And so therefore we test it.
+ And if controls are operating as they should be, then we assess control risk below the maximum, which means the risk of material misstatement is low, which means we have a high threshold for detection risk.
+ So detection risk has an inverse relationship with the risk of material misstatement.
+ Again, the risk of material misstatement is inherent risk times control risk.
+ And so if risk of material misstatement is high, then detection risk is low.
+ If risk of material misstatement is low, then detection risk is high.
+ Because detection risk is the one thing that the auditor can control.
+ So again, controls are operating effectively.
+ We assess control risk below the maximum, which means the risk of material misstatement is low.
+ So we have a high detection risk.
+ So are we going to increase or decrease the nature, extent, and timing of the audit procedures?
+ Correct.
+ Decrease.
+ Decrease.
+ I'm sure you said that.
+ So when controls are operating effectively, we're going to do fewer audit procedures.
+ It's a more efficient audit.
+ If controls are not operating effectively, we assess control risk at maximum.
+ So what does that do to the risk of material misstatement?
+ High.
+ What does that do to our detection risk?
+ Low.
+ Low.
+ What does that do to our nature, extent, and timing of the audit procedures?
+ You got it.
+ Increase.
+ Good job.
+ Okay, so now we're going to get into the weeds a little bit on transaction cycles.
+ Just hang with me.
+ The journey will be worth it.
+ I promise.
+ So the transaction cycles that we will discuss include revenue cycle, cash receipts cycle, expenditure cycle, inventory cycle, personnel and payroll cycle, investing cycle, property, plant and equipment cycle, and the financing cycle.
+ So we begin with the revenue cycle.
+ And it starts with the customer sending a purchase order to a vendor.
+ And then the sales department receives the purchase order from the customer.
+ The sales clerk will prepare the sales order from the purchase order and then forward it to the credit department.
+ And then the credit department receives the sales order from the sales department.
+ And they will do a credit check on the customer and then approve or disapprove the sale.
+ If the sales order is disapproved, then the sale is rejected.
+ If it's approved, then the sales order is prepared in triplicate, sent to shipping, billing, and accounting.
+ Then the shipping department receives the approved sales order and will ship the inventory to the client.
+ The bill of lading prepared by the shipping team is sent to the client and the billing department.
+ Then the billing department, which is for record keeping, receives the approved sales order and the bill of lading.
+ And they prepare an invoice and send it to the client.
+ The billing team prepares the sales journal and the sales summary and updates the accounts receivable master file.
+ And then the accounting department records the sales in the general ledger.
+ That's the revenue cycle.
+ Then there's the cash receipt cycle.
+ So the customer sends a check and the remittance advice, the little stub.
+ Then the mail room takes custody.
+ They receive the check and the remittance advice, the stub.
+ They separate the checks and the stubs.
+ Then they prepare a check listing summary for the checks and send it to the cashier, AR, and accounting.
+ Then they send the stubs to AR.
+ Then the cashier then has custody.
+ They receive checks and the check listing summary from the mail room.
+ And then they deposit the checks and prepare a check deposit summary and send it to AR and accounting.
+ And then AR is not custody, it's record keeping.
+ AR receives the stubs and the check listing summary, the check deposit summary, and they prepare a cash deposit summary and they update the AR master file.
+ Then the accounting department, also record keeping.
+ They update the general ledger.
+ So that was the cash receipts cycle.
+ That was cash in.
+ Now we're ready for the opposite.
+ Cash out for the expenditure cycle.
+ So the requisition department prepares a requisition.
+ Then the department head or any other approving authority, they approve it.
+ And then it's sent across to the procurement department.
+ Then the procurement department receives the approved requisition.
+ They prepare a purchase order, send it to vendors, AP and receiving.
+ And based on the purchase order, the procurement department invites various quotes from different vendors.
+ They select the best vendor and then they negotiate the terms and conditions of the purchase.
+ And then they authorize the purchase.
+ Then the receiving department, which takes custody, they receive a blind copy of the purchase order.
+ And the purchase order is sent to the receiving department.
+ It excludes the quantity of goods ordered.
+ It's called a blind copy to avoid the possibility of the receiving clerk knowing or relying on the purchase order quantity.
+ Therefore, the receiving clerk is forced to independently count the goods received from the vendor to prepare the receiving report.
+ They receive and count the inventory.
+ They prepare the receiving report and send it to AP.
+ Then AP receives a voucher, which is the approved requisition.
+ So it's what was requested.
+ The purchase order, what was ordered.
+ The receiving report, what was received.
+ The invoice, what was billed.
+ The AP performs a three-way match.
+ It approves the voucher for the payment and sends the approved voucher to the treasury team.
+ Then they update the purchase journal, the purchase summary, and the AP master.
+ Then the treasury department, which is a custodian, they receive an approved voucher and they pay the voucher.
+ Package it, stamp it, and stamp it paid to avoid double payment.
+ Then they send the checks or the stubs to the AP master.
+ Then the accounting department updates the general ledger.
+ That was the expenditure cycle.
+ Now the inventory cycle is a combination of elements in the expenditure cycle and the revenue cycle, which I'm not going to re-discuss in this audio.
+ I'm sure your ears and brain will thank me for that.
+ But the inventory cycle involves the procurement department, which is authorization, and the receiving department, which is custody, which was discussed in the expenditure cycle.
+ And then the warehousing department, which is custody, and the shipping department, which is custody, which was discussed in the revenue cycle.
+ Then we have the personnel and the payroll cycle.
+ So the payroll department, which is record keeping, they receive a pay rate authorization form from HR.
+ They receive approved time records from production department.
+ They prepare a check and they send it to treasury.
+ They update the employee records in the payroll journal and they prepare a payroll summary.
+ That's the payroll department.
+ Then the treasury department, which is a custodian, signs the checks and they hand it to the employees.
+ Then the accounting department updates the general ledger.
+ So those were the transaction cycles we covered.
+ It was a lot for an audio and I did my best to not make it too crazy.
+ So this is all in the Ninja book and the Ninja notes as well.
+ But again, the transaction cycles were revenue, cash receipts, expenditures, inventory, personnel and payroll, and then investing, PP&E, and financing, which we didn't discuss the final three for the audio.
+ And so big picture, why did we just cover all that?
+ Because we're talking about internal control and segregation of duties.
+ So just real quick, going back to the transaction cycles.
+ Revenue cycle, you have the customer, then the sales department, which is authorization.
+ Credit department, authorization.
+ Shipping, custody, billing, record keeping, accounting, record keeping.
+ Then we have the cash receipts cycle.
+ We had mail room, custody.
+ Cashier, custody.
+ AR, records.
+ Accounting, records.
+ Then the expenditure cycle.
+ We had the procurement department, authorization.
+ Receiving department, custody.
+ AP, records.
+ Treasury, custodian, custody.
+ Accounting, records.
+ So that all factors into internal control.
+ Receiving, custody.
+ Warehouse, custody.
+ Shipping, custody.
+ Then the personnel and payroll cycle.
+ Payroll, records.
+ Treasury, custody.
+ Accounting, records.
+ So, that all factors into internal control.
+ And that's why we covered it in this section.
+ So, the final topic is internal control deficiencies and communications.
+ So, first we're going to discuss types of deficiencies.
+ First, there's a design deficiency.
+ So, the control just wasn't designed properly.
+ And even if the control operates as intended, it won't effectively do what it's supposed to do because it was poorly designed.
+ Then there's an operating deficiency.
+ It was designed properly, but it just doesn't work.
+ It's not operating as intended.
+ It could be because the person running it doesn't know what they're doing, et cetera.
+ So, there's design and then there's operating deficiencies.
+ Then there's levels of deficiency.
+ There's a control deficiency, which is the lowest.
+ This is when the design or the operation of control doesn't prevent or detect or correct misstatements on a timely basis.
+ However, the impact is generally low and may not significantly affect the financial statements.
+ While these are not urgent, they should be addressed to improve the overall effectiveness of internal control.
+ So, that's a control deficiency, it's low.
+ A significant deficiency is medium.
+ It's more severe, but it's less severe than a material weakness, it's in the middle.
+ It merits the attention of those in charge with governance because it can become more serious over time and immediate action is usually required.
+ So, a control deficiency, not urgent.
+ Significant deficiency, immediate action.
+ A material weakness is a big deal.
+ It's a severe deficiency or a combination of deficiencies that create a reasonable possibility that a material misstatement exists in the financial statements.
+ It's a critical issue that requires immediate attention and correction and it often requires a disclosure in the financial statements and it could impact the overall audit opinion.
+ So, for internal control communication, there's three types of audits that we're going to discuss now.
+ There's the audits of financial statements for non-issuers.
+ There's the audits of financial statements and internal control for non-issuers.
+ Then there's the audits of financial statements and internal control for issuers.
+ For the first one, audits of financial statements, non-issuers.
+ For control deficiencies, we don't have to discuss it with management or those charged with governance because we are only auditing the financial statements.
+ If a significant deficiency is found, again, there's three levels.
+ Control, significant, and material.
+ If a significant deficiency is found, then we have to tell management within 60 days of the audit report.
+ We have to do it in writing.
+ Those in charge of governance, 60 days.
+ Material, within 60 days in writing.
+ For management and those in charge of governance, within 60 days.
+ So the key takeaway here is for a financial statement audit, for non-issuers, if it's a controlled deficiency, no communication.
+ Significant or material, 60 days.
+ Next is an audit of financial statements and internal control, non-issuer.
+ Control deficiency, again, this is the lowest.
+ Control deficiency, management, 60 days.
+ Oral or writing.
+ Those charged with governance, nothing.
+ If it's a significant deficiency, management, by the audit report release date in writing, those charged with governance, by the audit report release date in writing.
+ Same with material weakness, by the audit report release date in writing, and that's for management, those charged with governance, by the audit report release date, in writing.
+ So, for an audit of financial statements and internal control, for non-issuers, controlled efficiency, 60 days.
+ Significant and material audit report release date.
+ Finally, audits of financial statements and internal control, issuers, controlled efficiency, for management, audit report release date, oral or writing.
+ Which is the same as a non-issuer.
+ Also the same as a non-issuer, those charged with governance, no communication required.
+ Again, this is for a controlled efficiency.
+ So, for a controlled efficiency, non-issuer and an issuer, it can be oral or writing.
+ And that's to management, and no communication required for those charged with governance.
+ Again, we're on financial statement and internal control for issuers.
+ If there's a significant deficiency, management, audit report release date, in writing, those charged with governance, same thing, in writing, audit report release date.
+ Material weakness, management, same thing, audit report release date, in writing, those charged with governance, audit report release date, in writing.
+ Final topic, internal controls at service organizations.
+ And I might have said that the last section was the final topic.
+ This time I really mean it.
+ SOC engagements are assessments performed by independent auditors to evaluate and report on the design and the effectiveness of a service organization's controls, processes, and security measures.
+ They provide assurance to customers and other stakeholders that the organization has implemented appropriate controls to mitigate various risks like data breaches, unauthorized access, or loss of data.
+ So I think we need to define what a service organization is.
+ It's a company that provides services to other businesses, often involving the management, processing, or storage of data and information.
+ Think of like Dropbox.
+ These services include but are not limited to IT services or cloud computing, payroll processing, data center management, et cetera.
+ Due to the nature of the services provided, service organizations, they have access to a sense of information, which is why this is a big deal in the systems of their clients.
+ And so as a result, the security, availability, processing integrity confidentiality, privacy, all of that good stuff offered is paramount and important to user entities.
+ So think about AWS, the Amazon cloud deal.
+ Think about how much sensitive data that is in there.
+ It's a really big deal that everything's locked down.
+ So to provide assurance to clients and other stakeholders regarding the effectiveness of their internal controls, service organizations often undergo SOC audits and they are conducted by, you guessed it, CPAs.
+ So that's the service organization.
+ So that's Dropbox.
+ That's Amazon, AWS, et cetera.
+ The user organization is the entity that contracts the service to perform services on its behalf.
+ So they rely on the service organizations to manage, process, or store their data and handle specialized tasks that are integral to their operation.
+ So in the context of SOC reporting, a user organization may require assurance that the service organization's internal controls related to the services provided are effective, secure, and reliable.
+ To address these concerns, the service organization will undergo a SOC audit conducted by CPA and the various types of SOC reports, there's SOC 1, SOC 2, and SOC 3, they provide an assessment of the control environment which helps build trust and it's for regulatory compliance, et cetera.
+ Next, we're going to dive into the different SOC reports.
+ So there's SOC 1, also known as an SSAE, Statement on Standards for Attestation Engagement, 18 report.
+ It's an audit report that focuses on the organization's internal controls relevant to a user entity's financial reporting.
+ SOC 1 reports are prepared by auditors of the service organization to provide assurance about the design and operating effectiveness of the internal controls and they provide information and they provide information about the quality of the controls and they help the organization make outsourcing decisions and assess their overall quality.
+ Service orgs that handle financial data and process data for user entities like payroll processors, loan servicers, data center providers, these are the primary candidates for a SOC 1 report.
+ SOC 1 report generally includes business process controls and information technology controls.
+ So there's two types of SOC 1 reports.
+ There's type 1 and type 2.
+ For type 1, the focus is on internal controls.
+ Type 2, the focus is on the design and operating effectiveness of the internal control.
+ For a type 1, it assesses the suitability and effectiveness of the controls as well as a type 2.
+ A type 1 report is a specific point in time.
+ A type 2 report is over a period of time.
+ So that was SOC 1.
+ So again, who would use a SOC 1 heavy processing for payroll, data center, et cetera?
+ SOC 2 focuses on non-financial reporting controls as they relate to security, availability, processing integrity, confidentiality, and privacy of a system.
+ This report is based on the AICPA's trust services criteria.
+ So SOC 2 reports address the broader aspects of the control environment and are applicable to a wide range of organizations like cloud service data centers, SaaS, software as a service companies, activities, et cetera.
+ SOC 2 report includes typically a description of the service organization system, the trust services criteria, control objectives and activities, and tests of controls.
+ Like SOC 1, there are two types of SOC 2 reports, type 1 and type 2.
+ The focus of a type 1 report is the design of the internal control.
+ The focus of a type 2 is the design and operating effectiveness of the internal control.
+ And for type 1, its focus is on a specific point in time, type 2 over a period of time.
+ Finally, a SOC 3 report.
+ It's similar to a SOC 2 but it's for general use and available to the public.
+ They provide assurance about the security, availability, processing integrity, confidentiality, privacy, and SOC 3 is based on the AICPA's trust services criteria, just like SOC 2.
+ and the main purpose is to provide a simplified publicly available document that can be used to demonstrate the service organization's commitment to maintaining a robust control environment.
+ It's all about their reputation.
+ A SOC 3 report typically has the description of the service organization system, their trust services criteria, and the auditor's opinion.
+ This concludes internal control.
+ 

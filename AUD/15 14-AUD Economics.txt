@@ -1,0 +1,343 @@
+Economics.
+ In this session, we're going to cover microeconomics and macroeconomics.
+ And let me just say from the beginning, I cannot promise that I will maintain a consistent pronunciation of economics or economics, but I can promise I will do my best to make this as helpful as possible for passing the CPA exam.
+ Economics is the study of the allocation of scarce resources among alternative uses.
+ Microeconomics is the study of the decisions that individual units, such as firms and households, make when using limited resources to maximize satisfaction.
+ By comparison, macroeconomics is the study of community.
+ In other words, aggregate decisions about allocating resources like labor and capital to maximize social welfare.
+ Microeconomics focuses on individuals, whereas macroeconomics focuses on the economy as a whole.
+ We begin with demand and the demand curve.
+ Demand is the amount of a good that consumers as a group are willing and able to purchase at a given price during a given period of time.
+ Demand analysis concentrates on consumer behavior.
+ The price and quantity demanded for a good or service are related inversely.
+ That is, the lower the price, the higher the demand.
+ The higher the price, the lower the demand.
+ Change in quantity demanded due to a change in price results in a movement along the demand curve.
+ And again, the price and quantity demanded for a good are related inversely.
+ So as the price increases, the quantity demand decreases, resulting in leftward movement along the demand curve.
+ As the price decreases, quantity demanded increases, resulting in rightward movement along the demand curve.
+ A shift in a demand curve is due to a change in factors other than price.
+ A rightward shift in the demand curve or an upward shift implies an increase in the demand without any change in price, whereas a leftward shift or a downward shift in the demand curve implies a decrease in the demand without any change in price.
+ And just to see all this visually, you can look in the ninja book.
+ Factors leading to a shift in the demand curve.
+ With normal goods, as income increases, demand for a normal good increase.
+ As income decreases, demand for a normal good decreases.
+ For inferior goods, as income increases, demand decreases.
+ And for an inferior good, as income decreases, demand increases.
+ So what's a normal versus inferior good?
+ To put it in simplistic terms, a normal good is a good that you would normally buy.
+ An inferior good is a good that you only buy because you can't afford a normal good.
+ So for example, when my family buys hot dogs, we like to buy the Hebrew National Hot Dogs because they're not full of all of the filler that you don't like to think about that's included in cheap hot dogs.
+ But if we fell on hard times, then we would probably buy the hot dogs that are gross.
+ So, which would be an inferior good.
+ Then there's the price of substitute goods.
+ When the price of a substitute increases, demand increases.
+ When the price of a substitute decreases, demand decreases.
+ As an example, some of you know, in addition to having 10 kids, if you didn't know that, I have 10 kids, we also live on kind of a hobby farm.
+ We have some acreage and we have goats.
+ I did not want to be a goat farmer, but I wanted to teach my kids some responsibility and have chores and take care of stuff.
+ And so we got into goats and we had, we bought five goats and then the next time I looked out the window, we had 60 goats.
+ Funny how that happens.
+ Now, at one point, we had so many goats that it was just too much for our fields and for our barn that they sleep in and such.
+ And so we needed to take some of them to auction.
+ Now, when we took them to auction, they brought a much higher price than what I expected they would.
+ Why is that?
+ The price of beef was sky high.
+ Now, from the perspective of goats, beef, which is a substitute, had increased.
+ The price of the substitute had increased, which increased the demand for goat because people no longer wanted to pay such a high price for beef, so they were looking for alternatives, which was goat and whatever else.
+ As the price of beef decreases, then demand for goats would decrease and they would not bring as much at auction.
+ Then there's the price of complement goods.
+ As the price of a complement increases, demand decreases.
+ As the price of a complement decreases, demand increases.
+ So many of us love to stop by our favorite coffee shop and get a latte or whatever it is.
+ And many of those drinks, many of those coffee drinks, include milk.
+ As the price of milk, which is a complement to coffee, increases, then demand for coffee decreases.
+ As the price of a complement decreases, demand increases.
+ So as the price of milk increases, fewer people want to buy lattes.
+ As the price of milk decreases, more people are willing to buy lattes.
+ Then there's market size.
+ As the market size or population increases, demand increases.
+ As the market size or population decreases, demand decreases.
+ An example of this would be mortgage rates for housing.
+ When mortgage rates get low, then it allows more people to enter the home buying market and there's a finite number of houses that can either be built or can be sold, resold.
+ And so it increases the demand on the housing market causing prices to go higher.
+ And we've seen that.
+ As interest rates go up and people leave the home buying market, then it causes demand to go down because the market size or population is decreasing causing fewer people to want to buy homes.
+ Then there's expectations of future price.
+ If it's expected that prices will increase in the future, then current demand will increase.
+ If it's expected that prices will drop in the future, then current demand will decrease.
+ And we've all seen that.
+ When it's known that a price will go up, then people will buy it.
+ If it's known that a price will drop, well, why would someone buy it right now?
+ They'll just wait.
+ Then there's consumer preference.
+ Consumer taste or preference influences demand.
+ Consumer preference is perhaps the least predictable determinant.
+ For example, in the late 90s when I was in college, I couldn't imagine walking into a Walmart electronic section and seeing records like vinyl.
+ They're located in a prominent place.
+ or walking into Best Buy and seeing vinyl.
+ Back in the 90s, it was all CDs and records and vinyl.
+ It was a very fringe product.
+ Today, everyone's a hipster.
+ Everyone likes vinyl again.
+ And if you look at the prices of records, it's insane.
+ It's like 50, 100 bucks.
+ And so consumer preference has shifted.
+ In the 90s, in the late 90s, records were like 10 cents a piece at a garage sale.
+ Today, you'll have people scouring garage sales and estate sales looking for vinyl because consumer tastes have shifted.
+ Our next topic is elasticity of demand.
+ Elasticity is a measure of how responsive the market is to a change in a determinant.
+ When a good is a luxury, it can be removed entirely as needed.
+ So demand is very sensitive to price.
+ Therefore, elasticity would be high.
+ When a good has a large number of substitutes, the chances are that a cheap alternative will be found and used in response to a price increase.
+ This means that elasticity would be high.
+ In other words, responsive to a change in price.
+ When a large percentage of income is spent on a good, consumers are willing to spend more time finding substitutes.
+ As such, elasticity would be high.
+ In the long run, more substitutes can be found than in the short run.
+ If the cost of the item is low, then a price increase provides little incentive to switch to a substitute good.
+ Therefore, elasticity would be low.
+ Necessities, by definition, have a low price elasticity as their demand is not changed even with the change in price.
+ Government regulation of prices could occur with either high or low price elasticity.
+ Our next topic is price elasticity of demand, which measures the responsiveness of demand to changes in price.
+ Price elasticity of demand is the percentage change in quantity demanded divided by the percentage change in price.
+ If demand is elastic, so imagine a rubber band stretching, demand will fluctuate as the price changes.
+ If demand is inelastic, demand will not change as the price changes.
+ So again, if demand for a good is elastic, then a change in price will impact the demand for that good.
+ If demand for a good is inelastic, then a change in price will not impact the demand for that good.
+ So again, the formula algebraically, the formula for price elasticity of demand is the percentage change in quantity demanded divided by the percentage change in price.
+ So if demand for a product is elastic, which means the price elasticity of demand is greater than one, it implies that for a given percentage change in price, there is a higher percentage change in demand.
+ This means that, for example, a 1% increase in price would lead to more than a 1% reduction in quantity demanded, such that the overall revenue, price times quantity, would decrease when there is an increase in price and vice versa.
+ If the demand for a product is inelastic, which means price elasticity of demand is less than one, it means that for a given percentage change in price, there is a lower percentage change in demand, meaning a 1% increase in price would lead to less than a 1% reduction in quantity demanded so that overall revenue, price times quantity, would increase when there is an increase in price and vice versa.
+ If demand for a product is elastic, which means that price elasticity of demand equals one, it means that for a given percentage change in price, there is an equal percentage change in demand, and overall revenue, price times quantity, would remain when there is a change in price.
+ So, again, if demand for a good is elastic and there is an increase in price, revenue decreases.
+ If there is a decrease in price, revenue increases.
+ If demand is inelastic, an increase in price increases revenue, and a decrease in price decreases revenue, and for an elastic good, an increase or decrease in price doesn't change total revenue.
+ You should know that for the exam.
+ If it's inelastic, raising the price decreases revenue, decreasing price increases revenue.
+ If it's inelastic, increasing the price increases revenue.
+ Decreasing the price decreases revenue for inelastic.
+ Let's do an example.
+ We want to calculate the price elasticity if the quantity demanded is reduced from 5,000 units to 4,000 units when the price increases by 10%.
+ So, first, we need to find the percentage change in quantity demanded.
+ And I'm sure you've already done the math in your head.
+ 5,000 minus 4,000 is 1,000.
+ That's in the numerator.
+ And then in the denominator is 5,000 because it's the old quantity.
+ So, 1,000 divided by 5,000 is 20%.
+ That's the percentage change in quantity demanded.
+ Then our percentage change in price is 10%.
+ So, 20% divided by 10% is 2.
+ So, price elasticity of demand is 2.
+ And so, since it's more than 1, it implies that for a 1% change in price, there's a 2% change in demand.
+ Then there's cross-elasticity of demand which measures the responsiveness of demand to changes in the price of another good.
+ So, if cross-elasticity of demand is positive, the goods are substitutes.
+ If it's negative, the goods are complements.
+ If it's equal to zero, the goods are unrelated.
+ Then there's income elasticity of demand.
+ Income elasticity of demand measures the responsiveness of demand to changes in income.
+ If income elasticity of demand is positive, the good is normal.
+ If it's negative, the good is inferior.
+ Which is a more technical definition than what I gave earlier.
+ But I like mine better.
+ So, that's price elasticity of demand.
+ Our next topic is supply and the supply curve.
+ The price and quantity supplied for a good are related directly.
+ That is, the higher the price, the higher the supply.
+ The price increase and supply increase and its direct relationship may not make logical sense until you think about profitability.
+ As prices rise and demand stays the same, supply must increase because the products are much more profitable.
+ And you can visualize this again in the ninja book.
+ movement along the supply curve.
+ A change in quantity supplied due to a change in price results in a movement along the supply curve.
+ The demand and quantity supplied for a good are related directly.
+ The higher the price, the higher the quantity supplied.
+ So, as the price increases, the quantity supplied increases and there's a rightward movement along the supply curve.
+ As the price decreases, the quantity supplied decreases and there's a leftward movement along the supply curve.
+ A shift in a supply curve is due to a change in a factor other than price.
+ A rightward shift in the supply curve implies an increase in the supply without any change in price whereas a leftward shift or upward shift in the supply curve implies a decrease in supply without any change in price.
+ Some factors that lead to a shift in the supply curve.
+ Number of products.
+ As the number of producers increase, the supply increases.
+ As the number of producers decrease, supply decreases.
+ So, more companies that enter the market, there's more goods of that type out there.
+ 20 years ago in the CPA review industry, there was like three or four brands in the space.
+ If you wanted CPA review materials, your options were pretty limited.
+ 20 years later, the number of companies has greatly increased in the CPA review market and the supply of CPA review materials has greatly increased.
+ If you don't like one company, there's 10 others.
+ But there's only one ninja.
+ Never forget that, right?
+ Government subsidies.
+ As subsidies increase, supply increases.
+ As subsidy decreases, supply decreases.
+ Why?
+ Well, because it's free money.
+ And so, it helps upstarts to enter a space when they get government money.
+ We've seen this recently in the category of renewable energy suppliers.
+ production cost.
+ As production cost increases, supply decreases.
+ As production cost decreases, supply increases.
+ Because as production costs decrease, products become more profitable.
+ As a result, new suppliers want to enter the market and get these extra profits.
+ Or expectations of future price.
+ If it's expected that the price will increase in the future, then the current supply will decrease.
+ If it's expected that the price will increase in the future, current supply will increase.
+ An increase in the expected future price for a good encourages firms to supply less at the current stage and just wait it out.
+ price of related goods.
+ Other goods sold by a company are referred to as related goods.
+ An increase in price for another product sold by the company encourages the company to divert resources to the production of that other product, thereby reducing the supply of the product in question.
+ a decrease in price for another product sold by the entity encourages the company to divert resources from that product to the new product, which increases the supply of the product in question.
+ So basically, all of this is from the supplier or the company's perspective.
+ Technological advancements.
+ technological improvements in the production of a good increase the supply of that good.
+ An example would be economies of scale due to mass production.
+ Think about the auto industry.
+ Our next topic is elasticity of supply.
+ Price elasticity of supply measures the responsiveness of supply due to changes in price.
+ Algebraically, it is the percentage change in quantity supplied over the percentage change in price.
+ Very similar to the price elasticity of demand.
+ So that wraps up microeconomics.
+ We now move into macroeconomics.
+ And I think I've said micro and macroeconomics two different ways now.
+ You can almost make a drinking game out of it.
+ Macroeconomics is concerned with the decisions about the economy as a whole and not at the individual level.
+ It studies how markets, businesses, consumers, and the government at an aggregate level behave.
+ Macroeconomics studies concepts such as interest rates, inflation, price levels, GDP, national income, business cycles, and unemployment and their respective impacts on the overall economy.
+ There are some basic economic theories.
+ They include classical economics, which believe that markets are self-regulating.
+ Classical economics advocate free markets with no governmental intervention of any kind.
+ Then there's Keynesian theory, which allows the use of fiscal policies such as increasing or decreasing taxes and government spending to regulate the economy.
+ Then there's monetarist theory, which allows for the use of monetary policies such as increasing or decreasing the reserve ratio, the discount rate, and open market operations in order to regulate the economy.
+ Then there's supply-side theory, which believes cutting taxes leads to stimulating work, savings, and investments, and restores the incentive to the economy.
+ So supply-side theory advocates decreased regulation and taxes.
+ Supply-side theory believes that a progressive tax structure is a disincentive to increased investment.
+ Cuts in taxes will produce a recovery due to an increase in aggregate demand and increased motivation for investment.
+ Supply-side theory holds that increased income would result in the same aggregate tax revenues despite lower tax rates, so spending cuts are not needed.
+ If you've ever heard of the term trickle-down economics, that is supply-side theory.
+ Finally, New Keynesian Theory, which is a combination of Keynesian and monetarist economic theories.
+ New Keynesian Theory advocates using both fiscal policy and monetary policy to regulate the economy.
+ Our next topic is inflation and deflation.
+ Inflation is an increase in the general level of prices.
+ It's measured using the CPI, the Consumer Price Index.
+ The CPI is a comparison of the price of items in a typical shopping cart to a base value over time.
+ Hyperinflation is a situation where prices increase at a dramatically fast rate and deflation is a decrease in the general level of prices for goods and services.
+ Inflation can be of two types, demand pull and cost push.
+ We will begin with demand pull inflation.
+ Inflation is caused by excess aggregate demand for goods and services.
+ Usually, excess aggregate demand is deemed to be due to expansionary fiscal policy, which means additional government expenditures.
+ Increase in demand leads to an increase in both price and quantity, thus causing both inflation and an increase in GDP, gross domestic product.
+ That's demand pull.
+ Cost push inflation is an increase in production costs that lead to a decrease in the aggregate supply, thereby causing the price to increase through inflation and reducing the quantity, which further leads to a contraction of GDP.
+ Our next topic is unemployment.
+ Full employment theoretically exists when all individuals willing to work at market wages are employed at tasks that use their skills.
+ The unemployment rate is the percentage of people who are actively looking for employment but are not employed.
+ Unemployment results in foregone output.
+ Its economic costs can be measured in terms of the gap between potential and actual GDP.
+ And there's several different types of employment.
+ There's frictional unemployment, there's structural unemployment, seasonal unemployment, and cyclical unemployment.
+ Frictional unemployment is due to labor market mechanics.
+ From a policy standpoint, job turnover results in some unemployment in a fully employed condition.
+ In other words, some individuals will be considered unemployed between being laid off by employer A and learning about and being hired by employer B, even if employer B has a job opening when the individual is laid off by employer A.
+ This is the most common type of unemployment.
+ Again, this is frictional unemployment.
+ Frictional unemployment exists at full employment.
+ Then there's structural unemployment.
+ Aggregate demand is equal to the aggregate labor supply, but the nature of the supply doesn't match the nature of the demand.
+ For example, unemployed individuals may have machinist skills when employers have unfilled engineering jobs.
+ Mismatches can occur in skills, occupation, industries, or geographic locations.
+ Structural unemployment is due to a skill gap that results from technological advancement and can be reduced by training.
+ Structural unemployment also exists at full employment.
+ Then there's seasonal unemployment, which results due to a reduced requirement during some seasons.
+ Seasonal unemployment exists at full employment.
+ Think about an area that's known for skiing.
+ Well, when there's no snow in June, all of the snowboard and ski shops, they have to significantly reduce their payroll during the summer hours in order just to keep the lights on.
+ Finally, there's cyclical unemployment which exists due to a fluctuation in a business cycle.
+ Aggregate demand for labor is less than aggregate supply for labor during low points in the economic cycle.
+ Cyclical unemployment increases during a recession and is highest at what's known as a trough.
+ Cyclical unemployment decreases during expansion and is lowest at its peak.
+ cyclical unemployment doesn't exist at full employment and is zero at full employment.
+ That would be a good exam question.
+ Our next topic is interest rates.
+ As you know, interest is the rate that borrowers pay lenders for the use of their money.
+ The risk-free real rate assumes that a borrower is risk-free and there is no credit default risk.
+ The risk-free real rate does not take inflation into consideration.
+ Then there's the risk-free nominal rate which is the risk-free real rate plus the projected rate of inflation.
+ Then there's the risk-adjusted nominal rate which takes inflation and default risk into account.
+ There's the discount rate which is the interest rate at which the Fed loans money to commercial banks.
+ Then there's the prime rate which is the rate that commercial banks lend to their most credit-worthy customers.
+ Our next topic is the money supply.
+ Money is a medium of exchange.
+ It's a standard of value and it's also a store of value.
+ A broad definition of money is anything accepted as an exchange medium.
+ In other words, parties accept it in trade who would not purchase the medium for their own use but they accept it because it's recognized as a common medium of exchange.
+ For instance, in American colonial times, some school teachers were paid in tobacco.
+ after World War II, chocolate was a medium of exchange in some parts of Europe.
+ An example today would be Bitcoin.
+ Money is often held as currency like coins and bills, also checking deposits, non-checking savings, and time deposits.
+ Money has three categories, M1, M2, and M3 and they're based on liquidity.
+ Those components are as follows.
+ M1 is currency, coins and bills, and checking deposits.
+ M2 includes M1 plus non-checking savings and small, less than $100,000 time deposits.
+ M3 includes M2 plus other time deposits.
+ There is a relationship between interest rates and money supply.
+ When the interest rate goes up, people borrow less and save more, which makes the money supply go down, makes aggregate demand go down, makes inflation go down.
+ When the interest rate drops, people borrow more and they save less.
+ The money supply goes up.
+ Money is flooding the market.
+ Aggregate demand goes up and inflation goes up.
+ We've seen this in the stock market.
+ Cheap money, people are flooding the markets with money, causes the market to go up.
+ We've seen this in housing.
+ Low interest rates on mortgages, people flood the market with money, causing real estate prices to get crazy.
+ money.
+ Next, we have the money multiplier.
+ Any increase in autonomous investment, consumption, or government spending results in a multiplied increase in national income because the same income is spent several times.
+ The effect of increase or decrease in spending to have a multiplied effect on GDP is called the money multiplier.
+ And the impact of this effect is determined by what's known as the marginal propensity to save.
+ The marginal propensity to consume and the marginal propensity to save, you add those two together and they equal one.
+ The increase in GDP or the multiplier effect is equal to the increase in spending divided by the marginal propensity to save.
+ And we will work an example.
+ For example, the marginal propensity to save is 30%.
+ The problem gives you that.
+ Clark Company increases its autonomous investment by $100,000.
+ So, what is the increase in national income?
+ Well, the $100,000 that Clark spends is income to other entities.
+ These entities on average spend $100,000 times 70% because the marginal propensity to save is 30%.
+ So, they spend 70%.
+ So, $100,000 times 70% equals $70,000.
+ So, they spend 70% and they save 30%.
+ So, they get $100,000 they save 70%.
+ Excuse me.
+ They spend 70% they save 30% because the marginal propensity to save is 30%.
+ So, this $70,000 that they spend is then income to other entities that spend 70% on that $70,000.
+ So, $70,000 times 70% is $49,000 and so on.
+ It just keeps on going down the line.
+ Therefore, the increase in national income is $100,000 plus $70,000 plus $49,000 plus so on and so on and so on.
+ And so, this can be calculated as the increase in GDP or the multiplier effect is equal to the increase in spending divided by the marginal propensity to save.
+ So, the increase in spending was $100,000.
+ The marginal propensity to save is 30%.
+ You take $100,000 divided by 30% and that math is $333,333.
+ So, that $100,000 has an increase in GDP of $333,333.
+ So, that's how you do it.
+ The increase in spending divided by the marginal propensity to save.
+ Easy math on exam day.
+ Next, we have the business cycle and economic indicators.
+ So, business activity fluctuates and this is known as a cycle.
+ Businesses or industries that perform much better than average during expansions and much worse than average during recessions are called cyclical.
+ And businesses or industries that perform better than average during recessions and worse during expansion they're called counter-cyclical or defensive.
+ So, a business cycle has four common phases.
+ You have recovery or expansion.
+ You have a peak.
+ You have a recession or contraction and you have a trough.
+ We begin with recovery or expansion which is characterized by increasing levels of economic activity during an expansion phase an economy would experience an increase in GDP employment demand expenditure and profits.
+ That's recovery or expansion.
+ Then there's the peak which is the higher point in a business cycle.
+ A peak is characterized by high levels of economic activity and full use of resources.
+ Then we have a recession.
+ Once the peak is achieved demand is halted and growth declines.
+ This is the onset of a recession or a contraction which is characterized by decreasing levels of economic activity.
+ During a recession an economy would experience a decrease in GDP employment demand expenditure and profits.
+ Then you have a trough which is the lowest level of economic activity and resource under usage.
+ So the highest is the peak the lowest is the trough the upward trajectory is the recovery or expansion the downward trajectory is the recession.
+ This is all pretty intuitive it's all basic economic concepts.
+ During a business cycle when you have an expansion or a peak demand increases supply increases GDP increases unemployment decreases during a contraction or a trough demand decreases supply decreases GDP decreases unemployment increases There are economic indicators of business cycles and there are two types there's leading indicators and there's trailing or lagging indicators there's actually a third category called coincident indicators but for the most part we talk about leading and lagging indicators A leading indicator is a sign that occurs before the change in this cycle happens so average hours worked per week by manufacturing workers as employers foresee increased demand workers work more hours if there's a decline in that that's a leading indicator that a downturn is coming there's initial unemployment claims a decrease in initial claims indicates that employers foresee increased demand then there's other leading indicators like stock prices the change in raw materials as prices rise demand increases indicating that there's going to be more building more manufacturing going on another one would be residential building permits if they slow that's a bad sign then there's vendor delivery times as demand increases vendors have a greater difficulty meeting customer requests another one is money supply changes so an increase in bond prices indicate that people are moving their money towards bonds and getting out of equities which could be indicative of a downward trend in the business cycle then there's trailing or lagging indicators and these things happen after the event has started so the average duration of unemployment the unemployment rate and the value of outstanding commercial and industrial loans so those are trailing and lagging indicators next we have monetary policy which is intended to control the money supply control of the money supply growth is deemed essential to help control inflation spending and credit availability stable interest rates and monetary control are mutually exclusive goals monetary policy is exercised by the Fed through a couple different mechanisms there's open market operations so the primary means of monetary control is the purchase and sale of treasury bonds in the open market by the Fed so the Fed can sell treasury bonds which decrease the money supply so they can take money out of the economy by selling treasury bonds or they can put money back into the economy by purchasing treasury bonds so with the sale of treasury bonds the money supply decreases the interest rate increases demand decreases GDP decreases unemployment increases with a purchase of treasury bonds the money supply increases the interest rate decreases demand increases GDP increases unemployment decreases so that's open market operations and there's a table for this in the ninja book then there's a discount rate so banks borrow from the Fed at a rate known as the discount rate so the Fed can lower the discount rate which encourages borrowing and increases the money supply so we've seen this where the rates are low so people are borrowing more money and then they're going and buying houses which increases the price of the housing market well they can raise the discount rate which discourages borrowing and decreases the money supply so when they lower the discount rate it increases the money supply it decreases the interest rate it increases demand it increases GDP it decreases unemployment when they raise the discount rate it decreases the money supply it increases their interest rate it decreases demand decreases GDP and increases unemployment and then they can mess with the required reserve ratio which is the percentage of customers deposits that banks must keep they can lower the reserve ratio which increases the lendable funds and increases the money supply or they can raise the reserve ratio which decreases the lendable funds and decreases the money supply if you haven't recently taken a look at the reserve ratio it's kind of scary so they can lower the reserve ratio which increases money supply decreases the interest rate increases demand increases GDP decreases unemployment they can raise the reserve ratio which decreases money supply increases the interest rate decreases demand decreases GDP and increases unemployment our final topic is fiscal policy government actions such as taxes and government expenditure are intended to result in economic goals such as a certain national income level certain income distribution acceptable unemployment levels etc this is referred to as fiscal policy and fiscal policy can be expansionary or contractionary expansionary fiscal policies are aimed at stimulating the aggregate demand in the economy the government takes these steps when it decides that an increase in aggregate demand can help the economy so increasing government spending and decreasing taxes are examples of expansionary fiscal policy that would increase the disposable income in the hands of the economic units and would directly cause an increase in the aggregate demand conversely contractionary fiscal policies are aimed at controlling the aggregate demand and inflation in the economy the government takes these steps when it decides that inflation is too high and needs to be controlled so decreasing government spending and increasing taxes are examples of contractionary fiscal policy so fiscal policy is exercised by the government through government spending and taxes government spending is the amount of money spent by the government and governmental entities on infrastructure projects defense projects social health care education and employment so an increase in government spending increases the money supply by adding money from the circulation a decrease in government spending decreases the money supply by removing money from circulation so an increase in government spending increases the money supply decreases interest rates increases demand increases GDP decreases unemployment a decrease in government spending decreases the money supply increases the interest rate decreases demand decreases GDP and increases unemployment and there's taxes an increase in taxes decreases the personal disposable income available at the hands of entities and individuals and decreases the money supply by removing it from circulation people have less money to spend because the government is taking more a decrease in taxes increases the personal disposal income of individuals and entities and the government is allowing you to keep more of your money which increases the money supply so increase in taxes decreases the money supply increases interest rates decreases demand decreases gdp increases unemployment decreasing taxes increases the money supply decreases the interest rates increases demand increases gdp decreases unemployment this includes economics 

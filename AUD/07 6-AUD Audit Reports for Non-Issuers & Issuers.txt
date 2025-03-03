@@ -1,0 +1,254 @@
+Audit reports for non-issuers and issuers.
+ In this session, we are going to discuss the form and content of the audit report, the emphasis of matter paragraph, other matter paragraph, other information, other issues, and then finally, specific issues with audit reports of issuers.
+ But first, to recap where we are in the audit stages, we've gone over the pre-engagement acceptance activities, then the engagement letter, then the audit strategy and planning, then internal control evaluation, then substantive procedures, then audit completion, and now we are focusing on report preparation and communication, beginning with the form and content of the audit report.
+ Let me just clarify something from the beginning.
+ Everything that we are about to discuss is about non-issuers.
+ Companies that are privately held and don't issue securities.
+ Then later on, at the end of this session, we will discuss issuer-specific audit reports and issues, companies that file securities, or issue securities and file with the SEC.
+ So this is for non-issuers.
+ I hope that distinction is helpful.
+ Form and content of the audit report.
+ Types of opinions.
+ So the objective of the audit is to form an opinion and then express that opinion.
+ There are different types of audit opinions.
+ There's the unmodified opinion.
+ So the auditor should express an unmodified opinion when the financial statements are presented fairly in all material respects in accordance with the applicable financial reporting framework.
+ Usually, that's US GAAP.
+ So the unmodified opinion is what every client wants.
+ It's a clean opinion.
+ Then there's the modified opinion.
+ So the auditor should modify the opinion for various conditions.
+ And these include, there's a gap issue.
+ So the financial statements are materially misstated.
+ And so if the issue is material, the misstatement is material but not pervasive, then a qualified opinion.
+ If the misstatement is material and pervasive, then an adverse opinion.
+ So that's when there's a gap issue.
+ The financial statements are materially misstated.
+ But then if there's a scope limitation, which is a gas issue, G-A-A-S, generally accepted auditing standards, which means that basically the auditor can't do their job.
+ They're unable to obtain sufficient, appropriate audit evidence to form an opinion.
+ So with a scope limitation, we issue a qualified opinion, which means that the scope limitation is material but not pervasive, or a disclaimer of opinion.
+ The scope limitation is material and pervasive.
+ So with a gap issue, if it's material and pervasive, it's an adverse opinion.
+ If it's a scope limitation and it's material and pervasive, it's a disclaimer of opinion.
+ So again, unmodified opinion.
+ It's what you want.
+ The auditor should express an unmodified opinion, whether the financial statements are presented fairly, in all material respects with the applicable financial reporting framework, usually a gap.
+ Qualified opinion means there's a gap issue.
+ Adverse opinion, gap issue.
+ Qualified opinion, gas issue.
+ Disclaimer of opinion, gas issue.
+ So that's how those go.
+ So let's dive into an unmodified opinion.
+ So this is what we want.
+ The elements of an audit report with an unmodified opinion.
+ The word independent must be in the title to clearly indicate that it's the report of an independent auditor.
+ So we have our title first.
+ Then we have our addressee.
+ This is to whom the audit report is prepared for, either the entity or those charged with governance typically.
+ Then we have our opinion.
+ The first section of the auditor's report should include the auditor's opinion and should have the heading opinion.
+ The opinion section of the audit report should also have the following.
+ It identifies the entity whose financial statements have been audited, state that the financial statements have been audited, identify the title of each of the financial statements, refer to the notes, specify the date or period covered by each of the financial statements, and then when expressing an unmodified opinion on the financial statements, the auditor's opinion should state that, in the auditor's opinion, the accompanying financial statements present fairly in all material respects in accordance with the applicable financial reporting framework.
+ And then, after that, the basis for opinion.
+ So the basis of opinion section states that the audit was conducted in accordance with generally accepted auditing standards and identifies the United States of America as the country of origin for those standards.
+ And then the basis of opinion also refers to the section of the auditor's report that describes the auditor's responsibilities under GAS, generally accepted auditing standards.
+ It includes a statement that the auditor is required to be independent of the entity and meet the auditor's other ethical responsibilities in accordance with the relevant ethical requirements relating to the audit.
+ And then finally, it states whether the auditor believes that the audit evidence that has been obtained is sufficient and appropriate to provide a basis for the auditor's opinion.
+ Now, if there's substantial doubt about the entity's ability to continue as a going concern, then the auditor should include a substantial doubt about the entity's ability to continue as a going concern paragraph in the audit report to reflect that conclusion.
+ Then also, we have key audit matters, which, if we're engaged to report on those, so the auditor has the responsibility to communicate key audit matters in the auditor's report when the auditor is engaged to do so.
+ The auditor should describe each key audit matter, including an appropriate subheading in a separate section of the auditor's report under the heading key audit matters.
+ Then, if we have an emphasis of matter, paragraph, actually, the order here doesn't matter, but if we have an emphasis of matter paragraph, this refers to a matter that is appropriately presented or disclosed in the financial statements, but it needs to be emphasized or pointed out.
+ Or if we have an other matter that's of fundamental importance to the user's understanding, then the auditor can emphasize it there as well.
+ Then we also have responsibilities of management for the financial statements.
+ So it should include a section stating that, responsibilities of management for the financial statements.
+ And it describes the preparation and fair presentation of the financial statements are in accordance with the applicable financial reporting framework.
+ So that's the management's responsibility.
+ Also, the design, implementation, and maintenance of internal control relevant to the preparation and fair presentation of the financial statements that are free from material misstatement, whether due to error or fraud, also management's responsibility.
+ And then when required by the applicable financial reporting framework, the evaluation of whether there are conditions or events considered in the aggregate that raise substantial doubt about the entity's ability to continue as a growing concern, and also the management's responsibility.
+ Then we have the auditor's responsibility for the audit of the financial statements.
+ So the auditor should include a section with that heading and it details what their responsibilities are as an auditor.
+ And then in general, then we have the auditor's signature and then the auditor's city and state or their address.
+ So the audit report should name the city and state where the auditor practices.
+ In the US, the location of the issuing office is the city and state in another country.
+ It may be the city and country.
+ And then the date of the audit report.
+ The date informs the user that the auditor has considered the effect of events and transactions of which the auditor became aware and occurred up to that date.
+ So the audit report should be dated no earlier than the date on which sufficient appropriate audit evidence has been obtained on which to base an opinion on the financial statements.
+ Including evidence that audit documentation has been reviewed and all of the statements have been prepared including the notes and that management has asserted that they have taken responsibility for those financial statements.
+ So if you want to read a standard audit report, you can do so in the Ninja book.
+ I'm just going to highlight the opinion section of the unmodified opinion which would say, under the heading of opinion, then it might say, we have audited the financial statements of ABC Company which comprise the balance sheets as of December 31st, year one, and year zero, and the related statements of income, changes in stockholders' equity, and cash flows for the years then ended, and related notes to the financial statements.
+ In our opinion, the company financial statements present fairly, in all material respects, the financial position of ABC Company as of December 31st, year one, and year zero, and the results of its operations and cash flows for the years then ended in accordance with accounting principles generally accepted in the United States of America.
+ And that would be an example of the opinion paragraph in an unmodified opinion in the standard audit report.
+ Next is a modified audit report.
+ With a modified opinion, there's either a gap issue or a gas issue.
+ We will begin with gap issues.
+ So the financial statements are materially misstated.
+ And there's a couple different types.
+ There's an issue when a company uses inappropriate accounting policies.
+ So the accounting policies are not in accordance with the applicable financial reporting framework.
+ So there's, the accounting policies are inappropriate.
+ Or the accounting policies are misapplied.
+ Or there's an inappropriateness of financial statement presentation or the disclosures or the disclosures and the financial statements.
+ So those are various misstatement types.
+ These are gap issues.
+ If the issue is pervasive, then it's a qualified opinion.
+ If it's, well, the assumption is that it's material.
+ If it's material, which means it, it materially impacts the financial statements and materiality is a threshold that is up to auditor judgment.
+ If the misstatement is material, but not pervasive, not throughout the financial statement, it's a qualified opinion.
+ If it's material and pervasive, it's an adverse opinion.
+ So we just walk through the opinion paragraph of an unmodified opinion.
+ This is the opinion paragraph of a qualified opinion with a gap issue.
+ So it starts out the same as an unmodified opinion.
+ We've audited the financial statements of ABC Company, et cetera, et cetera.
+ Then the next paragraph, in our opinion, except for the effects of the matter described in the basis for qualified opinion section of our report, the accompanying financial statements present fairly in all material respects, and the rest is all the same.
+ So that is an example of a qualified opinion paragraph and how it's different.
+ Now, similarly, with the adverse opinion gap issue, adverse opinion, it's the same.
+ We've audited the consolidated financial statements of ABC Company, blah, blah, blah, blah.
+ And then, in our opinion, because of the significance of the matter discussed in the basis for adverse opinion section of our report, the accompanying consolidated financial statements do not present fairly, et cetera, et cetera.
+ So that was adverse.
+ So that is, that covers gap issues.
+ Next are gas issues, generally accepted auditing standards.
+ And these involve scope limitations, which means that the auditor either can't do their job just because of natural things happening, or they can't do their job because they're being prevented from doing their job.
+ And there's a difference.
+ So a scope limitation is a restriction on the scope and the application of the auditor's work.
+ Now, there's two types.
+ Like I just said, there's circumstances that are beyond the control, so the entity's accounting records have been destroyed.
+ There's a big fire.
+ Or they've been seized by governmental authorities.
+ So that's beyond their control.
+ Or there's circumstances that are related to the nature or timing of the auditor's work.
+ So they're unable to observe the counting of the physical inventories.
+ Or when accounting for long-term investments, the auditor is unable to obtain audited financial statements of an investee.
+ And then there's limitations imposed by management.
+ So management prevents the auditor from requesting external confirmation of specific account balances.
+ Or management refuses to provide a management representation letter.
+ procedure.
+ If the auditor is unable to obtain sufficient appropriate audit evidence by performing alternative procedures, an inability to perform a specific procedure does not constitute a scope limitation.
+ That might make for a good exam question.
+ So, with our scope limitation, if the scope limitation is material but not pervasive, qualified.
+ If it's material and pervasive or it's imposed by management, disclaimer.
+ Next, we have an emphasis of matter paragraph.
+ So, in certain circumstances, the auditor may determine that it's necessary to emphasize a matter in the auditor's report without modifying the opinion.
+ So, it does exactly what it says.
+ It emphasizes a matter.
+ Now, where do we place it in the paragraph?
+ It's not specifically defined.
+ The placement of an emphasis of matter paragraph depends on the nature of the information to be communicated and the auditor's judgment about the relative significance of such information that's intended to be communicated to users.
+ Now, the heading of the emphasis of matter needs to state emphasis of matter.
+ Now, some circumstances in which the auditor may use an emphasis of matter.
+ Again, the opinion isn't changed, but they're pointing something out.
+ So, something like an uncertainty or related party transactions or subsequent events.
+ Just point those out.
+ Or, a going concern doubt.
+ Now, this is when the auditor concludes that there's substantial doubt about the entity's ability to continue as a going concern, but these have been alleviated by management's plans and has been appropriately disclosed in the financial statements.
+ So, but they still want to point it out and use an emphasis of matter paragraph.
+ Then we have the other matter paragraph.
+ So, in certain circumstances, the auditor may determine that it's necessary to make additional communications to the users in the auditor's report without modifying the opinion.
+ This is done using an other matter paragraph.
+ And the other matter paragraph is used to describe matters other than those appropriately presented or disclosed in the financial statements, but it's of fundamental importance to the user's understanding of the financial statements.
+ And the auditor must use the heading other matter.
+ So, circumstances in which an auditor may use an other matter paragraph.
+ The auditor may consider necessary to include an other matter paragraph in the audit report to explain why it's not possible to withdraw from an engagement generally due to a law or regulation even though the possible effect of a scope limitation imposed by management is pervasive or to further elaborate the auditor's responsibilities or if they're reporting on more than one set of financial statements which are being prepared in accordance with another or a different general purpose framework.
+ Just some examples of why an auditor would use an other matter paragraph.
+ If the auditor is engaged to communicate key audit matters then they would do so in the key audit matters paragraph which uses that heading.
+ When key audit matters are identified the description of each key audit matter should include a reference to the related disclosure if any in the financial statements address why the matter was considered to be one of the most significant of the audit and therefore considered to be a key audit matter and address how the matter was addressed in the audit.
+ Now if no key audit matters are identified then the auditor should state as much.
+ Next we will turn our attention to audits of special purpose financial statements.
+ Financial statements using USGAP or IFERS are called general purpose financial statements.
+ Now contrast that with special purpose financial statements.
+ These are prepared using cash basis, tax basis, regulatory basis for specific use or regulatory basis for general use or contractual basis.
+ Again, these are called special purpose financial statements.
+ So cash basis is the basis of accounting used to record cash receipts and disbursements.
+ Tax basis is the basis of accounting used to file income tax returns.
+ Regulatory basis is the basis of accounting used to comply with the financial reporting provisions of the regulatory agency.
+ And contractual basis is the basis of accounting used to comply with the provisions of a contract.
+ Now cash basis, tax basis, and regulatory basis use an other comprehensive basis of accounting.
+ That's the classification.
+ Other comprehensive basis of accounting which excludes contractual basis.
+ But all four of them are included under the umbrella of special purpose financial statements.
+ Now, an auditor must determine the acceptability of the financial reporting framework and express an opinion on whether the financial statements are presented fairly in accordance with the special purpose financial reporting framework.
+ So they must determine whether the financial reporting framework to be applied and the preparation of the financial statements is acceptable for which an auditor would then obtain an understanding of the purpose for which the financial statements are prepared, the intended users, that's very key, and the steps taken by management to determine that the applicable financial reporting framework is acceptable in the circumstances.
+ So an audit of special purpose financial statements would require the auditor to obtain the agreement of management that it acknowledges and understands that its responsibilities include a description of the special purpose framework, disclosures that are similar to those that are required by GAP, and for contractual basis, a description of any significant interpretations of the contract on which the special purpose financial statements are based.
+ So that's key because contracts are obviously up to interpretation.
+ And then, of course, any additional disclosures beyond those specifically required by the framework that might be necessary to achieve fair presentation of the special purpose financial framework.
+ We'll begin with audit reports on special purpose financial statements prepared using cash basis.
+ So additional requirements for audit reports on financial statements using cash basis, they must, in the opinion section, terms such as balance sheet, statement of financial position, statement of income, statement of operations, and statement of cash flows or similar unmodified titles are generally understood to be gap titles.
+ An audit report on financial statements prepared using special purpose frameworks should use titles that clearly distinguish them from the gap title.
+ And in the opinion section, express an opinion on whether the financial statements comply with the cash basis of accounting.
+ For emphasis of matter, that section should indicate that the financial statements are prepared in accordance with the applicable special purpose framework and should also refer to the notes and the financial statements that describe that particular framework and state that the special purpose framework is a basis of accounting other than US GAAP and state that the opinion is not modified with respect to this matter.
+ Now, for cash basis, management is responsible for determining that the cash basis is acceptable in the given circumstances when management has a choice of financial reporting frameworks.
+ So remember, the choice to use cash basis, that is the responsibility of management to make that decision.
+ Remember that the auditor is not in management.
+ That's what makes them independent.
+ You cannot have any management responsibilities, management role, make management decisions.
+ The auditor does not decide the financial reporting framework.
+ They simply make an opinion about the relevance and the acceptability of that particular financial reporting framework.
+ Management decides.
+ Moving on to tax basis.
+ So, an audit report on special purpose financial statements prepared using the tax basis.
+ Now, just like cash basis, in the opinion section, titles like, in terms like balance sheet, statement of income, things that are normally used in US Gap cannot be used because it's too confusing.
+ It blurs the lines.
+ It should be very clear that these are terms from a special purpose framework to distinguish them from Gap.
+ and in the opinion area, the auditor should express an opinion on whether the financial statements comply with the tax basis of accounting.
+ And just like with cash basis, the emphasis of matter area is the same as an audit report using cash basis and also the responsibility of management.
+ It's their job to choose tax basis.
+ It's the auditor's job to opine on that decision.
+ And then there's regulatory basis, which is broken down to for specific use and for general use.
+ So for specific use, everything is the same as far as what we just covered for cash basis and tax basis, the opinion, the emphasis of matter, management responsibilities, but then we need to have an other matter section that restricts the use of the audit report when the special purpose financial statements are prepared in accordance with a regulatory basis of accounting for a specific use.
+ So that's specific use.
+ And then general use, again, we avoid terms that are usually used with GAAP, but we express two opinions for regulatory basis general use.
+ We express an opinion on whether the special purpose frameworks are presented fairly in all material aspects in accordance with GAAP and whether the financial statements are prepared in accordance with the regulatory basis.
+ So two opinions on regulatory basis, general use.
+ In this next segment, we're going to discuss the consideration of an entity's ability to continue as a going concern.
+ Now, if you're not familiar with what is meaning by a going concern, that means that basically the company is able to just continue on in the foreseeable future.
+ That's what it means to be a going concern.
+ And if there's concerns about that, then the auditor needs to point that out.
+ So the auditor is responsible for evaluating whether there is substantial doubt about the entity's ability to continue as a going concern for a reasonable period of time.
+ In other words, one year after the date of the financial statements are issued or available to be issued.
+ Now, let's break down management's responsibility first.
+ So, management must evaluate if there are conditions that indicate substantial doubt about their company's ability to continue as a going concern within one year after the financial statement date.
+ So the following conditions indicate substantial doubt.
+ negative financial trends, other indications of possible financial difficulties, internal matters such as work stoppage, labor difficulties, or external matters such as like a huge lawsuit or pending legislation.
+ So, if a company made smartwatches and there's pending legislation that was coming out that says there can be no more smartwatches, well, that would be bad.
+ So, those things would indicate concerns, so then management has to come up with a mitigation plan.
+ So, when management identifies conditions that raise doubts, then they must mitigate that going concern issue.
+ So, these might be plans to dispose of an asset or a business or to reduce or delay expenditures or plans to borrow money, restructure debt, plans to increase ownership equity, et cetera.
+ So, the audit procedures for going concern, first, the auditor needs to ask management to evaluate the going concern issue.
+ So, they must request management to make an assessment and evaluation of the going concern issue if management has not already done so.
+ then the auditor must perform audit procedures to identify, evaluate, and conclude whether any events exist that indicate substantial doubt about an entity's ability to continue as a going concern.
+ They perform analytical procedures.
+ They inspect documents such as board minutes that might indicate the issue.
+ And then they perform inquiries of legal counsel of any going concern issues.
+ Now, if after considering the identified conditions or events in the aggregate, the auditor believes there is substantial doubt, then they should obtain information from management about their plans that are intended to mitigate these adverse effects.
+ And the auditor should assess whether management's plan would mitigate the going concern issue.
+ Now, if substantial doubt exists before consideration of management's plans, the auditor should obtain the following written representations from management regarding its plans that are intended to mitigate the issue, and that the financial statements disclose all the matters of which management is aware and that are relevant to the entity's ability to continue as a going concern including the principal conditions that exist and management's plans to mitigate.
+ So, to recap, the auditor needs to evaluate whether substantial doubt about an entity's ability to continue as a going concern for a reasonable period of time exists based on the audit evidence obtained.
+ If there's substantial doubt, then they obtain management's plan.
+ If that doubt is alleviated, unmodified opinion, but emphasis of matter.
+ If the doubt is not alleviated, unmodified opinion, with substantial doubt about an entity's ability to continue as a going concern paragraph.
+ If there, if it's beyond a substantial doubt, if there's a severe going concern issue, it's a disclaimer of opinion.
+ Now, that's if there's substantial doubt.
+ If there's no substantial doubt, unmodified opinion.
+ Our next topic is uncertainty, which includes, but is not limited to, contingencies, matters related to estimates, significant related party transactions, and significant subsequent events.
+ use of an emphasis of matter paragraph is optional and dependent upon the auditor's judgment in case of uncertainty.
+ Now, audit reporting on uncertainty would be as follows.
+ If there's adequate disclosure, then an unmodified opinion may include an emphasis of matter paragraph.
+ If there's inadequate disclosure, then it's a qualified gap issue or adverse opinion.
+ If there's a scope limitation, it's a qualified gas issue or disclaimer of opinion.
+ If there's multiple and extreme uncertainties, then disclaimer of opinion.
+ So, best guess scenario, unmodified opinion with an emphasis of matter.
+ And that would look like, so we would have our opinion, our basis for opinion, and then we'd have our emphasis of matter uncertainty.
+ As discussed in note X to the financial statements, the company is a defendant in a lawsuit, then briefly describe the nature of the litigation, consistent with the company's description in the note to the financial statements.
+ Our opinion is not modified with respect to this matter.
+ So that was the emphasis of matter paragraph.
+ Now we will dive into the other matter paragraph.
+ And so circumstances that require the use of an other matter paragraph would be in comparative financial statements or subsequently discovered facts that become known to the auditor after the audit report release date and restricted use reports.
+ And other circumstances in which an auditor may use in other matter paragraph would include if it's not possible for them to withdraw or further elaboration of the auditor's responsibilities and if they're reporting on more than one set of financial statements.
+ Our next topic is the audit of comparative financial statements.
+ So this may be required by the applicable financial reporting framework or operating out of or management may elect to provide them.
+ When comparative financial statements are presented the auditor's report should refer to each period for which the financial statements are presented and on which an audit opinion is expressed.
+ Now this could bring up some issues such as what if the previous year was audited by a different auditor?
+ So let's walk through that.
+ So beginning with if the prior period and the current period are audited by you the current auditor then no big deal.
+ It's unmodified opinion on the prior year and unmodified opinion on the current year or unmodified opinion on the prior year qualified opinion on the current year disclaimer of opinion prior unmodified current and et cetera et cetera but if prior period financial statements are presented in a comparative format alongside the current period financial statements that were audited by a predecessor auditor the current auditor who has audited the current year only expresses an opinion on the current year only.
+ Now the predecessor auditor has the following two options their report is presented or their report is not presented if it's presented if the predecessor's audit report is reissued and included along with the current audit report the two audit reports would be presented as follows the current year audit report by the current year auditor and then a reissue of the prior year audit report on the prior year's financial statements now if the report on the prior period is not reissued then the auditor should include another matter paragraph in the current period's audit report that includes the service performed in the prior period the date of the report on that service and a description of any material modifications noted in that report now if the prior year financial statements were not audited reviewed or compiled then the financial statements should be clearly marked to indicate their status and the audit report should include an other matter paragraph to indicate that the auditor has not audited reviewed or compiled the prior period financial statements and assumes no responsibility for them our next topic is subsequently discovered facts subsequently discovered facts are those that become known to the auditor after the date of the audit report that had they been known to the auditor at that date may have caused the auditor to revise their report now the auditor is not required to perform any audit procedures regarding the financial statements after the date of the audit report however if a subsequently discovered fact becomes known to the auditor after the audit report release date the auditor should discuss the matter with management and when appropriate those charged with governance and determine whether the financial statements need revision and if so inquire how management intends to address the matter in the financial statements so the auditor should determine that the steps taken by management are timely and appropriate to ensure that anyone in receipt of those financial statements is informed of the situation including that the audited financial statements are not to be relied upon when management does not agree to revise the statements then the auditor should notify management and those charged with governance that the auditor will seek to prevent future reliance on the audit report and the auditor should seek legal advice and if applicable notify regulatory agencies having jurisdiction over the entity that the audit report is not to be relied upon and to attempt to notify anyone known to the auditor to be relying on the financial statements that the auditor's report is not to be relied upon if the auditor's opinion on the revised financial statements differs so this is assuming that management revises if the auditor's opinion on the revised financial statements differs from the opinion that the auditor previously expressed then the auditor should disclose the following matters in an emphasis of matter or other matter paragraph including the date of the previous report the type of opinion previously expressed the substantive reasons for the different opinion and that the opinion on the revised financial statements is different from the previous opinion now what about restricted use audit reports if this is the case then the audit report should include an other matter paragraph that restricts its use when the subject matter of the report is based on measurement or disclosure data that's suitable only for a limited number of users who can be presumed to have an adequate understanding of the criteria or if this measurement or disclosure criteria is only available to specified parties or matters identified by the auditor during the course of the audit engagement when the identification of such matters is not the primary objective of the audit engagement now the auditor may consider it necessary to include an other matter paragraph in the audit report to explain why it's not possible to withdraw from an engagement generally due to a law or regulation even though the possible effect of a scope limitation imposed by management is pervasive that might be a good exam question which of the following would lead an auditor to use an other matter paragraph it's when they can't withdraw but they really want to or when law regulation or a generally accepted practice may require or permit the auditor to elaborate on matters that provide further explanation of the auditor's responsibilities in the audit statements they might use another matter paragraph or when as we previously said when reporting on more than one set of financial statements when each set of financial statements has been prepared in accordance with a different general purpose framework that would be a reason for an other matter paragraph and I would say that any of these would be good for an exam question other matter paragraph restricted use not possible to withdraw further elaboration of an auditor's responsibilities or reporting on more than one set of financial statements where they're using different frameworks and there's also a paragraph called other information and the only aspect of this paragraph that I want to hit on is for required supplementary information and this is supplementary information that's required by the governing body the applicable financial reporting framework so information required by FASB or information required by GASME for government financial statements and so the auditor needs to make sure that the required supplementary information jives with the rest of the financial statements and also obtain written representations that management is responsible for the required supplementary information not the auditor for the next segment is called other issues and we begin with audits of group financial statements an audit of group financial statements arises when we are auditing a parent entity and it has subs that are audited by other auditors or component auditors and so the auditor of the group financial statements must decide whether to reference the component auditor so the group engagement partner is responsible for deciding individually for each component to either assume responsibility and not make reference or not assume responsibility and make reference so whether or not we want to assume responsibility for the work of a component auditor which requires the group auditor's involvement in that work now no reference is made to the component auditor in the group audit report so this is why this is very important if the group auditor decides to accept responsibility then the component auditors are technically reporting to them the group auditor so in this case the component auditors wouldn't be mentioned in an engagement letter nor in the group auditor's report so that's if we assume responsibility we don't make reference if we don't assume responsibility then we make reference so if we don't accept responsibility then the responsibility is shared between the component auditors and the group auditors so the group auditor will make reference to the component auditor so again the group auditor has two choices assume responsibility and don't make any reference or don't assume responsibility and make reference now there's some audit procedures that we have to follow we have to obtain an understanding of the component auditors to basically decide if we want to sign off on their work because if we don't make reference then that's essentially what we're doing so regardless of whether reference will be made in the group audit report to the audit of a component the group engagement team should obtain an understanding of the component auditor's ethics and independence their professional competence the extent to any or if any to which the team will be able to be involved in the work of the component auditor whether the team will be able to obtain information affecting the consolidation process from the component auditor and whether the component auditor operates in a regulatory environment that actively oversees auditors so having gained an understanding of each component auditor then the group engagement partner should decide whether to make reference to the audit of a component in the group audit report now the decision to make reference to the audit of a component is made individually for each component auditor so it's not all or nothing so reference can be made to all none some of them so the group auditor must evaluate the risks associated with using another auditor's work and consider factors like the complexity of the client's operations geographic locations and the other auditor's qualifications the group auditor should not make reference to the audit of a component in the group audit report or use their work when a component auditor fails to meet the requirements for independence ethics and competence or otherwise use the work so the auditor may make reference to the audit of a component in the group audit report or use their work when they meet the requirements so for components for which the group engagement partner is assuming responsibility for the work of the component auditors or auditor the group engagement team should determine the type of work to be performed by the group auditors or by the component auditors on its behalf on the financial information of the component so the group auditor should do the following it should for significant components the group engagement team should be involved in the risk assessment of the component to identify any significant risk of material misstatement so the group auditor should develop a risk based supervisory plan that prioritizes the higher risk areas the lead auditor's involvement must be proportional to the risk level so this ensures a greater focus on areas with increased audit risk which makes sense also they must perform an audit of the financial information of the component using component materiality and perform specific audit procedures relating to the likely significant risk of material misstatement of the group financial statements also they must conduct work paper reviews and evaluate the sufficiency of the evidence that was obtained by the component auditor and establish clear and consistent documentation for any additional audit procedures performed by the group or the component auditors now that's for significant components for non significant components the group engagement team should perform analytical procedures at the group level this is done to ensure that the auditors account for each component regardless of size now if the group auditor decides not to assume responsibility for the component auditor's work the reference to the component auditor divides responsibility for the engagement among the group auditor and the component auditors however the group auditor needs to ensure that the component auditor has performed an audit of the financial statements of the component in accordance with US gas and that the group auditor must also verify that the component auditor's report meets the applicable reporting standards and is suitable for general use and also that the component auditor's report is a general use report so that's when they do not assume responsibility and they make reference when they assume responsibility and they don't make reference the group auditor's supervisory efforts should be clearly documented in the engagement files in this case the auditor will issue a standard unmodified opinion if there are no misstatements if there are misstatements it'll be qualified or adverse or if there's a scope limitation it'll be qualified or disclaimer of opinion when the group engagement partner decides to make reference to the audit of a component then the group audit report should clearly indicate the following the opinion paragraph must indicate that the component was audited by the by the component auditor along with the magnitude of the portion of the financial statements that were audited so either in a dollar amount or a percentage the opinion paragraph should indicate that the opinion is based in part on the audit of the component auditors however component auditors should not be named in the report unless the component auditor's express permission is obtained and the component auditor's report on the subs are included with group financial statements that would make for a great multiple choice question our next topic is interim financial information so financial information prepared and presented in accordance with gap that comprises either a complete or a condensed set of financial statements covering a period or periods less than one full year or covering a 12 month period that's interim financial information information so the objective of the auditor is to obtain a basis for whether the auditor is aware of any material modifications that should be made to the interim financial information in order for it to be in accordance with gap or the applicable financial reporting framework through performing limited procedures so they need to understand the entity and its environment including internal control they need to perform analytical procedures they need to inquire of management and do everything that they're supposed to do and do other review procedures like read available minutes of the meetings of stockholders directors and committees and obtain any reports from component auditors and the usual things you do like obtain written representations from management and the auditor's review report should be in writing and the auditor should determine that management has clearly marked as unaudited each page of the interim financial information accompanying the review report so that's interim next is a report on summary financial statements summary financial statements are less detailed and they are not separately presented and not presented as comparative information so the objective of an audit on summary financial statements is to form an opinion on whether the summary financial statements are consistent in all material respects with the audited financial statements from which they've been derived so it's a summary of audited financial statements and the auditor has to form an opinion as to whether they are consistent now the auditor should not accept an engagement to report on summary financial statements unless the auditor has been engaged to conduct an audit of the financial statements from which the summary financial statements are derived now when the audit report on the audited financial statements contains an adverse opinion or a disclaimer of opinion the auditor should either not accept or withdraw from the engagement to report on summary financial statements now when the financial statements are consistent with the summary financial statements unmodified opinion when the financial statements are not consistent with the summary financial statements adverse opinion on the summary financial statements when there's an adverse or a disclaimer of opinion on the financial statements well then the auditor wants no part in auditing the summary financial statements so they just withdraw our next topic is reports on compliance of audited financial statements so entities may be required by covenants of contractual agreements such as certain bond indentures loan agreements or regulatory requirements to provide an audit report on compliance now the only thing that I really want to hit on here is in the opinion paragraph the auditor may only express negative assurance or limited assurance on compliance the auditor report on compliance should include a statement that nothing came to the auditor's attention that caused the auditor to believe that the entity failed to comply with specified aspects of the contractual agreements or regulatory requirements insofar as they relate to accounting matters so it's not a positive statement it's instead a negative statement it's negative assurance they're not saying that everything is good to go they're saying nothing came to our attention that would lead us to believe that they weren't following the contractual agreements so again audit reports on compliance can only provide negative or limited assurance our final segment is the audit report of issuers so these are companies that issue securities and file with the SEC so these are public companies and audit reports for issuers are governed by the PC AOB the public company accounting oversight board and the PC AOB has amended audit reports for issuers to enhance their informativeness I think that's a word and relevance for financial statement users and so here are the significant changes and features of these updated audit reports integrated audits which is a comprehensive method used for issuers where the audit of financial statements and the audit of internal controls are conducted concurrently so for a public company the auditor has to issue an opinion on both the financial statements and internal controls that is a distinction of the audit report of an issuer versus a non issuer and so changes to audit reports for issuers include versus non issuers include the communication of critical audit matters now critical audit matters are introduced to highlight the most challenging subjective or complex aspects of the audit these are matters that require significant auditor attention and were communicated to the audit committee and the critical audit matters section provides a description of each matter why it was considered critical and how it was addressed in the audit also the audit report must disclose audit tenure how long the audit firm has been engaged by the company which provides insights into the audit client and the relationship duration if it's been for a long time that should be noted and also a repositioned opinion paragraph so the opinion paragraph is now presented in the first section of the audit report to immediately inform the issuers of the auditor's opinion on the financial statements from the jump also in addition of section titles so section titles are added to guide users through the report and enhance descriptions of the auditor's role and responsibilities and statements on auditor and dependents now going back to critical audit matters critical audit matters have to adhere to the threshold of materiality just like anything else in an audit a threshold of materiality so critical audit matters are material to the financial statements so again materiality just refers to the significance of a certain piece of information or error that could influence the economic decisions of the users made on the basis of those financial statements in other words whether or not they invest in the company whether or not they issue debt to the company and also critical audit matters are challenging subjective or complex that's so really two thresholds for critical audit matters materiality and then challenging subjective or complex now audit reports for issuers they don't use emphasis of matter paragraphs instead they use what's called an explanatory paragraph which is very similar to an emphasis of a matter paragraph just a different title and so situations that might require an explanatory paragraph if financial statements are prepared using a special purpose framework and an explanatory paragraph is added if there's a lack of consistency in the financial statements and it's justified if there's a change in accounting principle that would require an explanatory paragraph if there's a going concern doubt you could use an explanatory paragraph for that if they're changing a prior opinion so if the auditor's opinion on the prior period financial statements is different from the opinion the auditor previously expressed this would be highlighted there or when comparative financial statements are presented and the auditor's report on the prior period financial statements was different explanatory paragraph also restrict the use of the audit report and also when supplementary information is presented with the financial statements an explanatory paragraph may be added to clarify the auditor's responsibility so basically everything that for a non-issuer the emphasis of matter or maybe an other matter this you would use an explanatory paragraph instead for the audit report of an issuer now the structure of the explanatory paragraph you identify the matter any principal considerations and then reference the financial statements now audit opinions or audit reports can either be separated between the opinion on the financial statement and the opinion on internal control so you have two different reports so you have opinion on the financial statements basis for that opinion critical audit matters signature city date etc and then you have that same thing for internal control so opinion on internal control basis definition and limitations of internal control over financial reporting signature city date so two separate reports or you can combine them opinions on the financial statements and internal control over financial reporting basis for opinion then definition and limitations of internal control over financial reporting then critical audit matters signature city date etc so again they can be separate or combined but for audit reports of issuers an opinion on internal control must be included which differentiates it from non-issuers this concludes audit reports for non-issuers and issuers 

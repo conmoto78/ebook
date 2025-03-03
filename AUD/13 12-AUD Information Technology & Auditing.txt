@@ -1,0 +1,67 @@
+Information technology and auditing.
+ In this session, we're going to talk about the risks and benefits in using an IT system for auditing, also audit techniques in an IT environment, and finally, computer-assisted audit techniques, also known as CATs.
+ We begin with the risks in using an IT system for auditing.
+ Information technology, we know, plays a pivotal role in enhancing the efficiency, accuracy, and effectiveness of everything that we do, including auditing.
+ While IT systems significantly enhance efficiency and the capabilities in various operations that an auditor would do, they also introduce a set of risks that companies must acknowledge and mitigate.
+ They include inaccurate data processing, so there can be errors in the system, which can lead to incorrect outputs and reporting, unauthorized data access, excessive access privileges.
+ IT personnel might gain access beyond what is necessary for their duties, which undermines segregation of duties.
+ Also, unauthorized data modification, failure to update systems, inappropriate manual intervention, and data loss or inaccessibility.
+ Those are all risks in using an IT system.
+ Benefits, however, are consistent application of business rules.
+ IT systems can consistently apply predefined business rules and execute complex calculations.
+ This is beneficial when processing large volumes of transactions or data.
+ Another benefit is enhanced information timeliness and accuracy.
+ Also, advanced data analysis, enhanced performance monitoring, because an IT system can facilitate and monitor the entity's activities, policies, and procedures, which provide tools for performance measurement and management.
+ Also, the reduced risk of control circumvention, because automated controls within IT systems are less likely to be circumvented than if they're manual, which provides a reliable layer of security and compliance enforcement.
+ It's not perfect, but it reduces the risk of fraud, noncompliance, operational failures, which all contribute to the overall efforts of the company to manage the risk.
+ And also, another benefit is it's an effective segregation of duties.
+ Our next topic is audit techniques in an IT environment.
+ Two primary audit techniques in an IT environment are auditing through the computer and auditing around the computer.
+ Each technique has its unique applications, advantages, and considerations.
+ Auditing through the computer involves using computer-assisted audit tools and techniques known as CATS to review and analyze the computerized information systems.
+ Auditing around the computer entails reviewing the input and output of a system without actually delving into the internal workings of the system itself.
+ So auditing through the computer involves auditing with actual client programs, and then auditing with test data.
+ With auditing through the computer, this is where auditors utilize various methods to test the integrity and functionality of a client's application programs directly.
+ So they integrate with the actual client program and directly test the input data on the company's application programs to verify the data's accuracy and reliability.
+ And techniques under auditing with the actual client program include transaction tagging, embedded audit modules, and controlled reprocessing.
+ With transaction tagging, this is where we're using client data in the client's software.
+ So auditors electronically mark specific transactions and follow them through the client's system.
+ With embedded audit modules, we also use client data in the client software, and auditors participate in the system design and embed sections in the application program code that collect transaction data for audit purposes.
+ For example, an audit module might collect data on transactions exceeding a certain amount.
+ This is effective for continuous monitoring and auditing of specific transaction types or thresholds.
+ And it's very likely that on the exam you'll see a question about embedded audit modules.
+ It's for continuous monitoring.
+ Then there's controlled reprocessing, which is, again, client data in the client software, where auditors use a verified version of the client's program to reprocess transactions and compare the results with the original outputs.
+ This is useful for validating the accuracy and the consistency of the client's application program.
+ So that's auditing with the actual client program.
+ Then we have auditing with test data, where auditors process a set of simulated test data through a client system and compare the results with the expected outputs.
+ And techniques under this method include the test data approach, which is, again, the auditor's data in the client software, which is different from before where it was the client data in the client software.
+ This is the auditor's data in the client software, where auditors introduce a data set where they already know the expected output, allowing them to assess whether the system is processing data accurately.
+ This is effective for testing the system's processing rules and controls.
+ Then we have the integrated test facility, which is also the auditor's data in the client software, where, similar to the test data approach, hypothetical data is processed alongside live data within the client system.
+ This allows for ongoing testing of the system's controls and the processing integrity without disrupting live operations.
+ So that's auditing through the computer.
+ And again, with auditing through the computer, we're using client data in client software and auditor's data in client software.
+ Then we have auditing around the computer, where the auditors don't directly interact with the client's systems.
+ Instead, they focus on verifying the input and output data without considering the internal workings of the application programs.
+ In this approach, auditors use separate software, so not the client's, to process the client's data independently.
+ This method is often used when auditors cannot rely on the client's systems or they want to independently verify the client's data processing accuracy and its reliability.
+ So one approach is a parallel simulation, which is the client's data and the auditor's software, where the auditor reprocesses the client's live data using software owned or purchased by the auditor and then compares the results with the client's output.
+ This technique is useful for independently verifying the accuracy and reliability of the client's data processing and the output.
+ The auditor can either develop a specific program for this purpose or use generalized audit software packages that are designed to read, process, and write data in various formats and allows the auditor to conduct a parallel simulation without developing custom software for each client.
+ Our final topic are computer-assisted audit techniques, CATS.
+ CATS refer to the use of computerized tools and methods by auditors to perform audit tests of both controls and substantive data.
+ CATS are instrumental in enhancing the efficiency and the effectiveness of the audit process, especially in a digitized business environment.
+ Some advantages of using CATS, they can handle large data analysis.
+ Also, with an audit trail navigation, CATS are invaluable when traditional audit trails are non-existent or when all audit evidence is in electronic form and CATS provide auditors with the necessary tools to review and analyze electronic data.
+ Another advantage is extended audit procedures.
+ With CATS, auditors can significantly expand the cope and depth of their audit procedures, which enhance the overall quality and reliability of the audit.
+ Some examples of CATS would be generalized audit software, also a sample size calculator, which helps auditors determine the appropriate sample size for various audit tests, considering the desired confidence level, the tolerable level, and expected error rates.
+ It's used in planning the audit approach and designing audit tests to ensure that tests are sufficiently reliable and relevant.
+ Another one is a classic, Microsoft Excel.
+ And then, finally, analytics ribbons in Excel.
+ The analytics ribbon is an add-on feature in Excel that provides additional data analysis and visualization tools.
+ It enhances Excel's existing capabilities, offering auditors more options for analyzing and presenting data in an audit-friendly format.
+ This includes information technology and auditing.
+ and we'll guide and analytics and ascending.
+ And then, let's make sure we have time to see where we should be until kneading 

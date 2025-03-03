@@ -1,0 +1,383 @@
+Audit planning and supervision.
+ So we are in stage three of our audit stages.
+ So stage one was our pre-engagement acceptance activities.
+ Stage two was the engagement letter.
+ And then we are here in stage three with audit strategy and planning.
+ Now audit planning includes risk assessment, audit strategy and plan development, and then materiality determination.
+ And this is where auditors decide on a threshold or materiality level for misstatements.
+ And misstatements below this threshold are not considered significant to financial statement users.
+ We will begin with an overview of audit planning.
+ So the objective of the auditor is to plan the audit so it will be managed and performed in an effective and efficient manner.
+ And this involves establishing the overall audit strategy, which will include the audit scope, which determines the scope of the audit, considering factors like the company size, complexity, and nature of its operations.
+ Reporting objectives, like deadlines, timing of the audit, nature of the communications.
+ Resource considerations, identifying the nature, timing and extent of the resources that are required for the audit, engagement risks, any risks that could result in a material misstatement in the financial statements, or could impact the auditor's reputation.
+ And also evaluating what expertise the various team members on the audit team should have.
+ A detailed audit plan will include risk assessment procedures, determining the nature, timing, and extent of audit procedures, any assessed risks, both at the financial statement and the assertion levels, documentation, review and revisions, so continually revising and updating the audit plan as necessary.
+ Materiality, which is establishing a threshold for what is considered material for the audit.
+ So, a .
+05% paperclip, not material.
+ A $5,000 computer, pretty nice computer.
+ It might be material, it might not be material.
+ And then finally, use of technology.
+ So, what audit software, analytics, or other technologies will be used on the audit?
+ Some benefits of planning.
+ So, benefits would include identifying and devoting attention to important areas versus areas that are not as important.
+ Identifying and resolving potential problems.
+ So, this will allow auditors to detect areas of potential discrepancies early on.
+ Another benefit of audit planning is an effective and efficient audit.
+ So, an audit can be very effective, but not be efficient.
+ Like, the costs just are out of control.
+ An audit can be efficient, doesn't cost a lot, but it can also be not effective.
+ It doesn't do its job.
+ So, you want an effective and an efficient audit, and audit planning helps to achieve that goal.
+ Selecting appropriate resources.
+ So, which team members with specific expertises are essential.
+ Another benefit is directing and supervising engagement team members.
+ So, every team member is aware of their duties, which leads to greater accountability, and it helps to increase quality.
+ And then, finally, the requirements of component auditors, internal auditors, and specialists.
+ So, if you can use internal auditors, which obviously work for the client, while they're not independent, if you can use their work because you trust them and trust their judgment and feel good about using their work, that will help with a more efficient audit, because it's work that you don't have to do yourself.
+ Next, we will discuss the nature and extent of planning activities, which depend on the following factors.
+ Size and complexity of the entity.
+ A smaller entity, a less complex entity, doesn't require as much planning, and it's an easier audit.
+ If it's a gigantic company, very complex, that will impact the audit.
+ Also, engagement team members, previous experience with the entity.
+ If they're brand new to the company, then you're going to have a less efficient audit, because you're going to have to deploy more resources to get them up to speed.
+ If they've previously worked on the audit, if it's kind of same as last year, then that will help with the efficiency of the audit.
+ And any changes in circumstances during the audit.
+ So, unexpected changes in the entity's operations or new information might come to light.
+ It shifts in economic environments.
+ So, you audit some company that depends on the electric vehicle market and all of a sudden something shifts and that market is either a lot more lucrative or a lot less lucrative, that will impact the audit.
+ The audit plan.
+ The audit plan is more detailed than strategy because it provides a road map for the audit team to follow and it's usually an outline of the audit procedures and the tasks that will be performed during the audit and includes the areas that will be audited, audit objectives, the nature, time, and extent of audit procedures, as well as the resources that are required for the audit.
+ The audit plan must be documented in written form.
+ So, we will cover now the various activities and steps in the audit plan.
+ So, the auditor must understand the entity and its environment.
+ This includes industry conditions, regulatory environment, economic conditions.
+ So, industry conditions, I've worked for two publicly traded companies.
+ One was a shoe company and one was a publicly traded electric company.
+ And a publicly traded electric company is typically under the regulation of some sort of state commission.
+ So, the shoe company that I worked for, they could raise prices whenever they wanted to.
+ The electric company I worked for, they could not.
+ You had to do what's typically called a rate case and that's a team that I worked on.
+ You go in and make a case for the corporation commission that, hey, these are our costs and our costs are rising.
+ And for our investors, we have to get both a return on our equity and our debt.
+ And so, consequently, we need to be able to raise prices X.
+ And then they'll come in and they'll say yes or they'll say no or they'll say no.
+ And actually, we're going to lower your prices.
+ So, there's a risk or we're going to lower the prices that you can charge for electricity, which is not a good day.
+ And so, regulatory environment, it impacts the company.
+ Economic conditions, so like I said before, electric vehicles, if it's more lucrative, less lucrative.
+ Now, because of some technology or it's hard to get the specific minerals that are used for the batteries, the lithium and all that, then that impacts things.
+ So, that's understanding the industry, regulatory, and external factors in the environment.
+ Another is the nature of the entity, which includes business operations, ownership and governance structure, and investments and investment activities, whether the company is being involved with acquisitions one way or the other.
+ Who the key owners are.
+ If the owner is, you know, barfing every thought that they have on Twitter or X, then just, or if they, or if no one could even name who the CEO is.
+ That impacts things.
+ And the entity's objectives and their strategies.
+ So, what drives the entity, what their vision is, and then performance indicators, like key performance indicators and industry benchmarks.
+ Next is determining materiality and performance materiality.
+ So, materiality is a threshold above which errors or omissions in the financial statements can influence the economic decisions of the users.
+ So, that .
+05 cent paperclip won't impact their decision.
+ The company, that $5,000 computer may or may not impact the decision, but the $500 million whatever will likely impact the decision of the end user, which is probably material.
+ So, how you determine materiality is based on the auditor's professional judgment, which includes quantitative and qualitative factors.
+ So, quantitative factors might include a percentage of net profit, total assets, turnover.
+ Qualitative factors are really the nature of an item, and if this item is omitted, it might materially impact the end user.
+ And materiality is determined for the financial statements as a whole, but it can be adjusted for specific transactions and balances or disclosures.
+ And materiality is kind of a moving target.
+ Moving target, it's dynamic.
+ It can change throughout the course of the audit.
+ Performance materiality is a subset of the overall materiality used in the audit.
+ It's set less than the overall materiality, and it's used primarily for determining the extent of the audit procedures.
+ So, while materiality helps in identifying the level of misstatement or omission might influence decision making, performance materiality ensures that the combined impact of smaller misstatements don't become material.
+ So, performance materiality really gives us a safety margin.
+ It gives us a buffer to ensure that the aggregate of uncorrected and undetected immaterial misstatements don't exceed materiality for the financial statements as a whole.
+ That they don't add up to one big monster.
+ And so, if corrected and detected errors are less than performance materiality, then we can be comfortable that the total errors, which are uncorrected and undetected plus corrected and detected, will not exceed materiality.
+ And the determination of performance materiality is a judgment process.
+ If there's a higher level of performance materiality, then the risk for material misstatement is lower, which causes the nature, extent, and timing of our audit procedures to be lower.
+ So, performance materiality has an inverse relationship with the risk of material misstatement.
+ Conversely, if performance materiality is lower, then the risk of material misstatement is higher, and the nature, extent, and timing of our audit procedures is greater.
+ Risk assessment.
+ Let's first talk about some audit risk terminologies.
+ Audit risk is the risk that the auditor will express an incorrect opinion on the financial statements.
+ So, it's the risk that the auditor will issue an unqualified opinion that contain material misstatements, which is really bad.
+ It does not include the risk that the auditor will issue a qualified opinion on financial statements that contain no material misstatements.
+ And the acceptable level of audit risk, it's based on the auditor's professional judgment.
+ So, the auditor is there to attain reasonable assurance that the financial statements are free of material misstatements.
+ To achieve this, the auditor seeks sufficient and appropriate audit evidence to reduce this risk, the audit risk, to an acceptable level.
+ Inherent risk pertains to the risk of misstatement due to factors that are inherent to specific account balances or audit areas.
+ Now, both the management and the auditor can assess inherent risk, but they can't change it.
+ It's just a function of the client's entity and business operations and inherent risk exists regardless of how well the auditor does.
+ It's inherent.
+ It's there.
+ And depending on the complexity of the organization, there's some complex accounting.
+ There's a lot of estimates, use of fair value, rapid tech changes, et cetera.
+ Those are inherently more risky audits.
+ So, how do you combat it?
+ How do you combat inherent risk?
+ You have to seek to understand the industry, the operations, the regulatory environment, the tech.
+ You have to have a better understanding.
+ And then, based on this understanding, the auditor can then form the nature, extent, and timing of the audit procedures.
+ Control risk is the risk that controls fail to operate as they are supposed to.
+ So, the auditor can assess control risk.
+ They can't change it.
+ And, as the design, implementation, and maintenance of internal controls goes up, control risk goes down.
+ As the design, implementation, and maintenance of internal controls goes down, control risk goes up.
+ So, the auditor can evaluate the design and the effectiveness of the internal controls.
+ And then, this helps identify the control risk.
+ And, if the auditor feels like they can depend more on the internal controls, then that helps them to do fewer substantive procedures.
+ If they feel like they can't, then they need to be more invasive with the nature, extent, and timing of their audit procedures.
+ Detection risk.
+ This is the one that the auditor can control.
+ And, it's the risk that the audit procedures that the auditor does will fail to detect material misstatements that exist in the financial statements.
+ And, it's directly influenced by the audit procedures.
+ But, detection risk, while it can be minimized, it cannot be eliminated.
+ It will always be there.
+ And, the auditors can adjust their detection risk based on their assessment of the risk of material misstatement and the desired level of the audit risk.
+ Next, we will cover audit risk steps.
+ So, step one is to determine an acceptable level of audit risk.
+ And, again, audit risk is the risk that the auditor will fail to find a material misstatement that will impact the financial statements.
+ So, if there is a higher level of audit risk, then the effectiveness of the audit will go down.
+ If there is a lower audit risk, then the effectiveness of the audit will go up.
+ So, setting a lower audit risk ensures a more effective audit.
+ Step two is to assess inherent risk and control risk to determine the risk of material misstatement.
+ So, inherent risk and control risk together, they make up the risk of material misstatement.
+ So, by assessing these risks, the auditor can gauge the likelihood and potential magnitude of misstatements in the financial statements.
+ So, if inherent risk and control risk is higher, then the risk of material misstatement is higher.
+ If they are lower, then the risk of material misstatement is lower.
+ Step three is to determine detection risk.
+ Again, this is the one that the auditor can control.
+ And, it's based on the assessed risk of material misstatement.
+ So, if the assessed, inherent, and control risks are high, so the risk of material misstatement is high, then the auditor will aim for a lower detection risk.
+ Whereas, if the assessed, inherent, and control risks or risk of material misstatement are low, then the auditor can afford a higher detection risk.
+ Step four is to determine the nature, extent, and timing of the audit procedure.
+ So, these are what procedures will be performed, how much of them, and when to perform them.
+ A higher detection risk will lead to an increase in the nature, extent, and timing of testing, while a lower detection risk, again, detection risk is the risk that an auditor will fail to detect a material misstatement, will lead to a decrease in the nature, extent, and timing of testing.
+ The audit risk model, which is, the equation is audit risk equals inherent risk times control risk times detection risk, or set it another way, audit risk equals risk of material misstatement times detection risk.
+ So, if the risk of material misstatement is high, then the auditor will work to lower the detection risk, which then lowers the audit risk, because audit risk is on one side of the equation, then risk of material misstatement and detection risk are on the other.
+ So, if you want to, if the risk of material misstatement is high, then you want to lower detection risk, which means the audit risk will be lower.
+ And if you want to lower detection risk, then you do more substantive procedures.
+ So, the nature, extent, and timing of your procedures will go up.
+ That means more extensive tests, larger sample size, more testing towards year end.
+ If the risk of material misstatement is low, which means inherent risk and control risk are low, then the acceptable level of detection risk can go up, and the audit risk can go down.
+ So, if you have a higher acceptable level of detection risk, then the nature, extent, and timing of the audit procedures will go down less extensive tests, smaller sample sizes, more testing towards interim periods.
+ Fraud risk assessment.
+ Begin with frauds and errors.
+ Errors are due to unintended mistakes, just mess-ups.
+ Fraud are deliberate acts intended to deceive or mislead.
+ And fraud can be in various types.
+ You have financial reporting fraud, misappropriation of assets, like embezzling money, illegal acts.
+ So, bribing officials, et cetera.
+ Fraud risk factors.
+ So, these include incentives.
+ So, if someone has like a financial incentive or a political incentive to commit fraud, that's a fraud risk factor, or pressure.
+ Maybe someone has dirt on the CEO.
+ Like, hey, do this or we're going to out you.
+ Opportunity.
+ Opportunity is the circumstances that make it possible for fraud to be perpetrated.
+ So, weak internal controls, lack of oversight, inadequate segregation of duties, or just an organizational environment that just makes it conducive for fraud.
+ Another one is rationalization.
+ Everyone who commits fraud justifies it somehow in their own mind.
+ Like, everyone else is doing it.
+ I'm not getting paid enough.
+ I deserve this.
+ It's okay because, fill in the blank.
+ So, fraud risk factors are incentives and pressure.
+ Opportunities and rationalization.
+ Circumstances that are indicative of potential fraud.
+ Discrepancies in accounting.
+ Just unexplained reconciling items.
+ Or unsupported adjustments.
+ Conflicting or missing evidence.
+ So, documents appear to be altered, forged, et cetera.
+ Problematic relationship with the auditor and the management.
+ Like, the management, they're always just resisting the auditor.
+ Lots of disputes, disagreements.
+ Now, again, these things are just red flags.
+ It doesn't mean that there's necessarily fraud.
+ Just red flags.
+ Accounting policies that are different than industry norms.
+ And without really a real good reason.
+ Frequent changes in accounting estimates.
+ So, always changing estimates without good reason.
+ Management's revising figures.
+ Especially towards the close of the reporting period.
+ Management just kind of has a disregard for regulatory authorities.
+ Just kind of an attitude.
+ A history of just fighting regulators.
+ The industry is in decline.
+ So, the writing's on the wall.
+ The industry's going downhill.
+ You know.
+ DVD players.
+ Not a lot of DVD players being sold anymore.
+ If a company, all they do is DVD players.
+ Could be ripe for fraud.
+ An overly complex organizational structure.
+ Any unusual reporting relationships that aren't really good.
+ So, those are circumstances that just show that maybe, maybe just some red flags that fraud could exist.
+ So, what is the auditor's responsibility for fraud?
+ Well, first of all, the auditor, they have a significant responsibility to assess fraud.
+ And to respond to it.
+ They have to maintain professional skepticism.
+ They have to discuss fraud with the engagement team.
+ Talk about possible fraud methods.
+ The fraud risk factors.
+ The ways that management could be overriding controls.
+ And, again, a reminder to maintain professional skepticism.
+ Like, don't be crazy, but maintain your professional skepticism.
+ And then, risk assessment procedures for fraud.
+ So, perform inquiries of management.
+ Employees, internal auditors, legal counsel.
+ See if they suspect anything.
+ Inquire of management about fraud risk.
+ Talk to those who are responsible with oversight.
+ Identify any unusual transactions or relationships.
+ The auditor must use analytical procedures.
+ Particularly in assessing revenue recognition fraud risk.
+ Then, also, evaluate the presence of the fraud risk factors.
+ Which includes understanding the environment and the operations.
+ And then, the fraud risks need to be rigorously assessed.
+ To determine their potential impact on financial statements.
+ So, if a fraud risk wouldn't really materially impact the financial statements.
+ It's not as big of a deal.
+ Than if the risk of fraud in this particular area would impact the financial statements.
+ So, it's all about materiality and its relationship to the financial statements.
+ So, next, they identify and assess the fraud risks.
+ And, there are categories in different levels.
+ Such as significant, high, medium, low.
+ And then, in terms of type.
+ Materiality, probability, and impact.
+ Then, they respond.
+ The auditor responds to the assessed fraud risk.
+ They assign competent team members to a high risk area.
+ If it's someone's first day in the job, probably don't assign them to a high risk area.
+ And, adjust the nature, extent, and timing of audit procedures based on fraud risk.
+ And, make sure that management can't predict what you're doing.
+ Be unpredictable in your audit approach.
+ And then, evaluate your gathered evidence.
+ The auditor must be aware that evidence pointing to fraud in one area may suggest risks in other areas as well.
+ And, if fraud is found, then communicate based on how material it is.
+ If it's immaterial, or if it's insignificant, communicate it to a level above the employee.
+ If it's material, get top management involved, those in charge of corporate governance, audit committee, etc.
+ The auditor can only report fraud to external authorities if there's a legal mandate, subpoena, a requirement to the successor auditor.
+ Remember, before taking on an engagement, the auditor must interview the predecessor auditor.
+ Or, if there's governmental funding conditions.
+ And then, document, document, document.
+ So, document, always document, record everything, just dot every T, cross every I, or the other way around.
+ Document, document, document.
+ Next is to determine the nature, extent, and timing of the audit procedures.
+ So, these are crafted to address the risks identified during the risk assessment phase.
+ The nature, timing, and extent of these procedures will vary based on the auditor's evaluation of the inherent and control risks, as well as the desired level of the detection risk.
+ Next is resource deployment.
+ You have to determine the audit budget and personnel allocation, what types of people are going to be on the team, what types of environments, high risk, low risk, specialized skills, general skills, etc.
+ Then you discuss with the management.
+ It would be good for the auditor to discuss certain aspects of the audit plan with the management.
+ You want to be friendly, be cordial, but be cautious.
+ Don't compromise the effectiveness of the audit by tipping your hand.
+ So, revealing specifics about things.
+ Like, don't do that.
+ And if you're too friendly, too buddy-buddy with the management, that is not good.
+ Then discuss with the key engagement members.
+ This allows the auditor to leverage just the collective experience of the members to help with the audit approach.
+ Things might come up.
+ Oh, I used to do such and such.
+ Oh, you used to audit a publicly traded electric company three jobs ago and you know you've been through three rate cases and you kind of know how they go.
+ Hey, I want you to do such and such.
+ And then decide on involving internal auditors specialists and component auditors.
+ If you can rely on the internal auditor, that will help with the efficiency of the audit.
+ Now, obviously they're not independent, but if they're certified internal auditors and they've been there for a while and seem to know their stuff and you trust them, then that will help with determining your audit procedures.
+ Any specialists, if you are involved with some sort of entity that has a very nuanced thing, like if you're auditing crypto and you don't know a thing about crypto, it might be a good idea to have someone who knows about crypto and has audited crypto before.
+ Role of component auditors and you might bring them in for particular audit segments.
+ Next is documentation of the audit plan.
+ Every step and procedure should be clearly documented and any changes to the audit strategy and the audit plan should be documented as well.
+ Next is audit supervision.
+ So this refers to the continuous oversight and guidance that are provided during the audit process to ensure that the audit is conductive effectively, efficiently, and also, pretty important, in accordance with professional standards.
+ Because if it hits the fan, if there's a big to-do and the investors are mad, who are they going to come back at?
+ The auditors.
+ So everything is documented and you need to be able to show that you did everything in accordance with professional standards and regulations and every T is crossed, I was dotted.
+ You did everything that a normal auditor should do because they're going to come for blood and they're going to want your head.
+ And so you document everything that's up to par with the standards, a reasonable auditor, a reasonable CPA would have done the exact same thing.
+ So factors that determine the level of audit supervision, the size and complexity of the entity.
+ Very complex, greater level of supervision.
+ Not as complex, smaller entity, less supervision.
+ The area of the audit, if it's a more complex audit, more supervision.
+ Not as complex, less supervision.
+ If the assessed level of material in the statement is higher than the supervision, there's more scrutiny.
+ And then the competency of the audit team.
+ If they're more competent, seasoned vets, it's in crypto, it's a crypto company and you've got crypto specialists on it, less supervision.
+ If you don't feel as good about the competency of the team and you've got some people on there that they've heard of crypto and can maybe tell you what blockchain is.
+ You need to elevate your supervision and probably bring in someone who knows more about crypto to help supervise it.
+ Direction of the audit team.
+ So the direction of the audit team ensures that every team member is on the same page, they know their role, they have the necessary knowledge to execute their responsibilities.
+ This would include informing the team of their professional responsibilities, remind them to be professionally skeptical, to define partner responsibilities, especially when multiple partners are involved.
+ Just clarify those responsibilities, make sure there's no overlap, no gaps.
+ Objectives of the work, clearly communicate what we're doing.
+ Forming of the risk, if there's some high risk areas, let's talk about it.
+ There's some high fraud areas, or potential high fraud areas, let's talk about it.
+ Detailing the approach, what we're going to focus on, the rationale between certain audit strategies.
+ Training, make sure that your team is up to speed.
+ If you're auditing a crypto company, not everyone on the team has to be an expert on crypto, but maybe they should all go through a three hour seminar talking about the basics.
+ And then promote a culture where everyone's talking, everyone's discussing, people aren't just keeping to themselves.
+ Supervision of the audit team, got to track progress, got to review the progress versus the audit plan.
+ Monitoring deadlines, milestones, and specific tasks for timely completion.
+ Ensuring competency and resources, making sure everyone's competent, making sure everyone has what they need.
+ Address findings and issues, any discrepancies that come up should be brought to the supervisor's attention.
+ The supervisor should be reviewing work.
+ It's a critical component of the supervisor to review work.
+ Communicate.
+ Open channels of communication.
+ If you want your people to talk to you, don't be a jerk.
+ Some of you have supervisors who are jerks.
+ I once had a supervisor when I was working on a rate case.
+ Nice guy.
+ He's since retired, and when I run into him, once every couple years at the grocery store, or something, we'd chat and shake hands and pat each other on the back and laugh about old times.
+ But there was once a time when he got mad and threw a candy dish against the wall.
+ And there was another time when, you know, I was new.
+ I didn't exactly know what I was doing, but I was given the task on working on a very significant part of the rate case that we were working on.
+ And, like, this was a big deal.
+ It was called the Environmental Cost Recovery Writer.
+ And he gave it to me for some reason.
+ And, like, I didn't know what I was doing.
+ And so I would go into his office, and he'd answer my question.
+ And then one time I went in there and asked him a question.
+ He's like, what, what?
+ And so that combined with getting mad and, like, slamming the candy dish against the wall, do you think that facilitated an open channel of communication?
+ Heck no.
+ And so I only asked a question or sought clarification if I really, if the juice was worth the squeeze.
+ So, anyway.
+ And finally, feedback and training.
+ Make sure that everyone on the audit team is adequately trained and has given feedback.
+ Now, reviewing audit work.
+ This should be done and executed in compliance with professional standards so that the conclusions of the audit work are based on solid evidence.
+ And reviewing also acts as kind of a safety net, as a quality control measure, ensuring that the audit's objectives are met and that potential issues are addressed.
+ And if there are areas that are inherently risky and red flags have been, have come up before, but none this time, hey, let's drill down into that.
+ Like, why?
+ Like, maybe everything's fine, but maybe, maybe not.
+ So let's double check.
+ Make sure that the audit work is done in compliance with standards.
+ It's accurate that the audit findings have been, that any significant audit findings have been duly noted or flagged for further analysis.
+ Consultation with outside people, experts.
+ An overall assessment of the audit work.
+ The nature, extent, and timing of the audit procedures.
+ Areas that were just inherently more risky.
+ Do they do them during interim periods?
+ Or do they do them closer to the end of the periods like they should have?
+ Is everything documented?
+ Do they collect sufficient, appropriate audit evidence?
+ And are the objectives, have the objectives of the audit been met?
+ Now, who bears the responsibility for the audit review?
+ The engagement partner.
+ They bear the ultimate responsibility.
+ Now, they can delegate tasks, but ultimately, the engagement partner is ultimately responsible.
+ And the extent and timing and the details of the reviewer need to be documented.
+ So, details of the reviewer, the timing of the review, and the extent and type of review.
+ Finally, during the engagement, you might have team members who disagree on some things.
+ And the engagement partner plays a pivotal role in working all this out.
+ And they will assess the differing views and determine the most appropriate course of action.
+ So, if there are dissenting views, then these dissenting views need to be documented.
+ And what should be documented are the disagreements, who they are, why, and then the basis for the final resolution as determined by the engagement partner.
+ This concludes audit planning and supervision.
+ Same!
+ As 84 컨 OGS Iris As 85 As 85 As 62 As 85 As 87 As 85 As 87 As 85 As 85 As 85 As 84 As 85 As 80 As 87 As 85 Ef 

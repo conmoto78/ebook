@@ -1,0 +1,262 @@
+Audit data analytics.
+ In this session, we are going to discuss the use of data and information in audits, and then dive into audit data analytics, including an overview, steps to applying audit data analytics, the benefits, and then finally the challenges of using audit data analytics.
+ We begin with the use of data and information and data organization and structure.
+ Computers store and process data using electronic switches called transistors, which can be in one of two states, on or off.
+ These are represented by digits one and zero, respectively.
+ This is why this type of storage is called binary.
+ And then you have a hierarchy of data.
+ You have, starting from smallest to largest, you have a bit, then a byte, then a field, then a record.
+ Then a record can be searched in a file using a primary key or a secondary key.
+ A primary key is a field in a record that can be used to uniquely identify that record.
+ A primary key is often a unique identifier, like a serial number or an email address that's assigned to each record in the database.
+ The primary key is used to identify and locate a specific record in the database and to ensure that there are no duplicate records.
+ And a database contains a number of customer records.
+ The primary key for each customer record might be a unique customer ID number.
+ Or a database might have a primary key of email addresses, so that users can search for a record using the email address.
+ So, if you are a Ninja customer, and if you're listening to this, hopefully you are.
+ If you're not, you can sign up at ninjacpreview.
+com.
+ Whenever I need to adjust someone's account, adjust their access, or maybe something with their account isn't working, I search for their email address in our database that is the primary key.
+ Then, a secondary key is a key that can be used to locate a record in the database when the primary key is unknown.
+ Secondary keys are often used to provide an alternate way to search for and access records in the database.
+ So, an example would be a last name.
+ Now, if someone emails me and they say, hey Jeff, my access isn't working, and believe it or not, people email me sometimes, maybe not often, but I would say sometimes, using an email address that isn't the same email address as what they signed up with Ninja.
+ And so, that email address, the primary key, isn't working, so then I have to use a secondary key.
+ I would type in their email address, and then hopefully their last name isn't Smith, but then I can typically find them using the secondary key.
+ Then there's a foreign key, which is a column or set of columns in a relational database that is used to establish and maintain a link between data in two tables.
+ The foreign key in one table is used to reference the primary key in another.
+ So, for example, if a database has two tables, one called customers, and the other called orders, the customers table would have a primary key, like customer ID, and orders would have a foreign key, also called customer ID, that references the primary key in the customer's table.
+ This creates a relationship between the two tables, and ensures that the order is linked to the correct customer.
+ So, that was for a record.
+ And again, a record can be a primary key or secondary key.
+ And then you have a file.
+ And then within a file, you have a master file and a detail file.
+ A master file is a permanent source of information that's used as an ongoing reference and is periodically updated.
+ A master file typically contains information that's not expected to change frequently, such as customer data, product data, vendor data.
+ A detail file is a file that lists a group of transactions, such as sales orders, invoices, purchase orders.
+ A detail file can be used to update a master file by adding new records or modifying existing records.
+ So, that was a file, master file, detail file.
+ And then you have a database, which is a collection of logically-related files that are organized and stored in a computer and are devoted to one common function.
+ Databases are used to store and manage large amounts of data and are often used to support businesses, organizations, websites.
+ So, that's a database.
+ So, our next topic within databases is a relational database.
+ A relational database, which is based on the relational model where data is organized into tables consisting of rows and columns.
+ Tables are related to each other using primary and foreign keys, allowing the representation of complex relationships between entities.
+ Relational schemas are widely used due to their flexibility, their ease of use, and support for powerful query languages like SQL.
+ SQL, you've seen SQL, that's SQL.
+ Let's use an example.
+ A university system has students, courses, and enrollments tables.
+ So, one table might have a column for student ID and then a column for name.
+ So, student ID, one, two, three, name, Alice, Bob, Charlie.
+ That's the students table.
+ Then there's the courses table, which has a course ID, 101, 201, 301, and then the name of the course, Math, Science, Literature.
+ And then in the enrollments table.
+ Enrollment ID, A1, A2, A3, with student ID, 1, 2, 3, 001, 002, 003.
+ Then the course ID, 101, 102, 103.
+ So, the enrollments table contains information from both the students table and the courses table.
+ In the enrollments table, the primary key is the enrollment ID.
+ That's what's unique to the enrollments table, A1, A2, A3, which uniquely identifies each enrollment record.
+ Granted, I know this is an audio, so I'm trying to walk through this in a very audio-friendly way.
+ The foreign key and foreign keys in the enrollments table are the student ID and the course ID, which establishes relationships between the enrollments table and the students and courses tables.
+ By using primary and foreign keys in the relational schema, we can efficiently represent relationships between entities and maintain data integrity while we query or we update records.
+ So, I hope that helps to walk through how a foreign key can exist within a table.
+ Our next topic is data extraction.
+ When making a data extraction request to complete planned procedures in the context of auditing or data analysis, it's essential to specify the attribute structures, data format, and data sources clearly.
+ So, we want to identify the purpose and the scope.
+ We want to define the attribute structures, so fields or columns of data that are necessary to achieve our audit objectives or our analytical goals.
+ This involves identifying the specific information you need to extract.
+ For example, if you need customer data, we list the attributes required, such as name, address, phone number, and account balance.
+ So, we define the attribute structures.
+ Then we specify the format of the data.
+ So, we are specific about our data types, such as date formats, numeric precision, text encoding, and then we have our data sources.
+ So, we identify the sources that we want to extract the data.
+ This could be an internal database, an external source, a file repository that we have, like a shared drive or cloud storage or FTP server, or web services or APIs that we want to bring the data in from another source, or physical documents.
+ Maybe we need to scan and digitize them.
+ So, that's identifying the data sources.
+ Then we determine whether we need to extract an entire data set, or if sampling will suffice.
+ We can decide that.
+ Then, determine our data quality and our data cleansing requirements, like removing duplicates, things like that.
+ Then, the legal and ethical considerations.
+ Make sure that we're not breaking any laws.
+ We also want to determine the timing and frequency of the data.
+ Is this a one-time request, or do we need to set this up as an automated request?
+ Sometimes, I will set up an automated report that gets emailed to me weekly.
+ Also, documentation and traceability requirements.
+ We want to maintain detailed documentation of our data extraction requests, including the requesters' name, purpose, attributes, sources.
+ This helps to ensure transparency, and it goes back to the legal and ethical.
+ Like, the person who's accessing this, should they be?
+ And then, communicate with data owners.
+ If we are extracting data from systems or databases managed by others, we need to communicate our requests.
+ Because if the data pool is large enough, then our request might put a strain on their system, and so maybe three in the afternoon isn't the best time to do it.
+ Maybe it's actually three in the morning, so all of that.
+ So, again, for data extraction, we identify the purpose and the scope.
+ What are we trying to do?
+ Define our attributes, structures, fields, what types of columns do we want?
+ Then the format of the data, our data sources.
+ Are we going to use all of the data or just sample it?
+ And then our data quality and cleansing requirements, like duplicate checks, things like that.
+ And then, is it legal?
+ Is it ethical?
+ And again, timing and frequency, documentation and traceability, and communicate with the data owners.
+ Our next topic is data transformation.
+ Data transformation, including data preparation, cleaning, and scrubbing, is a crucial step in the data analysis process, whether for auditing or other analytical purposes.
+ The goal is to ensure that the data is actually accurate, consistent, and ready for analysis.
+ Data transformation involves several steps and components.
+ They include data cleaning, which involves identifying missing data points, and then deciding on an appropriate strategy to fill in the gaps.
+ Also, outliers, so if there's outliers in your data set, how to handle them, because they may skew your analysis.
+ There's data validation, which involves checking for data integrity by validating that the values fall within the expected ranges or that they conform to your predefined rules.
+ So that's data cleaning.
+ There's data cleaning.
+ Then there's data standardization, which ensures that the data is in a consistent format.
+ There's data aggregation and grouping, where you aggregate the data to make it more manageable and relevant for analysis.
+ So instead of having very granular data, you aggregate it into higher levels so that it can be summarized.
+ So summarizing daily sales data into monthly or yearly totals to make it more manageable.
+ Then there's data merging and joining, where you combine data from multiple sources or data sets in a relational database by merging data frames and data analysis tools like Python.
+ Then there's data deduplication, which involves identifying and removing duplicate records or entries to ensure data integrity and to avoid double counting the data in your analysis.
+ Then there's text data processing.
+ Then there's text data processing.
+ For text data, we perform tasks like tokenization, stemming, and stop word removal to prepare it for NLP natural language processing tasks.
+ Then we implement the data quality checks at various stages of transformation to identify and correct errors early in the process.
+ So those are data quality checks.
+ And we keep detailed records of all data transformation steps, including any changes made to the original data.
+ This documentation is essential for audit trails and reproducibility.
+ So that's documentation and logging.
+ And before applying data transformations to the entire data set, it's important that we test our transformation scripts on smaller subsets to ensure that they work as intended and don't introduce errors into the data.
+ So those are test data transformation scripts.
+ And we consider automating our data transformation processes, especially for routine and repetitive tasks to improve efficiency and reduce the risk of human error.
+ And also just to make sure that we don't forget.
+ And we verify that the transformed data aligns with our intended goals and objectives and we validate the results to ensure that they make sense within the context of our analysis.
+ So that's data transformation.
+ Our next topic are automated tools and techniques to process data.
+ So applying automated tools and techniques to process, organize, structure, or present data in a given context is a critical step in generating useful information that can be used as evidence in various domains, including auditing, data analysis, and reporting.
+ And there are several steps involved.
+ They include defining our objectives.
+ So what exactly are we trying to do?
+ Selecting the right tools for the job.
+ Those tools may be just simple spreadsheets like Excel or data analysis tools like Python or other business intelligence platforms.
+ There's data acquisition where we import or acquire the raw data into our chosen tool.
+ And we ensure that the data is in a format that's compatible with the tool and can be easily manipulated.
+ Then there's data cleaning and reprocessing.
+ We remove duplicates, things like that, find missing values.
+ Then data transformation and securing.
+ We just spoke about that.
+ There's data analysis and modeling where we utilize automated data analysis and modeling techniques to generate insights and evidence.
+ This can include statistical analysis, machine learning algorithms, and data mining.
+ There's visualization and reporting where we use charts, graphs, dashboards, tables to make the information visually appealing and understandable.
+ There's automation scripts and workflows where we develop automation scripts or workflows that allow you to repeat the data processing and analysis steps consistently.
+ Automation ensures reproducibility and efficiency.
+ And again, so that you won't forget.
+ Then we validate the results.
+ We document our process.
+ We review it.
+ Run through a quality assurance check.
+ We interpret and contextualize the data.
+ This ensures that the information is relevant and meaningful.
+ And we use it as evidence.
+ We present the generated information as evidence to support our conclusions, findings, or recommendation.
+ And we have to be able to clearly articulate how the information supports our claims or decisions.
+ And with all data, we have to maintain its security and privacy.
+ And then finally, we need to continuously be improving.
+ Continuously refine and improve our automated data processing and analysis techniques based on feedback and also evolving technology and requirements.
+ The next topic is measurement scales of data.
+ In the world of financial auditing, understanding the nature of data and how it is measured is paramount for making informed decisions, assessing risks, and ensuring the accuracy and integrity of the financial statements.
+ So various measurement scales are employed to categorize and analyze financial data, each with its own unique characteristics and applications.
+ And there are six different scales to cover.
+ There's the nominal scale, ordinal scale, interval scale, ratio scale, continuous data, and discrete data.
+ We begin with the nominal scale.
+ Nominal scales represent data with categories or labels that have no inherent order or ranking.
+ In auditing, nominal scales are often used to classify data into categories such as types of expenses, operating, interest expense, or types of assets, current assets, fixed assets, etc.
+ That's nominal scale.
+ Then, ordinal scale.
+ Ordinal scales represent data with categories that have a meaningful order of ranking.
+ But the intervals between categories are not necessarily equal.
+ The ranking reflects a relative comparison but does not indicate the exact difference between categories.
+ Auditors may use ordinal scales to assess the risk or materiality of financial transactions or events such as ranking the significance of control deficiencies as low, moderate, or low.
+ Or high.
+ That's ordinal scale.
+ That's ordinal scale.
+ Then there's interval scale.
+ Interval scales represent data with categories that have a meaningful order and the intervals between categories are equal.
+ However, there's no true zero point, meaning that a value of zero does not indicate the absence of the attribute being measured.
+ Interval scales are not commonly used in auditing but may appear in financial ratios where the absence of a zero point is acceptable.
+ That might make for a good exam question.
+ Just remember, no zero point, interval.
+ Then there's ratio scale.
+ Ratio scales are similar to interval scales but they do have a true zero point indicating the absence of the attribute being measured.
+ Ratios have meaningful and equal intervals.
+ Ratio scales are frequently used in auditing especially when dealing with financial ratios like price to earnings ratio, debt to equity ratio, or return on investment.
+ These ratios involve measurements with a clear zero point and equal intervals.
+ Then we have continuous data which can take any value within a range and often involve measurements on a ratio or interval scale.
+ They are not limited to specific discrete values which we'll talk about in a minute.
+ In auditing, continuous data can be found when measuring variables like revenue, profit, market price, which can take a wide range of values and are typically measured on a ratio or interval scale.
+ Then there's discrete data which consists of distinct separate values with no values in between.
+ They are typically nominal or ordinal in nature.
+ In auditing, discrete data might include the number of employees, the number of subsidiaries, or the count of specific types of transactions.
+ These values are often counted and do not have continuous variations.
+ That's discrete data.
+ So that ends our first section on data and information.
+ We will now move into the area of audit data analytics.
+ Data analytics refers to the process of examining, cleaning, transforming, and modeling data to extract useful information, draw conclusions, and support decision making.
+ This field encompasses a variety of techniques and approaches to analyze data and provide valuable insights and knowledge that can be used in various domains including business, healthcare, finance, marketing, and more.
+ So that's data analytics.
+ Audit data analytics refers to the use of data analytics in various technologies to enhance the audit process.
+ This approach is increasingly important as companies generate vast amounts of data that auditors need to sift through and analyze to ensure accuracy, compliance, and ultimately the reliability of the financial statements.
+ Audit data analytics is used to identify anomalies, trends, and patterns within large data sets, which help auditors focus their efforts on areas that are more material or more likely to contain errors or fraud.
+ So our next topic is audit activities using data analytics.
+ The ability of analytics tools to easily extract useful information from a complex data structure makes it immensely useful in auditing and also in assurance engagements.
+ The data analytics tools can be used for the following activities.
+ For doing things like analyzing risks, testing controls, assisting in analytical procedures, supporting judgments, and providing insights.
+ Examples would be analyzing trends and revenues, scrutinizing inventory.
+ Because analytics can help auditors identify old or obsolete inventory by analyzing the age of those inventory items.
+ And data analytics can highlight inventory items that have not been sold or used in a very long time, indicating that there's potential obsolescence or overstocking.
+ Data analytics also allow auditors to analyze entire subsets rather than relying on sampling, which enhances the accuracy and reliability of the audit findings by examining all transactions for anomalies, errors, or fraud.
+ They also help with fraud detection because auditors are tasked with identifying potentially fraudulent activities within a company.
+ And using anomaly detection and predictive modeling, auditors can identify unusual transactions, discrepancies, or patterns that may or may not indicate fraud.
+ For instance, sudden spikes in expenses, duplicate transactions, or transactions occurring at odd hours, like 3 in the morning, can be flagged for further investigation.
+ Audit data analytics can also help with expense analysis, revenue recognition, where it can analyze sales transactions and contracts to ensure that revenue is recognized correctly and consistently, and identify any transactions that don't comply with the established revenue recognition criteria.
+ Also with vendors and suppliers, also with vendors and suppliers, tax compliance to analyze tax filings and payments, identify discrepancies, underpayments, overpayments, ensuring that all tax obligations are met accurately and on time, which could save a lot on penalties and interest.
+ Also, internal controls testing and customer and account reconciliation.
+ It's crucial to understand that the data analytics tools by themselves don't and cannot enhance the quality of an audit or any field for that matter.
+ These software tools are merely conduits which collate and arrange the data per the expertise of the data analyst.
+ So essentially, data analytics tools are only as good as the person or the people running them, which really comes down to experience, expertise, and judgment, and professional skepticism of the auditor.
+ Our next topic is the steps to applying audit data analytics.
+ First, we plan, then we access and prepare the data, then we assess the data for relevance and reliability, then we perform audit data analytics, then we evaluate, and we conclude.
+ First, we have objective planning.
+ During this stage, the auditors must meticulously outline the objectives of the data analysis.
+ Then we have data selection, which is very crucial.
+ We need to sift through various data sets and choosing those that are categorized by sufficient volume, availability, reliability, relevance, and appropriateness for whatever our goals are.
+ Then we select our tools and our techniques.
+ We access and we prepare the data, remove duplicates.
+ Then we assess the relevance and the reliability of the data, we perform our analytics, we evaluate the conclusions, and then communicate those conclusions.
+ Some benefits of audit data analytics, and we've already talked about this, but just to recap, audit data analytics, they enhance efficiency.
+ They increase our accuracy, which leads to automated analysis and faster audits.
+ They increase our accuracy, assuming that the data that is being fed is good, and it reduces human error.
+ It helps to improve our risk assessment because it helps to identify risks and helps to mitigate those risks.
+ It makes for a better and higher quality audit, gives us deeper insights, and the decisions are based on data, not just random biased opinions.
+ It gives us better control testing, gives us better control testing, gives us automated testing, continuous monitoring.
+ It gives us valuable business insights, ways that operations can improve, helps with strategic planning, helps with increased client satisfaction, a faster audit, a more efficient audit, a more transparent report.
+ It provides opportunities for value-added services.
+ So it's more than just a compliance check.
+ Also enhanced fraud detection, anomaly detection, predictive modeling.
+ If the results aren't what the model predicted, let's find out why.
+ And also, they are flexible and scalable.
+ It can be adaptable to various types of data, various data sets, and scalable.
+ Audit data analytics tools can be scaled to handle large volumes of data, making them suitable for any type or size of organization.
+ There are some challenges, however, not just benefits, but there are challenges too, and they include data quality.
+ Like I said before, the tools are only as good as the data and the people running them.
+ Also data security.
+ So with the increased prevalence of cyber threats, if all of your data is digitized, it's more vulnerable in some ways than if it was on paper.
+ Skill sets.
+ Data analytics.
+ It requires a higher level of skill set and analysis and staff training, continuous learning development.
+ And as soon as you learn one technology, it could be obsolete.
+ And so it's more expensive.
+ And also there's regulatory compliance.
+ So auditors must adhere to various laws, regulations, professional standards that govern the use of data, including privacy and auditing practices.
+ So navigating through these requirements and regulations can be complex and challenging, especially as the laws and standards vary across different jurisdictions and are always subject to change.
+ So auditors have to stay up to date and informed on relevant legal and professional standards that apply to their work.
+ This involves understanding the implications of these laws, like the GDPR in Europe, the General Data Protection Regulation.
+ Also regulations in the health insurance industry, like HIPAA, things like that.
+ So while there are many, many benefits, there are also some challenges and considerations to consider.
+ This concludes Audit Data Analytics.
+ 

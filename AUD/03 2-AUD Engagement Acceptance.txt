@@ -1,0 +1,78 @@
+Engagement acceptance.
+ So within the stages of the audit, you have your pre-engagement acceptance activities, then your engagement letter, then your audit strategy and planning, internal control evaluation, substantive procedures, audit completion, report preparation, and communication, then finally your post-audit responsibilities and your quality control.
+ This lecture will focus on solely engagement acceptance.
+ So for your pre-engagement acceptance activities and your engagement letter, we begin with pre-engagement acceptance activities.
+ You receive an appointment.
+ You make an assessment of the auditor's capability.
+ And the auditor must ensure that they are independent and adhere to all relevant ethical rules of conduct.
+ And the auditor should ascertain they have the necessary time and resources to finish the audit, that's important.
+ They should ensure that the audit team possesses the skills and their personnel required to complete the engagement effectively.
+ So if your audit team is only used to doing banks, should you take on a client that deals exclusively in nuclear reactors?
+ The answer is maybe.
+ Only take the audit if your team either possesses the skills or will possess the skills at game time, as it were, to do the audit.
+ Otherwise, punt.
+ Like stick to banks or stick to what you're good at.
+ You have to, you gotta know your stuff.
+ Then we get an assessment of the client's auditability.
+ So how's the integrity and the credibility of the management team looking?
+ Looking good, looking shady, don't know.
+ Determine whether the financial reporting framework utilized by the client is acceptable and aligned with its own standards.
+ The client must acknowledge their responsibility for the financial statements and their own internal control.
+ And they should guarantee that the auditor will have access to the financial statement information and any additional information that's required.
+ They'll have unrestricted access.
+ So if there's any like, eh, red flag.
+ Then you have to communicate with the predecessor auditor before accepting the engagement.
+ This is mandatory.
+ It's not optional.
+ It's not, eh, that's a best practice.
+ It's mandatory.
+ So those communications would be as follows.
+ First, you have to seek permission from the client.
+ If they don't give you permission, not only is it a red flag, you gotta punt.
+ So you have to seek permission and get that permission.
+ So once you get permission, then the topics that you discuss.
+ Hey, why'd you change?
+ Because auditors are in the business of auditing.
+ That's how they make their money.
+ Why are you no longer engaged with this client?
+ Hey, what's the integrity of the management?
+ Any past audit disagreements or disputes?
+ What were your communications like with the audit committee?
+ Any related party or unusual shady-ish transactions?
+ Then you have the engagement letter.
+ And this is mandatory.
+ And the components of the engagement letter are as follows.
+ You have the parties to engagements.
+ The auditor, the management, and those in charge of governance.
+ The audit objectives and scope.
+ The management's responsibilities, which are the financial statements and the internal controls.
+ Whose financial statements are they?
+ They belong to the management.
+ Very important.
+ Well, and the access that's required and written representations.
+ The auditor's responsibilities are to opine on the financial statements.
+ To write an opinion.
+ And to communicate any significant deficiencies and or material weaknesses in the company's internal controls.
+ Next, the limitations of the audit.
+ In the form of the audit report.
+ And then, finally, fees and other arrangements.
+ Fees structure, additional services, and the involvement of specialists or internal auditors that are foreseen.
+ Finally, confidentiality.
+ Now, so that's for a new engagement.
+ What about continuing engagement?
+ If the terms of the engagement are unchanged, then it's a best practice to remind the client of the existing terms at the beginning of the audit cycle.
+ This can be done written or orally.
+ If orally, make sure you document it.
+ If the terms of the engagement have changed, then it's essential to put these in writing.
+ Like, always put things in writing.
+ Even if it's oral, document it.
+ Because people's memories have a tendency to get foggy.
+ And this could be either a revised engagement letter or an addendum to the original letter.
+ What about a client's request for a change in the terms of engagement?
+ If it's a reasonable request, so the subsequent report issued on the altered service should not make any reference to the original audit engagement.
+ Only the audit procedures or tasks conducted during the original audit.
+ But if it's an unreasonable request, then decline any change in the engagement terms.
+ In the instance of an unreasonable request, the auditor should withdraw from the engagement, communicate the reasons for withdrawal, and communicate those concerns to those charged with governance.
+ And you have an obligation to inform other stakeholders or regulatory bodies about the withdrawal and the reasons.
+ This concludes Engagement Acceptance.
+ 

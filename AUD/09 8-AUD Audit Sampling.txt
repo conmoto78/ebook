@@ -1,0 +1,326 @@
+Audit sampling.
+ In this session, we are going to cover audit sampling basics and cover the audit sampling process, types of sampling, sampling risk and non-sampling risk, the impact of risk of material misstatement on sample size, sample selection, evaluating sample results, and then move into sampling for a test of controls, which is attribute sampling and sampling for a test of detail, which is variable sampling and then dive further into classic variable sampling and then finish it up with probability proportional to size, or PPS sampling.
+ We begin with audit sampling basics.
+ Audit sampling refers to the process used by auditors to select and evaluate a subset of items from a population of financial transactions or elements, and the purpose is to provide a reasonable basis for auditors to draw conclusions about the population from which the sample is selected.
+ So, basically, as you know from your college accounting classes, your college auditing classes, you can't look at every single transaction, so you look at a sample, and hopefully the sample is representative of the entire population, and then extrapolate those results to the population as a whole, and then make a conclusion on the population.
+ So, the primary goal of an audit is to provide reasonable assurance that the financial statements are free from material misstatement, whether due to fraud or error.
+ Reasonable assurance is high, but it's not an absolute level of assurance.
+ So, sampling provides a reasonable basis for the auditor to express an opinion on the financial statements.
+ Reasons for sampling include cost-effectiveness, because sampling allows for a more efficient allocation of resources, making the audit process economically feasible.
+ Sampling also helps with time management, helps to focus on key areas, and feasibility.
+ In many cases, it's not feasible to audit every item due to time constraints, like we already said, and also to keep it within time and budget.
+ So, sampling provides a practical approach to obtain sufficient audit evidence.
+ Now, a breakdown of the audit sampling process.
+ First, we define our objectives.
+ We clearly state what we intend to achieve with the sampling.
+ Then we define the population.
+ We identify the complete set of items from which the sample will be selected.
+ Then we select the sampling method, make sure it's appropriate.
+ Then we determine the sample size, select our sample items, we perform our audit procedures, we evaluate our results, and then we document the process.
+ Within audit sampling, there are two types of sampling.
+ There's attribute sampling, which is a test of controls, and there's variable sampling, which is a test of details.
+ Both attribute sampling and variable sampling have statistical sampling and non-statistical sampling.
+ So, let's jump into statistical sampling.
+ Statistical sampling utilizes mathematical formulas and models to determine a sample size and to evaluate results, providing a systematic and objective methodology.
+ And it provides an objective basis for quantifying sampling risk, allowing for a more precise measurement of the sufficiency and the reliability of the audit evidence.
+ So, statistical sampling involves random selection methods to ensure every item in the population has an equal chance of being selected.
+ This is ideal when there's a large population of diverse items and the auditor wishes to quantify sampling risk.
+ Advantages of statistical sampling include that it helps in designing a sample that is representative of the population, enhancing the efficiency of the audit.
+ And it offers an impartial assessment of the sample results, reducing the influence of auditor bias, and also allows for the measurement of the sufficiency of the audit evidence obtained, which supports the auditor's conclusions.
+ Some challenges or disadvantages of statistical sampling are that auditors need to have or acquire statistical knowledge and skills to effectively use statistical sampling techniques.
+ And it may or may not be practical or efficient for populations that are not easily accessible in a digital format like manual records or in cases where clients just have inadequate record-keeping systems.
+ So, that's statistical sampling.
+ Non-statistical sampling relies heavily on the auditor's professional judgment for determining sample size and then evaluating sample results.
+ So, the evaluation of sample results is based on the auditor's experience and their intuition rather than math.
+ So, non-statistical sampling uses various selection methods including haphazard or judgmental selection.
+ This is suitable for smaller or more homogenous populations or when the auditor prefers just to rely on professional judgment and experience.
+ Advantages of non-statistical sampling include that it's easier and quicker to implement, especially for auditors who may not be well-versed in statistical methods.
+ And also, it offers more flexibility as it doesn't adhere to strict statistical rules and formulas.
+ The downside is that it's more prone to auditor bias and inconsistency due to reliance on judgment and it does not provide a quantifiable measure of sampling risk, making it harder to objectively assess the reliability of the audit evidence.
+ So, going back to the old audit risk formula, we have audit risk equals inherent risk times control risk times detection risk.
+ Or, said another way, because inherent risk and control risk make up the risk of material misstatement, and those are the two components that the auditor cannot control because why can the auditor control detection risk is because the auditor can control the substantive procedures that they do.
+ So, again, audit risk equals inherent risk times control risk times detection risk.
+ Or, said another way, audit risk equals risk of material misstatement times detection risk.
+ Because, again, inherent risk and control risk make up risk of material misstatement.
+ So, audit risk equals risk of material misstatement times detection risk.
+ So, drilling down into detection risk, we have sampling risk and non-sampling risk.
+ And then, drilling down into sampling risk, we have alpha risk, which is a type 1 error, and beta risk, which is a type 2 error.
+ So, now we're going to break down how alpha risk and beta risk affect both tests of controls and tests of data.
+ So, alpha risk occurs when the auditor concludes that the controls are not effective when, in fact, they actually are.
+ Which assesses control risk too high, thereby the risk of material misstatement assessing it too high.
+ This leads to relying on faulty controls.
+ This leads to relying on faulty controls.
+ This leads to performing more procedures than necessary, which results in an inefficient audit.
+ Beta risk for tests of controls occurs when the auditor concludes that the controls are effective when, in fact, they're not.
+ Which assesses control risk too low.
+ Thereby, the risk of material misstatement is too low.
+ This leads to relying on faulty controls and not performing enough procedures, which results in an ineffective audit.
+ So, that's test of controls.
+ So, alpha risk, inefficient audit.
+ Beta risk, ineffective audit.
+ So, test of controls.
+ Then there's test of details.
+ With alpha risk, this is when the auditor incorrectly rejects an account balance or a class of transactions and concludes that it's materially misstated when, in fact, they are not.
+ This also leads to an inefficient audit.
+ This also leads to an inefficient audit and it will lead to more work than is necessary.
+ That's alpha risk.
+ Beta risk on a test of details occurs when the auditor incorrectly accepts an account balance or a class of transactions, concluding that it's not materially misstated when, in fact, it is.
+ This is very risky and it may lead to issuing an incorrect audit opinion.
+ So, it's ineffective.
+ Now, one way that I came up with to distinguish alpha risk from beta risk, well, you picture an alpha male versus a beta male.
+ And some of you will like this.
+ Some of you will not like this.
+ And some of you will kind of be in between.
+ An alpha male hits the gym, typical gym bro, lots of gym selfies, and they talk about themselves a lot.
+ Talk, talk, talk, talk, talk.
+ Very inefficient with their words and lots of words, but they don't actually say a lot.
+ Very inefficient.
+ But they would be very effective if you needed them to help you move.
+ So, alpha risk, very inefficient.
+ It's an inefficient audit.
+ Alpha male, very inefficient with their speech.
+ Beta male, well, they live with their mom.
+ They don't hit the gym.
+ And if you needed to move, they would be very ineffective.
+ They could barely lift the couch.
+ So, beta risk, ineffective audit.
+ Beta male, ineffective in helping you move.
+ So, alpha risk, inefficient.
+ Beta risk, ineffective.
+ Hope that's helpful.
+ That might be my worst analogy ever, or it might be my best.
+ So, that was sampling risk.
+ Non-sampling risk is not due to sampling, but arises from other aspects of the audit.
+ Examples include the auditor's judgment, application of audit procedures, or a misinterpretation of audit evidence.
+ Non-sampling risk can occur whether the auditor tests the entire population or selects a sample.
+ And this is because it's based on the auditor's judgment.
+ So, auditors might make mistakes in judgment due to a lack of experience, or a misapplication of audit procedures, or if they misinterpret the audit evidence.
+ All of these are examples of non-sampling risk.
+ Next, we're going to talk about the impact of risk of material misstatement on sample size.
+ If risk of material misstatement is high, there is a greater likelihood of material errors in the financial statements, due to either high inherent risks or ineffective internal controls.
+ So, how does that impact detection risk?
+ Well, auditors need to reduce detection risk to counterbalance the high risk of material misstatement.
+ Again, what's the audit risk formula?
+ Audit risk equals inherent risk times control risk times detection risk.
+ And control risk and inherent risk make up the risk of material misstatement.
+ So, if the risk of material misstatement is high, then you have to lower your detection risk.
+ It's like a teeter-totter.
+ So, how does the auditor reduce detection risk?
+ They need to be more careful and thorough in their testing to catch material misstatements.
+ And they need to select a larger sample size to gather more evidence.
+ So, when the risk of material misstatement is high, we need to lower detection risk, which increases our procedures, which increases our sample size.
+ Now, when the risk of material misstatement is low, that means there's a lower likelihood of material errors occurring in the financial statements due to either low inherent risks or effective internal controls.
+ So, in this case, the auditor can afford to accept a higher detection risk.
+ So, they can choose a smaller sample size and not do as many procedures.
+ Our next topic is sample size.
+ Determining the appropriate sample size is a pivotal aspect of audit planning and significantly influences the effectiveness and the reliability of the audit process.
+ So, sample size can be determined either through statistical formulas, like statistical sampling, or professional judgment, which we talked about before, non-statistical sampling.
+ Typically, both statistical and non-statistical approaches yield comparable sample sizes.
+ So, factors that influence sample size.
+ Well, with tests of controls, there's the tolerable deviation rate.
+ So, the tolerable deviation rate is inversely related to sample size.
+ So, if the tolerable deviation rate is high, so when auditors are willing to tolerate a higher deviation, which means that there's errors or there's non-compliance with controls, they may decide on a smaller sample size.
+ If the tolerable deviation rate is low, then the auditor is willing to tolerate a lower rate of deviation, which means, again, errors or non-compliance with controls, then the auditor will need a larger sample to provide sufficient evidence.
+ So, if the tolerable deviation rate is high, then we have a smaller sample size.
+ If the tolerable deviation rate is low, then we do a larger sample size.
+ There's an inverse relationship.
+ On the flip side, the expected deviation rate is directly related to the sample size.
+ When the expected deviation rate is high, this is when auditors expect a high rate of deviation in the population.
+ So, a larger sample size is necessary.
+ When the expected deviation rate is low, then the auditor may opt for a smaller sample size, as the likelihood of encountering deviations is presumed to be low.
+ Then there's beta risk, which is sampling risk.
+ And beta risk is inversely related to the sample size.
+ So, when the auditor is willing to accept a high beta risk, they choose to accept a smaller sample size.
+ When the auditor is willing to accept a low beta risk, then they want a larger sample size.
+ And then with population size, while a larger population often requires a larger sample size, the relationship is not linear.
+ At a certain point, increases in population size have a diminishing effect on the required sample size.
+ So, let's summarize everything we just covered.
+ When the tolerable deviation rate is high, the sample size is low.
+ When the tolerable deviation rate is low, sample size is high.
+ When the expected deviation rate is high, what does the sample size do?
+ That's right, high.
+ When the expected deviation rate is low, the sample size is low.
+ When the auditor is willing to accept a high beta risk, then the sample size is low.
+ When the auditor is willing to accept a low beta risk, the sample size is high.
+ So, that was test of controls.
+ Now, we move into test of details.
+ And we will cover tolerable misstatement, expected misstatement, beta risk, standard deviation, and risk of material misstatement.
+ Beginning with tolerable misstatement.
+ So, tolerable misstatement is inversely related to sample size.
+ So, when auditors can tolerate a larger amount of misstatements without it passing the materiality threshold, then a smaller sample size may be sufficient.
+ But a lower tolerance for misstatement requires a larger sample to ensure that the total misstatements in the population are not material.
+ Expected misstatement is directly related to sample size.
+ If a high level of misstatement is expected in the population, a lower sample is necessary to accurately estimate and evaluate the true misstatement level.
+ But if a low level of misstatement is expected in the population, a smaller sample may be sufficient since the likelihood of significant misstatements is presumed to be low.
+ Beta risk, or sampling risk, is inversely related to sample size.
+ So, if auditors are willing to accept a higher beta risk, which is the risk of incorrect acceptance, they might choose a smaller sample size.
+ If they want a lower beta risk, they would want a larger sample size to minimize the risk of drawing incorrect conclusions about the sample.
+ Standard deviation.
+ Standard deviation is directly related to sample size.
+ So, if there's greater variation in the population, that means more uncertainty, which means we need a larger sample size to obtain a reliable estimate of the population.
+ If there's less variation in the population, so standard deviation is low, this allows for a smaller sample size.
+ So, again, standard deviation is directly related to sample size.
+ Risk of material misstatement is directly related to sample size.
+ If it's high, so there's a higher risk that material misstatements may exist, then we need a larger sample size.
+ If it's low, there's a lower risk that material misstatements may exist, then we need a smaller sample size.
+ So, again, let's summarize all of this.
+ If the tolerable misstatement is high, then our sample size is small.
+ If our tolerable misstatement is low, then we have a larger sample size.
+ If our expected misstatement is high, we have a large sample size.
+ If our expected misstatement is low, we have a smaller sample size.
+ If our acceptable level of beta risk or sampling risk is high, we have a smaller sample size.
+ If the risk of material misstatement is high, then we do more procedures.
+ We have a larger sample size.
+ If the standard deviation is high, we have a larger sample size.
+ If the standard deviation is low, we have a smaller sample size.
+ If the risk of material misstatement is high, then we do more procedures.
+ We have a larger sample size.
+ If the risk of material misstatement is low, then we have a smaller sample size.
+ Our next topic is sample selection.
+ There are some key assumptions for our sample selection.
+ First, we assume that it's normally distributed.
+ Then we assume that the selections are random and that they are representative of the population.
+ There are some methodologies for selecting our population.
+ First, we have simple random sampling where every item in the population has an equal chance of being selected.
+ One way to accomplish this would be using a random number generator.
+ Then there's systematic sampling where the auditor selects every fifth item after choosing a random spot in the population.
+ Then there's haphazard sampling where the auditor selects items without any conscious bias or a specific pattern, just random.
+ Then there's block or cluster sampling where the auditor selects a continuous block of items for review.
+ Then there's stratified sampling where the auditor divides the population into subgroups or strata and then selects samples from each subgroup.
+ Our next topic is evaluating sample results.
+ For a test of controls, auditors assess the number and nature of deviations identified in the sample.
+ The rate of deviation in the sample is used to estimate the rate of deviation in the entire population.
+ If the projected deviation rate does not exceed the tolerable deviation rate, no further action is required.
+ However, if the projected deviation rate exceeds the tolerable deviation rate, then the auditor may need to alter the nature, extent, and timing of the procedures.
+ And this could involve increasing the sample size or performing additional tests or modifying the assessed level of control risk.
+ So that's for a test of controls.
+ So evaluating sample results for a test of details, well, misstatements in the sample are extrapolated to the entire population to estimate the total misstatement in the population.
+ If the extrapolated misstatement is less than the materiality threshold, then the auditor may conclude that the financial statements are not materially misstated, which supports an unmodified opinion, assuming that no other misstatements are identified.
+ However, if the extrapolated misstatement is greater than the materiality threshold, then the financial statements may need to be considered materially misstated, which leads to a qualified or an adverse opinion.
+ The next topic is sampling for tests of controls, which is attribute sampling.
+ Attribute sampling is a statistical sampling method used to evaluate the presence or absence of certain qualities or attributes within a population.
+ Attribute sampling is used in testing controls to evaluate the effectiveness of internal controls by examining whether specific control activities have been performed.
+ And it's done by the following steps.
+ Step one, we determine our testing objective.
+ Step two, we define the population.
+ Step three, determine our confidence level.
+ And this is a judgment decision that quantifies the level of sampling risk that the auditor is willing to accept.
+ A higher confidence level, like 95% or 99% requires a larger sample size but provides greater reliability.
+ Step four, we determine our tolerable rate.
+ Step five, we determine our expected population deviation rate.
+ Step six, we determine our sampling unit, which is the individual element to be selected and tested.
+ So, in other words, a transaction or a document.
+ Step seven, we determine what constitutes a deviation.
+ So, we clearly define what would be considered a deviation for the purpose of the test.
+ Step eight, we decide our sample size.
+ So, based on the confidence level, tolerable rate, and expected deviation rate, we calculate the appropriate sample size using either statistical methods or our professional judgment.
+ And just to reiterate, our tolerable deviation rate has an inverse relationship with sample size.
+ So, high deviation rate, small sample size.
+ Low tolerable deviation rate, large sample size.
+ Expected deviation rate has a direct correlation with sample size.
+ So, high expected deviation rate, large sample size.
+ Low expected deviation rate, small sample size.
+ Our acceptable beta risk or sampling risk has an inverse relationship with sample size.
+ So, high acceptable beta risk, small sample size.
+ Low acceptable beta risk, large sample size.
+ So, step eight was decide the sample size.
+ Step nine is select the samples using an appropriate method.
+ Random, systematic, haphazard, block, stratified to select samples from the population.
+ Step 10, perform the test of controls.
+ Step 11, evaluate the results.
+ The results of the sample must be analyzed in order to make an inference about the population error rate.
+ This can be done by first calculating the sample deviation rate, which is the number of deviations divided by the sample size.
+ So, if there are five deviations in a sample of 100, then the sample deviation rate is 5%.
+ Then we calculate the upper deviation rate, which is the highest estimated rate of deviation from a prescribed control procedure based on a sample of transactions.
+ So, the upper deviation rate, or the UDR, is the sample deviation rate plus the allowance for sampling risk.
+ And the allowance for sampling risk is a cushion to account for the possibility that the sample deviation rate might not precisely represent the population deviation rate.
+ The upper deviation rate provides a more conservative estimate of the deviation rate in the population.
+ So, if the sample deviation rate is 5% and an allowance for sampling risk is 3%, then the upper deviation rate is 5% plus 3% is 8%.
+ Then we form our conclusions.
+ So, the auditor must compare the upper deviation rate with the tolerable deviation rate to form conclusions about the test of controls.
+ If the upper deviation rate is greater than the tolerable deviation rate, then we cannot rely on controls, and we decrease our testing.
+ And we need to increase our nature, timing, and extent of our procedures.
+ That's if the upper deviation rate is greater than the tolerable.
+ If the upper is less than the tolerable, then we can rely on controls, and we decrease our testing.
+ Step 12, we document our results.
+ So, we record the sampling plan, the method, the sample size, and the results of the test, including how the sample results were evaluated, and the conclusions that were drawn.
+ Our next topic is types of attribute sampling.
+ We have sequential sampling and discovery sampling.
+ Sequential or stop or go sampling allows the auditor to stop the audit test before completing all the steps if results are conclusive.
+ And it can be more efficient as it might require a smaller sample size.
+ It's useful when the auditor expects few or no errors.
+ Under sequential sampling, an auditor will start with a small sample size and increase it sequentially until a conclusion can be drawn.
+ After each sequence, the auditor evaluates whether enough evidence has been gathered to make a conclusion.
+ So, that's sequential sampling.
+ Then there's discovery sampling, which is used when the auditor is looking for at least one instance of a significant deviation, often in situations where deviations are expected to be very rare.
+ It's designed to find at least one example of a deviation.
+ It's used when the expected deviation rate is very low and the tolerable deviation rate is zero or near zero.
+ With discovery sampling, an auditor determines the sample size needed to find at least one deviation with a certain level of confidence.
+ If a deviation is found, the auditor may decide to perform additional testing or expand the sample size.
+ Next, we'll talk about sampling for tests of details, which is variable sampling.
+ Sampling for tests of details is used by auditors to obtain reasonable assurance about the accuracy of account balances, classes of transactions, or disclosures.
+ And they can be done either with classic variable sampling or probability proportionate to size or PPS sampling.
+ Classic variable sampling is used to estimate the monetary value of misstatements in a population.
+ It's used for substantive testing of account balances and provides a range within which the true value of the population is likely to fall.
+ And the steps are as follows.
+ Step one, determine the testing objective.
+ Step two, define the population.
+ Step three, determine the confidence level.
+ Step four, determine tolerable misstatements.
+ Step five, determine expected population misstatement.
+ Step six, select your method of audit sampling.
+ So choose between statistical and non-statistical sampling methods.
+ Step seven, determine the sampling unit.
+ Step eight, determine misstatements.
+ Step nine, determine the sample size.
+ Step 10, select the samples.
+ Step 11, perform the test of controls.
+ And then step 12, evaluate the results.
+ And in the NINJA book, we walk through a comprehensive example and cover mean per unit, ratio estimation, and difference estimation.
+ And so I would look at the NINJA book.
+ Then step 13, we document our results.
+ So that was classic variable sampling.
+ Now we're going to discuss probability proportional to size, or PPS sampling, which is used to estimate the monetary misstatement within a population where each dollar in the population has an equal chance of being selected.
+ It's often used for substantive testing of large account balances with many items.
+ It automatically emphasizes larger items by giving them a higher probability of selection.
+ The first eight steps for probability proportional to size sampling are exactly the same as classic variable sampling.
+ However, on step nine, we decide the sample size for PPS sampling.
+ So first, we calculate our sampling interval.
+ And a sampling interval is determined by dividing the tolerable misstatement by the reliability factor.
+ And the reliability factor is the value derived from the confidence level selected for the test.
+ And this factor can be found in statistical tables corresponding to the desired confidence level.
+ So our sampling interval is our tolerable misstatement over our reliability factor.
+ So as an example, if the total book value of the population is a million dollars and the auditor has set a tolerable misstatement of $60,000 and is using a reliability factor of three.
+ So for sampling interval, it's tolerable misstatement over reliability factor.
+ So the tolerable misstatement is $60,000 and the reliability factor is three.
+ So $60,000 divided by three is $20,000.
+ So that's the sampling interval.
+ And then we calculate the sample size, which is determined by dividing the population's book value by the sampling interval.
+ So it's $1,000,000 divided by the sampling interval, which we just calculated as $20,000.
+ And so the sample size is 50.
+ Step nine is select the samples.
+ So in probability proportional to size sampling, the selection of samples is crucial to ensure that each unit within the population has an equal chance of being selected.
+ So here's the step-by-step process for selecting samples using PPS sampling.
+ First, we arrange the data.
+ So list all items in the population, typically in the order they appear in the accounting records.
+ And each item should have a book value associated with it.
+ Then we calculate the cumulative value.
+ This is done by adding the value of each item to the sum of all the values of the preceding items.
+ Then we determine a random start.
+ So between one and the sampling interval, which we calculated before was 20.
+ So this random start is the first selection point.
+ And then we identify the sample items.
+ Then step 11, we perform our test of details.
+ We conduct our audit procedures on the selected sample items.
+ And then we meticulously document the process and our findings.
+ Step 12, we evaluate our results.
+ And the results of the sample must be analyzed in order to make an inference about the population error rate.
+ And then we form conclusions.
+ So the auditor must compare the total projected misstatement with the tolerable misstatements to form conclusions about the test of detail.
+ If the total projected misstatement is less than the tolerable misstatement, then we conclude that the financial statements are not materially misstated.
+ Finally, in step 13, we document our results.
+ So the auditor must thoroughly document the sampling plan, the procedures performed, and conclusions drawn from the test results.
+ And proper documentation is crucial for review and quality control purposes.
+ And really, it's to protect you in case you get sued.
+ This concludes audit sampling.
+ 

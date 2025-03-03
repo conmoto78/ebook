@@ -1,0 +1,111 @@
+Post audit responsibilities and quality control.
+ In this session, we are going to discuss archiving and document retention, post audit meetings with the client, and audit quality control.
+ So basically, this is everything after the audit.
+ Let's quickly recap our audit stages.
+ We did pre-engagement acceptance activities, then the engagement letter, then our audit strategy and planning, then our internal control evaluation, then our substantive procedures, then we completed our audit, then we prepared our audit report and communicated it, and now this is our post audit responsibilities and quality control.
+ So we begin with archiving and document retention.
+ Proper archiving and retention of documentation provides a historical record of the audit work performed and the evidence obtained and the conclusions reached.
+ This record can be invaluable in defending the work in the face of scrutiny or challenges.
+ Because remember, you as an auditor are auditing financial statements and then people are depending on those financial statements.
+ If it turns out that things were not as they seemed with the client whom these people have invested in or if it's a bank, they've loaned them money and they were depending on your audit report because you're a CPA after all, they're going to be named in the suit and they're going to try to recover their damages and so you have to be able to defend yourself and show that you followed gas.
+ Because you maintain the level of professionalism and competency that would be expected of a CPA and so the archiving of all of the documents is basically you're showing your receipts.
+ Because you are, it's how you are, it's how you're going to defend yourself.
+ So now we will get into the archiving details.
+ The time within which the audit documentation must be archived is dependent on the auditing standards or the regulations that are applicable in a specific jurisdiction.
+ And they differ between issuers and non-issuers.
+ For issuers, the PCAOB says that the audit documentation must be archived within 45 days after the audit report.
+ For non-issuers, it's 60 days.
+ So remember, issuers, 45 days.
+ Non-issuers, 60 days.
+ So it's more lax for non-issuers.
+ The purpose of retention is to provide evidence for the basis in our opinion and to aid in conducting quality control reviews and inspections.
+ Because if you're a CPA firm, you're going to have peer reviews.
+ They're going to want to look at things.
+ And to aid in responding to lawsuits, regulatory disputes, disciplinary proceedings, to get yanked before the Board of Accountancy, you have to be able to show what you did and why you did it.
+ So the documents to be retained include a complete set of documentation that supports your findings, opinions, conclusions, all memos, working papers, correspondences with the client, lawyers, regulators, data, and other documents that relate to significant audit matters.
+ The retention period, again, it depends on whether you're an issuer or a non-issuer.
+ For an issuer, seven years.
+ For a non-issuer, five years.
+ And that's from the date of the audit report.
+ Now obviously, you want to store this information in a very secure location.
+ So physical protections, like fireproof cabinets in a secure location, digital protection, encrypted storage, restricted access.
+ And while the primary purpose of retention is for historical and defensive purposes, there might be a situation where the firm or external parties like your regulator wants to see it, and so it should be easy to access.
+ Now once the required retention period has lapsed, you need to destroy it and make sure that it's destroyed properly.
+ And firms should periodically review and update their document retention policies to make sure that everything is still in line with regulatory requirements and also technology advancements.
+ So that's document storage, retrieval, et cetera.
+ Now we move into our post-audit meeting with the client.
+ So this is an opportunity for both the auditor and the client to communicate about the audit, give feedback, and plan for future engagements if applicable.
+ So the auditor usually begins by thanking the client, and the purpose for the agenda is set, which ensures that all key topics are slated for discussion.
+ Now the auditor presents key findings from the audit, so areas of good practice that were observed, areas that are of concern, any adjustments to the financial statements, any material misstatements or significant risks, any disagreements or issues.
+ So that's the auditor, then the client gives feedback, and they discuss any concerns, clarify any points, they can share their experience with the audit, any challenges, any complaints from their staff, because keep in mind that business goes on even though the auditors are there.
+ So the accounting staff, they have their monthly duties, their quarterly stuff, maybe it's year-end, and not only are the internal auditors annoying, because it seems like they're always lurking, they're kind of like Bill Lumberg in office space.
+ Yeah.
+ And if you ever worked in an environment with internal auditors, and if you're an internal auditor, I'm sorry, but you guys are annoying.
+ You're always lurking.
+ It's like, go!
+ I'm trying to work.
+ And then you have the external auditors, who they're in their little audit room, except when they come out and bug you and want even more things.
+ And so if there's complaints from the accounting staff, like, hey, these guys are overdoing it, then that can come up in this meeting.
+ Then they plan for the next audit.
+ Areas of focus for the next audit, changes in the business, industry, trends, and then, et cetera.
+ And then the discussions and conclusions from the post-audit meeting should be documented.
+ Always, always document.
+ So that's the post-audit meeting with the client.
+ Our next topic is audit quality control, which refers to the systems and procedures set in place to ensure the consistent and accurate delivery of audit services that comply with professional and legal standards.
+ So this includes engagement and firm-level controls, and compliance with standards and regulations, appropriateness of reports.
+ So quality control ensures that the reports produced by the firm are suitable for their intended purposes.
+ Also universal applicability.
+ So standards aren't just for specific audit projects.
+ They apply to all engagements undertaken by the firm, ensuring a consistent quality threshold.
+ And it's important to note that a breach in quality control does not equate to non-compliance.
+ So while the firm's quality control measures aim to ensure compliance with gas, generally accepted auditing standards, a breach in quality control doesn't automatically equate to gas non-compliance.
+ So that's audit quality control.
+ Now we will move into the elements of a quality control system.
+ They include tone at the top.
+ So the firm wants to establish a culture where quality is foremost when performing an engagement.
+ Ethical requirements.
+ So establish procedures to ensure that independence is maintained when required and also communicate independence requirements to the firm employees.
+ Make sure they know the rules.
+ No one's caught off guard.
+ Obtain annual confirmations of compliance with independent rules from firm personnel.
+ And identify any potential problems or circumstances that create threats to independence.
+ Firms also want to have policies for client acceptance and client continuance.
+ So one way to bring down a CPA firm is to take on bad clients.
+ So there needs to be policies in place about quality standards for acceptance of new clients.
+ And make sure that the firm personnel, that they have the competency to audit a client.
+ So a client might be great.
+ But if you have a firm that's full of 60-year-old near retirees who has done nothing but audit banks.
+ Like that's what the firm does.
+ They audit banks.
+ And they're really good at auditing banks.
+ You probably shouldn't take on a client that deals in crypto.
+ Probably not a good idea.
+ And also human resource procedures.
+ So make sure that the firm is hiring good people, appropriate skills, capabilities, competency.
+ Then monitoring.
+ Make sure that the firm has established monitoring processes to provide reasonable assurance that the policies and procedures relating to these systems of quality control are relevant and operating effectively.
+ Engagement performance.
+ Have policies and procedures that provide reasonable assurance that engagements are performed in accordance with professional standards.
+ So those are elements of a firm's quality control system.
+ Then there's engagement quality control review.
+ Which is a rigorous review process wherein a concurring or second partner, the EQCR, the engagement quality control review partner, they review the audit's quality and findings.
+ Their role isn't just to rubber stamp the original audit, but to provide an additional layer of scrutiny.
+ So the engagement quality control review has to be performed by a concurring partner, the EQCR partner, for all public clients, for all audit engagements and reviews of interim financial statements that are conducted per the PCAOB.
+ So that might be a good CPA exam question.
+ And an audit report is issued only if the EQCR partner concurs with the audit conclusions reached.
+ So that's the engagement quality control review.
+ Then there's peer reviews.
+ So the AICPA, they've instituted a peer review program to ensure that firms maintain the highest standards of quality.
+ And CPA firms or individuals enrolled in this program, they are required to have a peer review once every three years.
+ That also might be a good CPA exam question.
+ Now with reviews, there are two types of reviews.
+ There's a system review, which is a review that delves deep into a firm's system of quality control.
+ It ensures that the firm has appropriate processes and controls in place to guarantee the quality of its accounting and auditing services.
+ So that's a system review.
+ Then there's an engagement review.
+ And this doesn't look at the firm's overall system, but focuses specifically on the work done in selected engagement.
+ Which is, again, why you must retain all of your documentation.
+ So the objective here is to ensure that the engagements selected for review are being conducted in accordance with the professional standards.
+ This concludes post-audit responsibilities and audit quality control.
+ page.
+ 

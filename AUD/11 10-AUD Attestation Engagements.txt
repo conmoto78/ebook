@@ -1,0 +1,375 @@
+Attestation engagements.
+ In this session, we're going to cover an overview of attestation engagements, look at examination engagements, review engagements, and agreed upon procedures engagements, then look at attestation services.
+ We begin with an overview of attestation engagements.
+ Attestation engagements are designed to enhance the degree of confidence of third parties in management about the outcome of an evaluation or measurement of the subject matter against criteria.
+ In an attestation engagement, there are three parties involved.
+ There's the practitioner, which from here on out we will just refer to as the CPA, who is the individual who is responsible for performing the attestation engagement.
+ There is the responsible party, who from here on out we'll just call the client.
+ They are the individual or the entity responsible for the subject matter.
+ And then there's the users, who are the individuals or entities that will rely on the information provided.
+ There are three types of attestation engagements.
+ There are examination engagements, review engagements, and agreed upon procedure engagements.
+ Examination engagements provide the highest level of assurance under the Statements on Standards for Attestation Engagements, the SSAE.
+ The CPAs obtain reasonable assurance to express an opinion about whether the subject matter or assertion is in accordance with the criteria.
+ Then there's review engagements, which provide a moderate level of assurance.
+ CPAs obtain limited assurance to state whether they are aware of any material modifications that should be made to the subject matter.
+ For it to be in accordance with the criteria.
+ Review engagements under SSAE include reviews of other than historical financial statements.
+ Then there's agreed upon procedures engagements, which provide no assurance.
+ CPAs report findings based on specific procedures performed on the subject matter.
+ In examination and review engagements, the client must provide a written assertion about the measurement or evaluation of the subject matter against the criteria.
+ Then the CPA must plan and perform the engagement with professional skepticism and professional judgment and obtain sufficient appropriate evidence and prepare a written report.
+ The CPA then issues a report that states a conclusion or findings regarding the subject matter or the assertion about the subject matter.
+ Next we will discuss the attestation standards.
+ Attestation standards are designed to guide CPAs in the planning, conducting, and reporting of attestation engagements.
+ These standards are categorized into 11 specific standards, which are further divided into general standards, field work standards, and reporting standards.
+ There are five general standards, and these are foundational and apply to all attestation engagements.
+ The five general standards are training and proficiency, knowledge of the subject matter, evaluation capability, independence, and professional care.
+ With training and proficiency, CPAs must have adequate training and proficiency in the relevant field, which ensures that they possess the skills and knowledge to competently perform the engagement.
+ With knowledge of the subject matter, CPAs should have a deep understanding of the subject matter at hand, which is crucial for the accurate and relevant evaluation of the subject matter against the criteria.
+ With evaluation capability, the subject matter must be capable of evaluation against criteria that are suitable and available to users, providing a benchmark for assessment.
+ With independence, a CPA must be independent both in mind and appearance and is mandatory for CPAs conducting attestation engagements to ensure objectivity and impartiality.
+ With professional care, CPAs must exercise due professional care in planning and performing engagements and demonstrating a commitment to quality and diligence.
+ So those are the five general standards.
+ Training and proficiency, knowledge of the subject matter, evaluation capability, independence, and professional care.
+ Then there are two field work standards.
+ There's planning and supervision and corroborative evidence.
+ With planning and supervision, engagements should be adequately planned and assistance, if any, should be properly supervised to ensure quality outcomes.
+ With corroborative evidence, CPAs must obtain sufficient appropriate evidence to provide a reasonable basis for their conclusion, often through corroboration of evidence.
+ So those are the two field work standards.
+ Then there are four reporting standards.
+ Identification, conclusions, disclosure of reservations, and restricted use.
+ With identification, reports should clearly identify the subject matter or assertion being reported on and state the character of the engagement.
+ With conclusions, CPAs must state their conclusions about the subject matter or assertion in the report, providing clear and understandable findings.
+ With disclosure of reservations, any significant reservations about the engagement, including unresolved problems or concerns, should be disclosed in the report.
+ And finally, restricted use.
+ If the criteria are suitable for and available only to a limited number of parties, CPAs should restrict the use of the report to those parties.
+ And now we will go over just a brief overview of the types of attestation engagements.
+ We will walk through an examination, and then a review, and then agreed upon procedures.
+ Walking through assurance level, independence, key procedures, the reporting outcome, and the responsibility for procedure sufficiency, and then finally the types of attestation services under each category.
+ Beginning with an examination.
+ The assurance level for an examination is positive assurance.
+ Independence is required.
+ And the procedures are comparable to audits.
+ The reporting outcome is an expression of an opinion providing reasonable assurance.
+ And it asserts that the subject matter is fairly presented in all material respects.
+ The practitioner, or CPA, is responsible for the sufficiency of the procedures.
+ Contrast that with an agreed upon procedure where the client is responsible.
+ So, with an examination and a review, the CPA is responsible for the procedures.
+ And then finally, types of attestation services, which include prospective financial statements.
+ So, examination of forecasts and projections to provide an opinion on the reasonableness.
+ Proforma financial statements, an examination of financial statements adjusted to reflect hypothetical situations.
+ Compliance, an examination of an entity's compliance with specified requirements.
+ MDNA, examination of the narrative explanation provided by the management on the entity's financial performance.
+ Internal controls over trust services.
+ Internal controls over trust services.
+ So, an examination of controls related to the security, availability, processing integrity, confidentiality, or privacy.
+ And then, an examination of controls at a service organization that's relevant to user entities, internal control over financial reporting.
+ So, that was an overview of an examination.
+ Next, we will turn to an overview of a review.
+ A review provides limited assurance, or negative assurance.
+ Contrast that with an examination, which provides positive assurance.
+ A review provides limited assurance, and an agreed upon procedure provides no assurance.
+ So, again, a review limited assurance.
+ Independence is required.
+ Actually, with an examination, a review, and an agreed upon procedure, independence is required for all three.
+ The key procedure with a review is inquiry and analytical procedures.
+ The reporting outcome of a review is an expression of a conclusion providing limited assurance.
+ And it indicates whether any material modifications should be made to the subject matter.
+ Like an examination, the CPA is responsible for the sufficiency of the procedures with a review.
+ And then, types of attestation services with a review would be pro forma financial statements.
+ A review of financial statements adjusted for hypothetical events to provide limited assurance.
+ Or MD&A.
+ A review of management's discussion and analysis, MD&A.
+ MD&A.
+ To provide limited assurance on the narrative explanation of financial performance.
+ Now, you may have noticed that both the examination and review, they both have pro forma financial statements and MD&A.
+ The difference is the assurance level.
+ With an examination, it's positive assurance.
+ With a review, it's limited or negative assurance.
+ Then, finally, agreed upon procedures.
+ With an agreed upon procedure, there's no assurance provided.
+ And, like the other two, independence is required.
+ The key procedures include procedures are performed as agreed upon by the practitioner and the client.
+ So, the CPA and the client.
+ They agree on the procedures that are going to be performed.
+ That's why it's called an agreed upon procedure engagement.
+ The reporting outcome is a list of procedures performed and the findings obtained.
+ But, no opinion or conclusion is expressed because there's no assurance.
+ The responsibility for the procedures, that falls in the hands of the client.
+ Types of attestation services include prospective financial statements for performing agreed upon procedures on forecasts and projections without providing assurance and compliance.
+ Performing specific procedures to test compliance with specified requirements.
+ Again, without providing assurance.
+ So, that's an overview of an examination, a review, and agreed upon procedures.
+ Next, we will discuss the engaging party and the responsible party.
+ In the context of attestation engagements, it's crucial to distinguish between the engaging party and the responsible party as they play different roles.
+ The engaging party can also be the responsible party, but this isn't always the case.
+ The engaging party is the client or entity that engages or hires the CPA to perform the attestation engagement.
+ For example, a company's board might hire a CPA firm to perform an attestation engagement on the effectiveness of their internal controls.
+ The responsible party is the individual group or entity that is responsible for the subject matter of the attestation engagement.
+ This party makes the assertion about the subject matter that the practitioner evaluates.
+ For example, in an audit, the company's management is the responsible party and they provide an assertion that the financial statements are accurate and complete.
+ Next, we will discuss the requirements of an attestation engagement.
+ There's the written assertion requirement.
+ A written assertion in the context of an attestation engagement refers to a formal statement provided by the responsible party, often management, that articulates their claims or representations regarding a specific subject matter.
+ A written assertion is typically required where the subject matter is evaluated against certain criteria.
+ CPAs must assess if management has a reasonable basis for their assertion.
+ If the engaging party is the same as the responsible party, a lack of written assertion is viewed as a scope limitation.
+ In the case of a scope limitation, with an examination or a review, the CPA should withdraw if there's a scope limitation.
+ If it's an agreed upon procedure engagement, however, the report should be modified to reflect the scope limitation.
+ So that's if the engaging party is the same as the responsible party and there's no written assertion, that's a scope limitation.
+ If the engaging party is not the responsible party, the attestation report can still be issued provided that adequate procedures have been performed and sufficient evidence has been obtained.
+ The refusal to provide a written assertion should be disclosed in the report and the use of the report should be restricted.
+ So that's the written assertion requirement.
+ There are preconditions for an attestation engagement.
+ There's the engagement letter.
+ There's the responsibility acknowledgement.
+ So the responsible party must take and acknowledge responsibility for the subject matter of the attest engagement.
+ There's engagement characteristics.
+ The engagement must exhibit specific characteristics to ensure its validity and effectiveness.
+ The subject matter must be appropriate.
+ And the criteria must be suitable and available.
+ There must be unrestricted access.
+ The CPA must have unrestricted access to the necessary personnel documents, records that are pertinent to the engagement.
+ And there must be an issuance of a written report.
+ Those are the preconditions for an attestation engagement.
+ And a written representation letter from the responsible party is mandatory.
+ It's not mandatory, however, if the engaging party is not the responsible party, in which case the CPA would seek oral responses from the responsible party.
+ And if those responses are satisfactory, then the use of the attest report is restricted to the engaging party.
+ And a representation letter is required from the engaging party.
+ It's getting a little convoluted.
+ I get it.
+ Next we have examination engagements.
+ Examination engagements are assurance engagements where the CPA evaluates or measures a subject matter against criteria and expresses an opinion providing a high level of assurance.
+ Examination engagements can be one of two types.
+ You can have assertion-based examination engagements or direct examination engagements.
+ In assertion-based examination engagements, the CPA examines and provides an opinion on a written assertion made by the responsible party regarding a subject matter.
+ The engagement focuses on evaluating the assertion provided by the responsible party against some set of suitable criteria.
+ That's an assertion-based examination engagement.
+ Then you have a direct examination engagement where the CPA is engaged to examine and report directly on the subject matter.
+ The engagement focuses on the subject matter itself, not on an assertion provided by the responsible party.
+ Next we have procedures for examination engagements under SSAEs.
+ Examination procedures are the specific tasks performed by CPAs to obtain evidence about the subject matter or the assertion.
+ These procedures are designed to provide a high level of assurance.
+ First we have planning and preparation, which involves understanding the entity, engagement planning, and risk assessment.
+ Then we have identifying the criteria, which includes criteria identification, criteria evaluation, and obtaining a written assertion.
+ Then we have performing procedures, which includes inspection, observation, inquiry, confirmation, recalculation, re-performance, and analytical procedures.
+ Let's walk through these one by one.
+ So under performing procedures we have inspection, which is examine the records, documents, tangible assets.
+ That's inspection.
+ Then we have observation.
+ We watch procedures being performed.
+ That's observation.
+ Then we have inquiry.
+ We seek information from knowledgeable persons.
+ We talk to management.
+ We talk to legal counsel.
+ That's inquiry.
+ Then we have confirmation.
+ We obtain written or oral affirmations from third parties, banks, other vendors.
+ That's confirmation.
+ Then we have recalculation.
+ We check the math on documents and records.
+ That's recalculation.
+ Then re-performance.
+ We independently execute a procedure or control.
+ That's re-performance.
+ Then we have analytical procedures.
+ We evaluate financial information through analysis of relationships.
+ That's analytical procedures.
+ Next we have evaluating evidence.
+ We have the evidence assessment.
+ We assess the appropriateness and sufficiency of the evidence obtained.
+ We have the misstatements identification.
+ We identify and accumulate misstatements found during the engagement.
+ We have the conclusions formulation.
+ We formulate conclusions based on evidence.
+ Then we form an opinion.
+ We have our opinion development where we develop an opinion on the subject matter or the assertion based on the evaluation of evidence.
+ And then we have report preparation.
+ We prepare the report communicating the opinion formed.
+ Then finally we have documentation.
+ We prepare our working papers.
+ And we prepare and organize them.
+ Which document the procedures performed.
+ The evidence obtained.
+ And the conclusions that we reached.
+ That's documentation.
+ Next we have reports on examination engagements.
+ Beginning with assertion based examination engagements.
+ An assertion based examination engagement is a type of attestation where a party, usually management or a responsible party, makes an assertion about the measurement or evaluation of a subject matter against certain criteria.
+ The CPA then examines this assertion and expresses an opinion on it.
+ And if you look in the NINJA book, we have a sample report on the examination of a subject matter.
+ So you can look at that.
+ I'm not going to read it.
+ Then we have a sample report on the examination of an assertion on a subject matter.
+ So that is for an assertion based examination engagement.
+ Then we have direct examination engagements.
+ Where a CPA is hired to evaluate or measure specific subject matter against a predetermined criteria.
+ This is done to provide reasonable assurance about the subject matter which can be financial or non-financial.
+ And again in the NINJA book we have a sample report for a direct examination engagement.
+ Next we have review engagements.
+ Which is a type of attestation engagement where the CPA performs procedures to obtain what kind of assurance?
+ Positive?
+ No.
+ Limited.
+ Limited assurance about the subject matter or an assertion.
+ Remember back to our summary.
+ Our examination is positive assurance.
+ Our review is limited assurance.
+ So the objective of a review engagement is to provide a form of assurance that's less extensive than that obtained in an examination or an audit.
+ So next we have procedures for reviewing engagements.
+ We have engagement acceptance and planning.
+ Then we have understanding the subject matter.
+ Then we have a risk assessment.
+ Then we perform review procedures.
+ We evaluate our evidence.
+ We document.
+ We form a conclusion.
+ We prepare a review report that communicates that conclusion.
+ Then we communicate with the responsible party.
+ We communicate our findings, issues, or discrepancies identified during the review.
+ And that's for the review engagement.
+ So let's drill down into some reports on review engagements.
+ So reports on review engagements under the Statements on Standards for Attestation engagements provide limited assurance on the subject matter or the assertion.
+ And again, limited assurance is less than the assurance provided in an examination.
+ But it's more than in an agreed upon procedures engagement, which is no assurance.
+ So in the Ninja Book, you can see a sample report on the review of a subject matter, a sample letter.
+ Then we also have a sample report on an assertion.
+ So those are reviews.
+ Next we have agreed upon procedures.
+ Agreed upon procedures engagements are a type of attestation engagement where the CPA is engaged to carry out procedures to which the CPA, the client, and third parties have agreed upon.
+ And then we report our factual findings.
+ Conditions of the agreed upon procedures engagement include independence of the CPA.
+ The CPA must be independent.
+ And that's for examination, review, and agreed upon procedures.
+ There must be an agreement of the parties, a mutual understanding and agreement between the CPA and the engaging party regarding the procedures, the criteria, and materiality limits.
+ Then there's responsibility for the subject matter.
+ The client either assumes responsibility for the subject matter or provides evidence that a third party is accountable for the subject matter.
+ And then the engaging party, the client, assumes responsibility for the adequacy and the sufficiency of the procedures.
+ Again, there's no assurance with an agreed upon procedure.
+ It's restricted use.
+ And if the engagement relates to prospective financial statements, these statements must include a summary of significant assumptions underlying the projections or the forecasts.
+ Next, we have the procedures for the agreed upon procedures engagements.
+ They include engagement acceptance.
+ So we must be independent.
+ We must be ethical.
+ We must be competent.
+ We must obtain a written agreement acknowledging the engaging party's responsibility for the sufficiency of the procedures.
+ Then we have the engagement letter, which outlines the objectives and the scope of the engagement, identification of the subject matter, agreed upon procedures to be performed, any materiality or reporting limits, and the use and distribution of the report.
+ Then we develop a plan for conducting the engagement.
+ We conduct the procedures as agreed with the engaging party.
+ These include calculations, analytics, reconciliations, inquiries, observations, inspections, other types of procedures.
+ Then we collect sufficient and appropriate evidence.
+ Then we prepare a report.
+ Then we must document.
+ We must maintain adequate documentation to support our findings.
+ Then we have the report.
+ We must have a title, the addressee, introduction, scope and purpose, procedures and findings, the restrictions on the use, the CPA signature, and the date of the report.
+ Again, in the NINJA book, you can read a sample report on agreed upon procedures.
+ Next we have attestation services.
+ Beginning with prospective financial statements.
+ Prospective financial statements are forward-looking financial statements that reflect to the best of the responsible party's knowledge, an entity's expected financial position, the result of operations, and cash flows in future periods.
+ They're based on assumptions about events that may or may not occur.
+ There are two types of prospective financial statements.
+ We have forecasts and projections.
+ A forecast is a set of prospective financial statements that present an entity's expected financial position, the results of operations, and cash flows.
+ It's based on the responsible party's assumptions, reflecting the most likely set of economic conditions and planned courses of action.
+ Forecasts are typically used for internal use.
+ Then we have a projection, which is a set of prospective financial statements that use hypothetical assumptions.
+ Projections answer what-if scenarios.
+ So a forecast presents an entity's expected position.
+ A projection is more of a YOLO scenario.
+ It answers, what if this happens?
+ What if this happens?
+ These are hypothetical assumptions that are not necessarily the most likely to occur.
+ So those are the two types of prospective financial statements.
+ Now, we focus our attention on the attestation engagements on those statements.
+ Again, we have examinations, reviews, and agreed upon procedures.
+ Now, with a forecast, an examination is not allowed.
+ For a forecast, a review is not allowed.
+ An agreed-upon procedure engagement is allowed.
+ An agreed-upon procedure engagement is allowed.
+ So meaning, anyways, only agreed upon procedures are allowed.
+ Again, only agreed-upon procedures are allowed for a forecast.
+ However, a projection, an examination is allowed.
+ For a proactive investigation, an examination is allowed.
+ A review is not allowed.
+ An agreed-upon procedure engagement is allowed.
+ is allowed, so for a projection, examinations and agreed-upon procedures are allowed.
+ So, forecast, agreed-upon procedures only.
+ Projection, agreed-upon procedures and examinations.
+ Hope that sticks with you on exam day.
+ Then we have our report on prospective financial statements.
+ So, must include a caveat, a statement that the prospective results may not be achieved.
+ There's no responsibility to update.
+ There's a restricted-use paragraph.
+ And there's a summary of the significant assumptions.
+ So, those are prospective financial statements.
+ Now we have pro forma financial statements, which are prepared to illustrate the effects of significant events or transactions on an entity's historical financial statements as if the event had occurred at an earlier date.
+ These statements are often used for planning, business analysis, or to inform investors and creditors about the potential impacts of events like mergers, acquisitions, major changes in capital structure.
+ So, that's pro forma.
+ Now we have our attestation engagements.
+ We have our examination, review, agreed-upon procedures.
+ For pro forma financial statements, examinations and reviews are allowed.
+ Agreed-upon procedures, not allowed.
+ Again, examinations, reviews, allowed for pro forma.
+ Agreed-upon procedures, not allowed.
+ Then we have our report on pro forma financial statements.
+ Then we have our report on pro forma financial statements.
+ The report should reference the historical financial statements from which the historical financial information is derived.
+ It should state whether those statements were audited or reviewed, and if audited, whether an unmodified opinion was expressed.
+ It should include a statement indicating that the pro forma adjustments are based on management assumptions.
+ And it should describe the objectives of the pro forma financial statements and their limitations.
+ Users should be informed that the pro forma financial statements are used for illustrative purposes only and may not represent the actual financial position or results that would have been achieved had the event occurred earlier.
+ Then we have compliance engagements, which are conducted to attest whether an entity has complied with specific laws, regulations, rules, contracts, grants, etc.
+ So then we have our attestation engagements, examination, review, agreed upon procedure.
+ For a compliance engagement, examination, allowed.
+ Review, not allowed.
+ Agreed upon procedure, allowed.
+ So a compliance engagement, only an examination, and agreed upon procedures are allowed.
+ Our requirements for a compliance engagement.
+ The CPA must obtain a thorough understanding of the specific requirements with which the entity must comply.
+ The CPA must obtain an understanding of the relevant portions of the company's internal controls over compliance.
+ And the CPA must request a written representation letter from management confirming that responsibility for the compliance and the completeness and accuracy of the information provided.
+ Then we have our report, which should clearly identify the specified requirements.
+ And then an examination or compliance report should include a statement clarifying that the examination does not provide a legal determination of the entity's compliance with the requirements.
+ Next we have our MDNA, our Management Discussion and Analysis, which is a section within an entity's annual report providing a narrative explanation of its financial statements and overall performance.
+ When CPAs are engaged to attest to the MDNA, it pertains to those prepared in accordance with the SEC rules and regulations.
+ So, public entities are those that prepare an MDNA as mandated by the SEC.
+ Non-public entities voluntarily prepare an MDNA.
+ So, with our MDNA engagement, we have examination, review, agreed upon procedures.
+ For an MDNA, examination and review are allowed.
+ Agreed upon procedures, not allowed.
+ So, examination and review only.
+ And some requirements for an MDNA engagement.
+ We must understand the SEC rules.
+ We must understand the entity.
+ We must review the financial statements.
+ And we must make inquiries and perform analytical procedures.
+ Finally, we have attestation engagements on internal controls at a service organization.
+ And we have an examination engagement.
+ Under an examination engagement, CPAs must obtain reasonable assurance about the management's description, the design implementation, and the operating effectiveness.
+ So, management's description, which is the accuracy and completeness of management's description of the service organization system.
+ Then, design and implementation.
+ The suitability of the design and implementation of the controls as of a specified date.
+ And the operating effectiveness of the controls over a specified period.
+ So, that's for an examination engagement.
+ For a review engagement and an agreed upon procedures engagement, those are not allowed for internal controls at service organizations.
+ Only an examination engagement.
+ And there's two types of reports.
+ There's a type one report, which provides an opinion on the fairness of the presentation of management's description of the service organization system.
+ And the suitability of the design of the controls as of the specified date.
+ Type one reports cover the design and implementation of the service organization's internal controls.
+ And they're often used by the entity's management to understand and document the controls at the service organization.
+ For a type two report, in addition to the objectives of a type one report, type two report also includes an opinion on the operating effectiveness of the internal controls over some period of time.
+ This concludes attestation engagements.
+ So thanks so much for casting points.
+ Good morning, John Holmes, now 何'llik In This video, before we begin with our studio, it's nine members of occupy 35,000 jetsetara's will be the same network or być within H&M participle.
+ You should have already 오edYU, every single particular spot.
+ Through bridge nickname snapbacks.
+ With the next centrifugal homeland, flexion, move to the ALI website, right?
+ Or was the active木, lovelyви, or active wings Θ, which will all look healthy at all the elements.
+ We'll be open to one of them all together.
+ In this case, I'd like to buy those BARи around a little bit of a week.
+ 

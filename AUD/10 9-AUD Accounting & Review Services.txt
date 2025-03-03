@@ -1,0 +1,146 @@
+Accounting and Review Services.
+ In this session, we are going to cover an overview of Accounting and Review Services and do a deep dive into preparation engagements, compilation engagements, and review engagements.
+ We begin with our overview.
+ Statements on standards for Accounting and Review Services are issued by the Accounting and Review Services Committee of the American Institute of Certified Public Accountants.
+ These standards provide guidance to accountants who are engaged in preparing, presenting, and reviewing financial statements, as well as performing attestation engagements that are not audits.
+ And within the scope of SARs engagements, we have preparation engagements, compilation engagements, and review engagements.
+ Preparation engagements apply when an accountant is engaged to prepare financial statements, but is not required to issue a compilation or a report.
+ Compilation engagements apply when an accountant is engaged to compile financial statements, but not to perform an audit or a review.
+ And then finally, review engagements under SARs apply when an accountant is engaged to review historical financial statements of an entity that is not audited.
+ So we begin with preparation engagements.
+ The primary objective of a preparation engagement is to prepare financial statements in accordance with an applicable financial reporting framework, usually GAAP, based on information that is provided by the client.
+ Preparation engagements give no assurance.
+ Accountants do not provide any assurance on the financial statements in a preparation engagement.
+ The financial statements are not audited or reviewed, and no opinion or assurance is expressed.
+ In a preparation engagement, accountants are not required to be independent, but if they are not independent, there's no need to disclose this fact.
+ Again, there's no need to disclose the lack of independence for a preparation engagement.
+ Preparation engagements require an engagement letter, and preparation engagements have limited disclosures, which should be disclosed, and no report is issued.
+ Unlike a compilation or a review, accountants do not issue a report in preparation engagements.
+ Next, we will discuss preconditions for accepting a preparation engagement.
+ First, you have to understand the applicable financial reporting framework.
+ Again, typically GAAP.
+ You have to have familiarity with significant accounting policies of the company.
+ Prior industry knowledge is not mandatory, but if you lack industry experience, then you should take steps to acquire that knowledge.
+ Then we have the engagement letter for a preparation engagement.
+ Before initiating a preparation engagement under SARS, an accountant should establish and document the terms of the engagement through an engagement letter, and the engagement letter should be agreed upon and signed by both the accountant or the firm and management or those charged with governance.
+ The engagement letter should include the engagement objective, management's responsibilities, the accountant's responsibilities, a statement about assurance, so include a statement from management that each page of the financial statements will either carry a statement indicating that no assurance is provided on the financial statements or the accountant will be required to issue a disclaimer clarifying that no assurance is provided.
+ And also, the limitations of the engagement.
+ The letter should describe the limitations associated with a preparation engagement and emphasize that it does not provide insurance, it is not an audit, and does not verify the accuracy or the completeness of the information provided.
+ It should also identify the applicable financial reporting framework and specify if it will depart from that framework or omit any disclosures, and if so, provide those details.
+ Next, we have the procedures for preparation engagements under SARs.
+ First, we have to point out that we are using management-provided information, and the financial statements should be prepared utilizing management-supplied financial information.
+ And again, no assurance.
+ So, each page of the financial statements, including notes, should carry a statement indicating that no assurance is provided.
+ An example would be, no assurance is provided on these financial statements.
+ Just include that on every page.
+ If this statement isn't on each page, like management says they don't want that, then the accountant should either issue a disclaimer report clarifying no assurance or opt for a compilation engagement instead.
+ Speaking of compilation engagements, the primary objective of a compilation engagement is to assist management in presenting financial information in the proper form without providing assurance on the accuracy or completeness of the information.
+ In a compilation engagement, no assurance is provided.
+ Independence is not required, but it must be disclosed.
+ The accountant should obtain an engagement letter signed by the client documenting the terms of the engagement and both the responsibilities of the accountant and management and limitations of the compilation service.
+ And the accountant must issue a compilation report that indicates the financial statements that were compiled and a statement that management is responsible for those statements and that the accountant did not audit or review these statements and does not express an opinion or provide assurance in a statement on the accountant's independence or lack thereof.
+ Next, we will discuss the preconditions for accepting a compilation engagement.
+ First, we must obtain management's agreement and acknowledgement as to their responsibilities, which include the financial statements are theirs.
+ They're responsible for the preparation and the fair presentation of the financial statements in accordance with the applicable financial reporting framework.
+ And management agrees to include the accountant's compilation report in any document containing the compiled financial statements.
+ This report indicates that a compilation engagement has been performed on the financial statements.
+ And if there is a different understanding regarding the inclusion of the compilation report, this should be agreed upon and documented.
+ The accountant should have an understanding of the applicable financial reporting framework and the significant accounting policies that will be used in the preparation of the financial statements.
+ And as usual, having prior experience in the industry that the client operates in is not a requirement.
+ However, the accountant must take measures to obtain sufficient knowledge and understanding of that industry.
+ Key requirements of the engagement letter include the engagement objective, management's responsibilities, the accountant's responsibilities, the limitations of the engagement.
+ It should clarify that the service does not provide assurance on the financial statements and the accountant will not express an opinion or any form of assurance.
+ And the engagement letter should identify the applicable financial reporting framework that will be used in the preparation and presentation of the financial statements.
+ So this could be GAAP, this could be IFERS or another framework.
+ And finally, the engagement letter should include the expected form and content of the compilation report.
+ This provides the client with an understanding of what the final report will look like.
+ And the letter should include a statement acknowledging that circumstances may arise during the engagement that could necessitate changes to the form and content of the compilation report.
+ Next, we'll talk about procedures for compilation engagements.
+ First, we read the financial statements for any obvious misstatements and we request additional or corrected information as needed and we propose revisions to identified matters.
+ And we should consider withdrawing and inform the management of our decisions for withdrawal if management fails to provide the information we ask for or if management refuses to make appropriate revisions that are proposed by the accountant.
+ Compilation reports.
+ A standard compilation report is issued at the conclusion of a compilation engagement.
+ And components include a statement on management's responsibility, identification of financial statements, identification of the entity, the period covered by the financial statements.
+ It should include a statement indicating that the compilation engagement was conducted in accordance with statements on standards for accounting and review services or SARs.
+ It should include a no assurance statement that the accountant did not audit or review the financial statements.
+ It should mention that the accountant was not required to verify the accuracy or completeness of the information that was provided by management and therefore does not express an opinion, a conclusion, or provide any assurance on the financial statements.
+ It should be signed.
+ It should include the location, the city and state of where the accountant or the accountant's firm practices.
+ And it should include a report date.
+ And just some final notes on compilation reports.
+ When financial statements are prepared under a special purpose framework, the compilation report should be adjusted to communicate this fact clearly to the financial statement users.
+ And when the accountant lacks independence in a compilation engagement, it's crucial to disclose this fact in a compilation report.
+ When financial statements omit substantially all disclosures, it means that the statements lack the additional information typically provided in the notes to the financial statements.
+ This omission might be due to various reasons such as management's decision to simplify the presentation or other considerations.
+ However, this omission has implications for the users of the financial statements and it's crucial to communicate this fact clearly in the compilation report.
+ And then finally, in a compilation of projected financial information which presents an entity's expected financial position or results of operations and cash flows based on hypothetical assumptions, the accountant must include a disclaimer.
+ This disclaimer should note that there will likely be differences between the projected and actual results because events and circumstances often do not unfold as expected.
+ Now, this might seem obvious to us because it's common sense but really what we're doing is minimizing our risk of being sued because people are just looking for reasons to sue people.
+ So, that's why we include the disclaimer even on common sense things like this.
+ So far, we've covered preparation engagements, compilation engagements, and now finally, review engagements.
+ The primary objective of a review of financial statements under SARs is to provide limited assurance that there are no material modifications that should be made to the financial statements for them to be in conformity with the applicable financial reporting framework.
+ SARs are applicable when the accountant is engaged to review historical financial statements of entities that do not undergo a financial audit.
+ The primary objective of a financial statement review under SARs is to obtain limited assurance.
+ This assurance serves as a basis for reporting whether the accountant is aware of any material modifications that should be made to the financial statements for them to conform with the applicable financial reporting framework.
+ Some key characteristics of review engagements include negative assurance or limited assurance.
+ In a review engagement, the accountant typically states that nothing has come to their attention that causes them to believe that the financial statements are materially misstated.
+ This is known as negative assurance.
+ You state that nothing has come to your attention.
+ Limited assurance is a level of service where the reviewer performs fewer and less extensive procedures than in an audit.
+ It provides a lower level of confidence regarding the information being verified.
+ So that's negative assurance or limited assurance.
+ Independence.
+ The accountant must maintain independence from the entity while doing a review.
+ It's a requirement.
+ And if at any point you become not independent you must withdraw.
+ Engagement letters are required and within the engagement letter it should clearly define management's responsibility which include management is responsible for preparing and presenting the financial statements in accordance with the applicable financial reporting framework.
+ Management is responsible for designing implementing and maintaining internal control.
+ Management should provide the accountant with all financial records and related information necessary for the review.
+ That's management's responsibility.
+ And then it details the accountant's responsibility.
+ And then in the review report it should include the identification of the financial statements that were reviewed.
+ A statement indicating that the review was conducted in accordance with SARS.
+ A statement that management is responsible for the financial statements.
+ A statement that the accountant has not audited or reviewed the financial statements and accordingly does not express an opinion.
+ a conclusion that states whether based on the review the accountant is aware of any material modifications that should be made to the financial statements in accordance with the applicable financial reporting framework.
+ And if applicable a statement on the accountant's independence or lack thereof.
+ Some preconditions for accepting a review engagement include management's agreement.
+ Management must agree and acknowledge that it understands its responsibilities.
+ The accountant must understand the applicable financial reporting framework and the policies and document that.
+ if the accountant doesn't have prior experience in the industry not a deal breaker but it must go and acquire that.
+ Management should provide the accountant with a written representation letter at the conclusion of the engagement that confirms certain representations made during the review affirming the accuracy and the completeness of the information provided.
+ Also that there is no scope limitation.
+ The accountant should not accept a review engagement if there's a scope limitation and a scope limitation is where the accountant is not allowed to basically do their job.
+ There's something in their way.
+ Now we've already briefly touched on the engagement letter but just doing a little bit more of a deep dive.
+ The engagement letter for a review engagement should include the engagement objective, management's responsibilities, the accountant's responsibilities, the limitations of the engagement, the identification of the applicable financial reporting framework, and the expected form and content of the review report.
+ Next are procedures for review engagements under SARS.
+ The accountant must understand the industry.
+ They must have a knowledge of the entity.
+ They must read the financial statements and then perform analytical procedures on them.
+ The accountant should make inquiries to management, legal counsel, those charged with governance.
+ The accountant should reconcile the financial statements to the accounting records.
+ They should review reports of other accountants if applicable.
+ The accountant is not required to perform a test of details or a test of controls in a review engagement.
+ The accountant must obtain a management representation letter that's in written form and the letter should be dated as of the date of the review report.
+ And the accountant should evaluate whether sufficient appropriate review evidence has been obtained.
+ If material misstatements are not identified, unqualified, conclusion.
+ If material misstatements are identified and they're not pervasive, qualified, conclusion.
+ Not as good as unqualified, not as bad as adverse.
+ If misstatements are material and pervasive, adverse.
+ Next, we will discuss the standard review report for an unmodified conclusion.
+ It should include the title and include the word independent.
+ It should be addressed as appropriate based on the engagement circumstances.
+ It should have an introductory paragraph, have a management's responsibility paragraph, an accountant's responsibility paragraph, an accountant's conclusion, paragraph, signed by the accountant, city and state, date of the accountant's report, and markings on the financial statements.
+ Each page should be marked with reference to the accountant's review report like C independent accountant's review report.
+ Now, just like an audit, an emphasis of matter paragraph or an other matter paragraph may be required.
+ An emphasis of matter paragraph is added to a review report when it's necessary to draw a user's attention to a matter appropriately presented or disclosed that is of such importance that it is fundamental to the user's understanding of the financial statements.
+ So like with a special purpose framework or any subsequent events, that's when it's required, and it might be necessary if there's a going concern issue, some sort of uncertainty, or significant related party transactions.
+ So everything is presented as it should be, just drawing attention to something.
+ Then an other matter paragraph is used when it is necessary to communicate a matter other than those that are presented or disclosed in the financial statements that is relevant to the user's understanding of the review.
+ The use of the other matter paragraph is required with comparative financial statements, supplementary information, required supplementary information, or restrictions on the use of the report.
+ Now, when conducting a review of financial statements, the accountant may encounter a situation where there are concerns about an entity's ability to continue as a going concern.
+ If this substantial doubt exists, the accountant should include a separate paragraph in the review report to highlight the existence of substantial doubt about the entity's ability to continue as a going concern.
+ And finally, when financial statements are prepared under a special purpose framework, the review report should be adjusted to clearly communicate this fact to the users of the financial statements.
+ This includes accounting and review services.
+ 

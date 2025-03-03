@@ -1,0 +1,633 @@
+Substantive procedures and audit completion.
+ This is going to be a very long session.
+ You have been forewarned.
+ We're going to cover audit stages, audit evidence, management assertions, substantive procedures, substantive procedures over transaction cycles, substantive procedures over specific issues, using the work of others, audit documentation, and evaluation of audit findings and forming an opinion.
+ Let's get started.
+ So let's quickly recap where we are in the audit stages.
+ We began with pre-engagement acceptance activities, then the engagement letter, then audit strategy and planning, then internal control evaluation.
+ Now we are into the audit stage where we're going over substantive procedures and audit completion.
+ We begin with audit evidence.
+ The primary objective of an audit is to express an opinion on the financial statements, which are the representations of management.
+ To do this, auditors need to obtain sufficient and appropriate audit evidence.
+ One of the primary ways to gather this evidence is through substantive procedures.
+ So audit evidence refers to the information used by the auditor in arriving at conclusions on which the audit opinion is based.
+ Now the nature of audit evidence comes down to accounting records and then supporting documentation.
+ So we want our audit evidence to be sufficient and appropriate.
+ These are two fundamental qualitative characteristics that audit evidence must possess in order for an auditor to form a reasonable basis for their opinion on the financial statements.
+ So if the risk of material misstatement is high, then our detection risk is low.
+ So we have a low threshold for detection risk.
+ So then we have, we elevate the nature, extent, and timing of the audit procedures.
+ And we need to increase the sufficiency and the appropriateness of our audit evidence.
+ So to put it another way, if it's more risky, then we're going to do, we're going to collect more audit evidence.
+ If the risk of material misstatement is low, then we have a higher threshold of detection risk, which is the risk that we as an auditor will basically fail to miss something.
+ So the risk of material misstatement is low, our detection risk, our acceptable detection risk is high, so then the nature, extent, and timing of the audit procedures, we loosen that up.
+ So the sufficiency and the appropriateness of the audit evidence goes down.
+ So sufficiency of audit evidence relates to the quantity or the amount of audit evidence.
+ The auditor needs to obtain enough evidence to be convinced that the financial statements are free from material misstatement.
+ Appropriateness is the measure of the quality of the audit evidence, meaning its relevance and reliability in supporting the conclusions drawn by the auditor.
+ So again, appropriate audit evidence must be relevant and reliable.
+ Relevance refers to the pertinence of the audit evidence to the assertion being tested.
+ So audit evidence must be directly related to the specific objective and, when applicable, the financial statement assertion being tested.
+ For instance, if testing for the existence of inventory, then physically counting it would be relevant.
+ Now, reliability refers to the degree to which evidence can be considered trustworthy or credible.
+ So several factors affect the reliability of evidence, including its source and form.
+ So the source of audit evidence, there's various sources.
+ There's audit evidence collected directly by the auditor, so a physical observation of asset counts.
+ Then there's independent external sources, like confirmations from banks about account balances.
+ Then there's outside sources that are obtained from the entity, like bank statements.
+ And then there's internally generated evidence, like sales invoices.
+ So the reliability of the audit evidence is exactly in that order.
+ Directly by the auditor, independent external, outsider, internally generated.
+ Now, forms of audit evidence can be written or oral.
+ Written evidence tends to be more reliable than oral evidence.
+ So how do we balance sufficiency and appropriateness?
+ So while sufficiency and appropriateness of the audit evidence is vital, there's a balance.
+ Because it's possible to have a lot of evidence, so it's sufficient, but it's not very reliable.
+ It's not appropriate.
+ Conversely, one might have very reliable evidence, which is appropriate, but not enough of it.
+ It's insufficient to form a conclusion, so there's a balance.
+ Now, if the auditor identifies information that contradicts or is inconsistent with other audit evidence, they should investigate further and determine what modifications or additions, if any, to their audit procedures are necessary to resolve the matter.
+ Next, we will dive into management assertions, which are representations made by management regarding the accuracy of the financial statement components.
+ These assertions are used by auditors as a framework to design their audit procedures.
+ They provide a structure to ensure that the financial statements are complete, valid, and accurate in all material respects.
+ So management makes the following assertions about transactions and events for the period under audit, account balances at the period end, and presentation and disclosure.
+ So the management assertions are completeness, cutoff, valuation, allocation, and accuracy, existence, or occurrence, rights and obligations, and understandability, and classification.
+ Let's dig into each of these.
+ Next, completeness.
+ Next, management asserts that all transactions and events that should have been recorded are indeed recorded, and all related disclosures that should have been included in the financial statements are in fact included.
+ So the financial statements are complete.
+ Next, cutoff, management asserts that transactions are recognized in the financial statements in the correct period.
+ In other words, the period in which they actually occurred.
+ That's cutoff.
+ Then valuation.
+ Management asserts that assets and liabilities are included in the financial statements at appropriate values, according to the applicable financial reporting framework, usually GAAP.
+ Allocation.
+ Management asserts that revenues and expenses are recognized in the financial statements in the correct accounting period.
+ Existence.
+ Management asserts that assets, liabilities, and equity interests are reported on the balance sheet, that are reported on the balance sheet, are real, and that they actually exist at the reporting date.
+ That's existence.
+ Occurrence.
+ Management asserts that transactions and events that are recorded and disclosed actually took place.
+ Rights.
+ Management asserts that the entity has legal claim or control over the assets reported on the balance sheet.
+ Obligations.
+ Management asserts that the liabilities on the balance sheet represent genuine obligations of the entity, and the entity has a duty to settle them.
+ By the way, whenever I see the word duty, I think of Nacho Libre.
+ All right.
+ So that's obligations.
+ You're welcome, by the way, if you get that.
+ Understandability.
+ Management asserts that financial information is presented in a clear, concise, and comprehensible manner, allowing users with a reasonable knowledge of business and economic activities to understand the entity's financial position, performance, and changes in financial position.
+ That's understandability.
+ Finally, classification.
+ Management asserts that transactions and events have been recorded in the proper accounts, ensuring that items are appropriately categorized in the financial statements according to their nature.
+ So one last thing about management assertions.
+ Management makes assertions about three categories.
+ Classes of transactions, account balances, and presentation and disclosure.
+ Let's move on to substantive procedures.
+ Substantive procedures are audit procedures that are designed to detect material misstatements at the assertion level.
+ So substantive procedures can be broadly categorized into two types.
+ Tests of details and substantive analytical procedures.
+ So the tests of details are procedures that focus on the details of items in the financial statements.
+ They include tests of transactions, tests of balances, and tests of disclosures.
+ Substantive analytical procedures involve evaluations of financial information through analysis of plausible relationships among both financial and non-financial data.
+ They often involve comparing recorded amounts or ratios calculated from recorded amounts to expectations developed by the auditor.
+ So we begin with tests of details.
+ These are audit procedures that focus on the details of specific items within an account balance or a class of transactions to verify their correctness.
+ This can involve checking the mathematical accuracy of documents, verifying transactions with external parties, or inspecting supporting documents to confirm the validity of recorded transactions.
+ So the main purposes of tests of details are to confirm the accuracy and completeness of specific financial statement accounts to validate that transactions have been recorded in the correct accounting period and to ensure that financial statement disclosures are appropriate and complete.
+ Some common types of tests of details.
+ Some common types of tests of details.
+ Reperformance.
+ An example would be if the entity's personnel had originally performed an aging analysis of accounts receivable to determine the allowance for doubtful accounts, then the auditor would reperform this aging process to ensure that the calculations and the categories are correct.
+ So that's reperformance.
+ Then there's inquiry.
+ An example would be an auditor might inquire with the company's CFO about the rationale behind a significant and unusual year-end journal entry.
+ Then there's observation.
+ An example would be an auditor might observe the client's physical inventory counting procedures at the year-end to ensure that they are carried out properly and consistently.
+ Then there's confirmation.
+ So an auditor might send a letter to a customer asking them to confirm the balance that they owe.
+ Then there's asset inspection.
+ So an auditor might inspect a piece of machinery to make sure it exists, checking the serial number, et cetera.
+ Then there's reconciliation.
+ So they might reconcile the cash balance per the company's books to the cash balance per the bank statement.
+ Then there's inspection.
+ So inspection is one of the primary audit procedures used by auditors to obtain evidence.
+ It involves examining records, documents, or tangible assets.
+ So inspection involves vouching and tracing, and these are directional in nature, and they serve different purposes in the audit process.
+ So vouching involves selecting specific items from the accounting records and then following them backward to the original source documents.
+ Tracing is the opposite of vouching involves selecting specific items from the original source, and then following them forward to make sure that they've been appropriately recorded in the accounting records.
+ Then we have recalculation, footing, and cross-footing.
+ So an auditor might recompute the total of a list of invoice amounts, which is footing, or recalculate the depreciation expense for a piece of equipment based on its cost and useful life.
+ Just to make sure the numbers add up.
+ Then there's auditing related accounts simultaneously.
+ So an example would be when auditing sales revenue, an auditor might also examine related AR, and the allowance for doubtful accounts to make sure that they are all consistent and accurate.
+ Then there's cutoff procedures.
+ So an auditor might review sales invoices issued shortly before and after year-end to make sure that they're recorded in the correct accounting period.
+ Then there's events that are subsequent to the balance sheet date.
+ So an auditor might review post-year-end bank statements, minutes of post-year-end board meetings, or inquire with management about any significant events occurring after year-end that might require an adjustment or a disclosure in the financial statements.
+ So that was test of details.
+ Next we have substantive analytical procedures, which are audit procedures that involve evaluations of financial information through analysis of plausible relationships, both financial and non-financial in nature.
+ So some common types of these are trend analysis, ratio analysis, reasonableness testing, regression analysis, vertical analysis, horizontal analysis, non-financial analysis, industry comparisons, and budget versus actual analysis.
+ And if you want a further breakdown of these, these are all in the NINJA book.
+ So let's talk about some steps in performing substantive analytical procedures.
+ First we develop an expectation.
+ So before looking at the client's figures, the auditor should develop an expectation of what those figures should be.
+ Then we define a threshold.
+ So determine the difference between expected and recorded amounts that will be accepted without further investigation.
+ Then we compare and analyze differences.
+ And then we document.
+ So the auditor should document the expectation, the source of any data used to develop the expectation, the threshold, and then any further investigations into any noted differences.
+ So factors to consider when using substantive analytical procedures include the nature of the account.
+ So analytical procedures might be more appropriate for accounts that are predictable over time.
+ So in general, income statement accounts tend to be more predictable than balance sheet accounts.
+ Another factor is the reliability of data.
+ For instance, externally generated data might be more reliable than internally generated data.
+ And also the precision of the expectation.
+ The more precise the expectation, the more likely it is that the analytical procedure will detect a material misstatement.
+ So let's talk about analytical procedures during various stages of the audit.
+ Because they can be applied at various stages for different purposes.
+ So in the planning stage, analytical procedures are mandatory.
+ So the purpose is to identify aspects of the entity that the auditor might not be aware of.
+ To assist in assessing the risk of material misstatement.
+ Material misstatement to provide a basis for planning the nature, extent, and timing of further audit procedures.
+ And to further enhance the auditor's understanding of the business.
+ And to identify any unusual amounts, ratios, trends, etc.
+ So in the planning stage, analytical procedures are mandatory.
+ In the field work stage, they are optional.
+ We can obtain evidence on relevant assertions for transactions or balances.
+ And reduce our detection risk.
+ So the auditor decides whether to use tests of details only.
+ Or substantive analytical procedures only.
+ Or a combination of both.
+ So in the field work stage, it's optional.
+ In the overall review, mandatory.
+ So this is performed at or near the end of the audit.
+ Typically by the audit partner or another senior member of the audit team.
+ And it assists the auditor in forming an overall conclusion about whether the financial statements are consistent with the auditor's understanding of the entity.
+ Advantages of analytical procedures include efficiency.
+ Analytical procedures can be more efficient than tests of details for some account balances or classes of transactions.
+ And broad coverage.
+ They can cover a large volume of transactions and provide evidence about multiple assertions for account balance or a class of transactions.
+ But there's some limitations like data reliability.
+ So the effectiveness of analytical procedures is highly dependent on the reliability of the data used.
+ Remember, external sources are more reliable than internal sources.
+ And then another limitation is subjectivity.
+ Expectations and thresholds, those are subjective.
+ And they're not suitable for all accounts.
+ So not all accounts can exhibit predictable patterns.
+ So let's move into substantive procedures over transaction cycles.
+ Beginning with the revenue cycle.
+ The revenue cycle encompasses the process of selling goods and then recording the receivables or collecting cash.
+ The primary risk in the revenue cycle is overstatement.
+ Management might have the incentive to overstate sales.
+ So the focus is on the existence assertion.
+ So while completeness is crucial, the existence assertion takes precedence in the revenue cycle.
+ So auditors need to verify that recorded sales and receivables actually occurred and exist to address the risk of overstatement.
+ So the focus is on the existence assertion in the revenue cycle.
+ Let's talk about some frauds in the revenue cycle.
+ Lapping.
+ Lapping is a practice that involves manipulating accounts receivable to hide stolen cash.
+ So an employee who has access to incoming customer payments and the company's ledger can delay the recording of the cash and then temporarily using one customer's payment to cover the shortage created by theft from another customer.
+ So an employee steals a payment by customer A.
+ When customer B makes a payment, the employee applies part or all of customer B's payment to customer A's account, making it appear as if customer A's payment was received.
+ The cycle continues with each subsequent customer payment used to cover the previous shortage.
+ Now the problem is the employee must continue this scheme, often stealing more, in the process to avoid detection.
+ So that's an example of fraud and revenue cycle.
+ So you might get a question on the exam and just remember lapping.
+ Because in order to not get caught, they have to keep running, running, running to keep the fraud going.
+ That's the revenue cycle.
+ Now the expenditure cycle.
+ The expenditure cycle refers to the series of business activities and procedures that companies undertake when purchasing and paying for goods and services.
+ So the primary risk for expenditure cycle is understatement.
+ Makes sense.
+ The primary risk for the revenue cycle was overstatement.
+ Companies want to overstate their revenue.
+ And then the expenditure cycle, they want to understate their expenses.
+ And so for revenue, the focus was on the existence assertion.
+ Did the sales actually exist?
+ For the expenditure cycle, the focus is on the completeness assertion.
+ So while existence is crucial, the completeness assertion takes precedence because auditors need to verify that all purchases and payables that should have been recorded are indeed documented and included in the financial statements.
+ Next we have the cash cycle.
+ So this is receiving, managing, and dispersing cash.
+ Primary risk is overstatement.
+ The focus is on the existence assertion.
+ Does that cash actually exist?
+ So they need to verify that the recorded cash receipts, disbursements, and balances actually exist and occurred.
+ That's the cash cycle.
+ Some frauds that exist in the cash cycle.
+ Well one is kiting.
+ Kiting refers to a fraud scheme that's used to manipulate the balance in a bank account.
+ So kiting is typically performed by exploiting what's called float, which is the time difference between when a deposit is made and when the funds are officially cleared and recognized in the account.
+ Kiting is usually done to inflate the cash balance artificially.
+ So how it works is an individual or an entity transfers money between two or more bank accounts.
+ This transfer is done strategically close to the reporting date.
+ So the receipt in the incoming bank account is recorded before the disbursement is recorded in the outgoing bank account.
+ So consider two bank accounts.
+ One at Bank of America.
+ The other at JPMorgan.
+ The transfer of $100 is made from the Bank of America account to the JPMorgan account on January 1st.
+ However, the books record the receipt at the JPMorgan account on December 31st before the disbursement date to the Bank of America account.
+ So auditors detect kiting by preparing a bank transfer schedule that lists all transfers in and out of bank accounts along with the dates and disbursements and receipts for the books and the bank statements.
+ Any discrepancies in dates like receipts recorded before disbursements could indicate that kiting is involved.
+ So might make for a good exam question.
+ Which of the following would help an auditor to detect kiting via bank transfer schedule.
+ Next is the inventory cycle.
+ So this is purchasing, maintaining, and selling inventory.
+ Primary risk, you guessed it.
+ Overstatement, it's an asset.
+ The focus is on the existence assertion.
+ Does the inventory actually exist?
+ Then there's the payroll cycle.
+ So, pretty straightforward, it's payroll.
+ Primary risk is understatement.
+ So, the focus is on the completeness assertion.
+ And you're probably seeing here that if it's revenue or if it's an asset, the primary risk is overstatement.
+ If it's an expenditure, primary risk is understatement.
+ If it's revenue or an asset, the focus is on existence.
+ If it's an expense, then the focus is on completeness.
+ Next we have the investing cycle.
+ So, selling, managing investments, and recording income like interest and dividends.
+ Risk, overstatement.
+ Focus on existence.
+ Then there's property, plant, and equipment.
+ Good old P, P, and E.
+ And it's acquiring, utilizing, disposing, property, plant, and equipment.
+ Primary risk, you got it.
+ Overstatement.
+ Focus is on what assertion?
+ Existence.
+ Then there's the debt cycle.
+ Primary risk, you guessed it.
+ Understatement.
+ Focus is on completeness.
+ Then there's the equity cycle.
+ So, issuing shares, paying dividends, repurchasing shares.
+ Primary risk is overstatement.
+ Management might have the incentive to overstate equity to present the financial health of the company more favorably.
+ So, the focus is on existence.
+ Next we're going to jump into substantive procedures over specific issues.
+ Beginning with opening balances.
+ Which refer to the account balances that are present at the commencement of the accounting period.
+ These balances are derived from the closing balances of the previous period.
+ And inherently reflect the cumulative effect of the transactions and events of prior periods.
+ As well as the application of accounting policies in prior periods.
+ So, some audit procedures for opening balances in new audits.
+ So, when conducting new audits, auditors need to perform specific procedures to verify the accuracy and the reliability of opening balances.
+ Because this is a new client.
+ So, we want to review prior period information.
+ So, they should read the most recent financial statements and the predecessor's audit report for information relevant to opening balances and disclosures.
+ Then we want to have engagement with the predecessor auditor.
+ So, if the prior period's financial statements were audited by a predecessor.
+ Then the current auditor should request management's authorization.
+ Very key.
+ You have to do that first.
+ To engage with the predecessor.
+ This involves making inquiries regarding specific matters.
+ Reviewing their audit documentation.
+ And discovering possible material misstatements and the financial statements that were reported by the predecessor.
+ Then we do verification of carried forward balances.
+ So, we need to determine whether the prior period's closing balances have been correctly brought forward to the current period.
+ Then we do specific audit procedures over opening balances of specific assets and liabilities.
+ Namely, accounts receivable and payable.
+ And also, inventory and then non-current assets and liabilities.
+ So, let's address evidence of misstatement.
+ And specifically with opening balances.
+ If this comes about, the auditor should analyze the impact of the misstatement on the current year's financial statements.
+ If the auditor concludes that the misstatement, if it exists in the current year's financial statements, they should communicate the misstatement to the appropriate level of management and those charged with governance.
+ If the prior period was audited by a predecessor auditor, then the auditor should request management to inform the predecessor auditor of the situation.
+ And arrange for the current auditor, the predecessor auditor, and management to discuss this and attempt to resolve it.
+ And the auditor should communicate to the predecessor auditor information that the current auditor believes that the predecessor auditor may need to consider as a subsequently discovered fact.
+ If management refuses to inform the predecessor auditor that the prior period financial statements may need revision or if the auditor is not satisfied with the resolution, then the auditor should evaluate the implications of the current engagement and whether or not they should withdraw or disclaim an opinion.
+ So, if the auditor is unable to obtain sufficient appropriate audit evidence regarding the opening balances, then they have to do a qualified opinion due to a gas issue or a disclaimer of opinion.
+ So, if the opening balances containing a misstatement that materially affects the current financial statements, then it's a qualified opinion due to a gap issue or an adverse opinion.
+ Or, if the current period's accounting policies are not consistently applied, then it's a qualified due to a gap or an adverse opinion.
+ Or, if the predecessor auditor's report includes a modification, then you modify the current audit report accordingly.
+ Our next topic is non-compliance with applicable laws and regulations.
+ So, an auditor is responsible for obtaining reasonable assurance that financial statements as a whole are free from material misstatement, whether caused by fraud or error.
+ Owing to the inherent limitations of an audit, an unavoidable risk exists that some material misstatements and financial statements may not be detected, even though the audit is properly planned and performed.
+ In the context of compliance with compliance with laws and regs, the potential effects of these inherent limitations on the auditor's ability to detect material misstatements are greater due to the following reasons.
+ Number one, many laws and regulations related principally to the operating aspects of an entity typically don't affect financial statements.
+ Number two, non-compliance may involve conduct that's designed to conceal it, like collusion, forgery, et cetera.
+ And then, finally, whether an act constitutes non-compliance is ultimately a matter for legal determination, like in a court of law.
+ So, an auditor provides no assurance about compliance with laws and regs.
+ However, auditors should obtain a general understanding of the legal and regulatory frameworks applicable to the entity and its industry and the entity's compliance mechanisms within that applicable framework.
+ So, how does an auditor address identified or suspected non-compliance with the laws and regs?
+ Well, when non-compliance is identified or suspected, the auditor needs to understand the nature and the circumstances of the non-compliant act.
+ And then, evaluate if it's possible that it has an effect on the financial statements.
+ And then, consider the possibility of any similar non-compliant transactions or events and discuss the issue with management and those charged with governance.
+ Now, that's addressing it, what about reporting it?
+ When auditors identify or suspect non-compliance, they should report these findings accurately and appropriately to ensure transparency and adherence to professional standards.
+ So, reporting to management and those charged with governance.
+ For management, non-compliance should be reported to management, specifically to individuals at least one level above those involved with the non-compliance.
+ For those charged with governance, they must also be informed.
+ So, that's management and those charged with governance.
+ What about the auditor's report?
+ In cases where non-compliance materially affects the financial statements, auditors should reflect this in the report.
+ If the non-compliance isn't disclosed, so if the financial statements don't adequately reflect the non-compliance, then the auditor should issue a qualified or adverse opinion due to a departure from GAAP.
+ If there's insufficient audit evidence, so if non-compliance leads to a scope limitation preventing auditors from obtaining sufficient appropriate audit evidence, then a qualified opinion due to a gas obstruction, generally accepted auditing standards, or a disclaimer of opinion should be issued.
+ Now, what about reporting to outside parties?
+ Normally, it's not the auditor's responsibility to report non-compliance to outside parties.
+ As the auditor is bound by confidentiality, unless, of course, the matter is reflected in the auditor's report.
+ However, in the following circumstances, an auditor may need to disclose illegal acts.
+ So, they may need to report non-compliance to comply with specific legal and regulatory requirements.
+ If they are subpoenaed, then they are legally obligated to disclose it.
+ Now, with successor auditors, so you're now the predecessor auditor, talking to a successor auditor, reporting the non-compliance to a successor auditor is often necessary in order for the successor auditor to perform the audit effectively.
+ And for entities receiving governmental financial assistance, the auditors may need to report non-compliance to funding agencies or other specified agencies as required.
+ So, related party transactions.
+ These refer to the business dealings or arrangements between two parties who are joined by a pre-existing business or a family relationship.
+ So, related party transactions can vary in risk depending on their nature.
+ If it's the normal course of business, then it may not present a higher risk of material misstatement than transactions with unrelated parties.
+ If it's a non-arms length transaction, then there might be a higher risk of material misstatement.
+ So, certain transactions may indicate the existence of related parties.
+ These include transactions involving goods or services or properties at prices that are just much higher than market value.
+ Or sales or purchases that are inconsistent with the company's ordinary business practices or market trends.
+ Or loans provided or received at 0% or just unusually low interest rates.
+ Or financial guarantees or commitments extended to or received from related parties without any apparent business purpose.
+ Or sale, purchase or leasing of properties at prices that are not aligned with their appraised values.
+ Or engaging in non-monetary exchanges of properties or assets.
+ Or executive compensation bonuses or other benefits that are disproportionately high compared to industry standards or the company's performance.
+ Or employment or close family members of key execs or major shareholders at significant compensation levels.
+ So, audit procedures for these related party transactions.
+ So, auditors need to find sufficient, appropriate audit evidence to confirm appropriate identification, accounting, and disclosure of related party transactions in the financial statement.
+ So, first, inquire of management regarding any related party relationships.
+ And then also inquire of management any significant transactions that have been identified by the auditor which are outside the entity's normal course of business.
+ And the auditor should treat identified significant related party transactions outside the course of business as giving rise to significant risks.
+ And then design further audit procedures.
+ So, if the auditors identify any previously undisclosed related party relationships or transactions, they should promptly communicate the relevant information to other members of the engagement team.
+ And then request management to identify all transactions with newly identified related parties.
+ And then inquire why the internal control failed to identify or disclose such related party transactions or relationships.
+ And then perform further substantive procedures related to these newly identified relationships or transactions.
+ Our next section is on litigation, claims, and assessments.
+ So, litigation, claims, and assessments represent contingent liabilities.
+ So, litigation, these are ongoing or upcoming legal proceedings that involve the company which may result in a financial loss due to settlements, fines, or legal fees.
+ Or claims, these are demands for compensation that the company faces, which might not be in court yet, but represent potential financial liabilities such as customer claims for damages, vendor claims, nonpayment, etc.
+ Or assessments, these are evaluations or judgments imposed by authorities such as penalties, taxes, or fines.
+ So, how do we account for contingent liabilities?
+ Well, there's four thresholds.
+ There's remote, reasonably possible, probable and non-estimable, or probable and reasonably estimable.
+ And we treat them differently whether or not it's a loss contingency or a gain contingency.
+ So, probably gonna have a loss or probably gonna have a gain.
+ If it's a remote possibility and it's a loss contingency or a gain contingency, we don't disclose and we don't accrue.
+ If it's reasonably possible, if it's a loss, we disclose, but we don't accrue.
+ If it's a gain, we disclose, but we don't accrue.
+ If it's a gain, we disclose, but we don't accrue.
+ So, to really summarize it, unless it's remote, then whether it's a loss or a gain, we disclose.
+ And, for the accrual, if it's a loss, we never accrue it, unless it's probable and reasonably estimable.
+ Because we have to have a number.
+ Now, for a gain, do we ever accrue it?
+ No, we don't.
+ So, I hope that's helpful.
+ Now, let's talk about auditor procedures to identify these litigations, claims, and assessments.
+ So, the auditor, they have to identify litigations, claims, and assessments that might give rise to the risk of material misstatement.
+ So, the auditor makes inquiries within the entity.
+ They inspect the minutes of the board meetings.
+ Like, is there something in there?
+ That either explicitly states it or hints.
+ They inspect legal documents between the entity and its external legal counsel or regulatory authorities.
+ And also, review legal expense accounts.
+ Like, if those are going up, might be something there.
+ And then, obtain written representations from management confirming that all known or possible litigation claims or assessments have been disclosed.
+ So, communicate with in-house legal counsel.
+ And also, communicate with external legal counsel with a letter of inquiry for both in-house and external.
+ Now, audit procedures with litigations, claims, and assessments.
+ First, we obtain audit evidence.
+ So, we should gather evidence relevant to the identified claims, litigations, claims, and assessments.
+ So, we've identified it.
+ Now, we have to do audit procedures.
+ So, they should be reliable and sufficient to support the auditor's conclusions.
+ So, we obtain evidence.
+ Then, we consult legal.
+ We engage with both internal and external legal counsel to obtain expert opinions and assessments about the litigation and claims.
+ Then, we review subsequent events.
+ So, we analyze events occurring after the balance sheet date but before the issuance of the financial statements to identify any additional information or developments related to the litigation.
+ Then, we do a disclosure check.
+ We ensure that the entity has adequately disclosed the litigation and the claims in the notes to the financial statements in compliance with the applicable financial reporting framework.
+ So, in light of litigation, claims, and assessments, we have to think about how this will affect our audit opinion.
+ So, if the litigation, claims, or assessments, if it's appropriately accounted for and disclosed, no problem.
+ Unmodified opinion.
+ If the litigation, claims, and assessments are not appropriately accounted for and disclosed, then we issue a qualified opinion due to a gap or an adverse opinion.
+ If the entity's external legal counsel refuses to respond appropriately to a letter of inquiry and the auditor is unable to obtain sufficient appropriate audit evidence through alternative means, then we issue a qualified due to a gas limitation or a disclaimer of opinion.
+ And if management refuses to give the auditor permission to communicate or meet with the entity's external legal counsel, then we issue a disclaimer of opinion or even withdraw from the engagement.
+ Next up are estimates and fair values.
+ So, accounting estimates and fair value estimates are approximations made by management where exact amounts can't be determined.
+ So, these estimates inherently involve some level of uncertainty and judgment.
+ So, examples of accounting estimates are allowance for doubtful accounts or debts, warranty obligations, inventory obsolescence, depreciation methods or useful life, costs to settle contingent litigation, outcomes of long-term contracts.
+ These are accounting estimates.
+ Examples of fair value estimates are assets, liabilities, or goodwill in business combinations, any share-based payments, discontinued operations, or non-monetary exchanges, or non-monetary exchanges.
+ Now, how we deal with these as auditors really comes down to the risk between low-risk estimates and high-risk estimates.
+ Low-risk estimates include routine transactions or readily available or observable data, or any well-known or accepted models.
+ So, fair value estimates that are calculated using models that are widely known and accepted, no problem.
+ Our audit approach for low-risk estimates, we might rely more on analytical procedures and review controls with less extensive substantive testing.
+ Now, high-risk estimates are where it's highly dependent on judgment.
+ And we're not using a standard measurement technique.
+ And there's a prior year audit difference.
+ So, for example, if an auditor previously adjusted the useful life of an asset due to a difference in judgment, then future depreciation estimates for that asset may be considered high-risk.
+ So, what's our audit approach for high-risk estimates?
+ Well, it requires more extensive substantive testing, including sensitivity analysis or testing of underlying data, and evaluation of assumptions and our methodologies.
+ So, the auditor may also need to involve specialists or experts to evaluate complex or judgmental estimates.
+ So, now we'll discuss audit procedures for accounting estimates and fair value estimates.
+ First, we review management's measurement method.
+ An auditor must evaluate the method of measurement used by management to ensure it's appropriate, given the circumstances and in accordance with relevant accounting standards.
+ Then we review assumptions.
+ So, we must scrutinize the assumptions used by management in developing estimates to ensure the reasonableness of assumptions and identify any that are subjective and susceptible to bias, deviating significantly from historical patterns, or that are sensitive to variations.
+ Then we must develop our own independent estimate and then compare it with management's estimate.
+ Then we do a review of subsequent events.
+ So, we must review events and transactions occurring after the balance sheet date, but before the issuance of the financial statements, to identify any information that may affect the reasonableness of the estimates.
+ So, how does this impact our audit opinion?
+ Well, if the estimates are reasonable and disclosed and accounted for properly, no problem, unmodified opinion.
+ If estimates are not reasonable or not accounted for and disclosed properly, then we have a qualified opinion due to gap or adverse opinion, or if we are unable to audit the estimates due to a lack of information, then it's qualified due to a gas limitation or a disclaimer of opinion.
+ So, continuing on with subsequent events, these are transactions occurring, again, after the balance sheet date, but before the financial statement release date.
+ So, from January 1st through December 31st, so December 31st is the balance sheet date, but we release our audit report on April 30th, then anything that happens in between December 31st and April 30th, those are subsequent events.
+ And there are two types.
+ There's a recognized event, and then there's a non-recognized event.
+ So, a recognized event has adjusting events.
+ So, these are events for which conditions, these conditions existed on the balance sheet date, but they're settled after the balance sheet date, but before the financial statement release date.
+ As they relate to the existing condition as of the balance sheet date, they must be accrued and disclosed.
+ So, examples would be settlement of a lawsuit, receivables collected, inventory obsolescence.
+ Then there's the non-recognized event, which is a non-adjusting event.
+ These are events that reflect conditions that arose after the balance sheet date.
+ They're settled after the balance sheet date, but before the financial statement release date.
+ They don't relate to the condition of the company as of the balance sheet date, so they don't require adjustments, but they should be disclosed if they are material.
+ These include natural disasters, acquisitions or mergers, or the issuance of debt or equity securities.
+ Now, as far as audit procedures go, for these subsequent events, we have to make inquiries of management and those charged with governance.
+ We need to talk to legal counsel.
+ We need to inspect meetings.
+ We need to inspect interim financial statements.
+ We need to obtain written representations from management that all significant subsequent events have been disclosed.
+ Then audit procedures after the audit report date.
+ Auditors are not required to perform any audit procedures regarding the financial statements after the audit report date.
+ However, if new facts are discovered after the audit report date, but before the audit report release date, then the auditors have to do the following.
+ Discuss with management and those charged with governance regarding these new facts.
+ Determine whether the financial statements need revision.
+ Management might or might not revise the financial statements.
+ If they revise it, then the auditor should perform audit procedures necessary in the circumstances of the revision.
+ The auditor should either dual date the report or date the report as of the later date.
+ Now, if management does not revise the financial statements, when the auditor believes they should be revised, then the auditor should modify the opinion on the financial statements.
+ Another big topic is using the work of others.
+ And this includes internal auditors, specialists.
+ So when conducting an audit, auditors often rely on the work of others to enhance the efficiency and the effectiveness of the audit process.
+ And internal auditors are a big part of this because they are employed by the organization, by the client, to provide independent and objective evaluations about the company's operations, including its financial reporting and compliance with laws and regs and internal controls.
+ Now, when conducting an external audit, external auditors may utilize the work of internal auditors to enhance the efficiency and the effectiveness of the audit process.
+ However, the following must be kept in mind when using the work of internal auditors.
+ Independence.
+ Like, these are employees of the client.
+ So, given their lack of complete independence, use caution.
+ Also, take into consideration the external auditor's responsibility.
+ The external auditor bears the sole responsibility for the audit opinion, irrespective of reliance on internal auditors.
+ You can't go back and point fingers at them.
+ It's on you.
+ So, the external auditor must ensure that the work of the internal auditor is sufficiently reliable and objective to be used as audit evidence.
+ Because we know that they're not independent.
+ But are they objective?
+ And also, the scope of the reliance.
+ So, external auditors can rely on internal auditors primarily for routine and non-judgmental areas.
+ So, some criteria for using internal auditors.
+ Competence.
+ Education.
+ Technical training.
+ Professional certification.
+ So, if they are a certified internal auditor, or maybe even a CPA.
+ Or if they have their CISA, their Certified Information Systems Auditor.
+ Like, those enhance their credibility.
+ So, that's competence.
+ When we're evaluating internal auditors, we evaluate their competence.
+ And then we also evaluate their objectivity.
+ So, their organizational status.
+ How does the position of the internal audit function within the organization, how does that impact its objectivity?
+ Reporting level.
+ Reporting to higher levels of management, or directly to the board, or the audit committee, often enhances the objectivity of the internal auditors.
+ So, the higher the level of management they report to, the higher their objectivity.
+ And also, their policies and procedures.
+ Freedom from conflicting responsibilities.
+ So, they should not have operational responsibilities.
+ And those charged with governance.
+ Do they oversee the employment decisions regarding the internal auditors?
+ If so, often enhances their objectivity.
+ The scope of their work constraints.
+ So, we need to restrict or limit what they work on.
+ And again, professional memberships.
+ So, if they have to adhere to an ethical standard, like if they're a certified internal auditor, that enhances the trustworthiness of their work.
+ So, that was internal auditor.
+ Next, are specialists.
+ These are experts in fields.
+ Other than accounting and auditing, they provide valuable insights in specific areas, like valuation, actuaries, tax compliance, legal matters, IT.
+ And specialists can be an auditor specialist, or a management specialist.
+ So, an auditor specialist is engaged by the auditor.
+ So, an internal specialist is an employee within the audit firm, or network, and an external specialist is not an employee of the audit firm.
+ A management specialist is engaged by the management.
+ So, first, the auditor specialist.
+ To evaluate an auditor specialist, it's the same thing as with an internal auditor.
+ Competence, capability, objectivity.
+ And then understanding their expertise, so that you know exactly how you can utilize them, and then how you cannot.
+ And the auditor must have an agreement with the specialist, have a clear agreement, preferably in writing, about the nature, scope, objective of their work, roles and responsibilities, nature, extent, timing and communications between the auditor and the specialist, and confidentiality.
+ Then they need to evaluate their work, review it, look through their working papers, and reporting considerations.
+ There's no reference to the specialist in the auditor's report if using an unmodified opinion.
+ However, if with a modified opinion, it might be appropriate to refer to the auditor's external specialist.
+ For an unmodified opinion, you cannot refer to them.
+ Moving on to audit documentation.
+ Audit documentation, also known as working papers or work papers, it serves as a record of the audit procedures performed, the relevant audit evidence obtained, and the conclusions the auditor reached.
+ The four primary objectives of audit documentation include evidence of compliance, so it provides evidence that the audit was conducted in accordance with GAS.
+ Accountability, so it allows the audit team to demonstrate accountability for its work, so it should be thorough enough to allow an experienced auditor having no previous connection to the audit to understand the work performed, the evidence obtained, and any significant decisions made, as well as to be able to understand the nature, time, and extent of the work performed, so accountability.
+ And also, it should help with audit planning and supervision, so it should be prepared and organized to facilitate the planning performance and the supervision of the audit, and also for future reference, so future audits can benefit from the documentation of the work done in previous audits, as this information can inform the planning and strategy for subsequent audits.
+ Now, let's talk about the form, extent, and content of audit documentation.
+ Audit documentation can be in paper, electronic, or other media forms.
+ While not every matter needs to be documented, oral explanations alone are insufficient, written work papers are essential.
+ So, as far as the extent of the audit documentation, it should be detailed enough to allow for an experienced auditor who is unfamiliar with the audit to understand the nature, timing, and extent of the audit procedures, the identification characteristics, so identify specific items or matters that were tested, the audit work details, the audit procedure results, any significant findings or issues, any discussions that the auditor had with those charged with governance, any inconsistencies, and the engagement completion document.
+ It should include or reference all significant findings or issues.
+ It's mandatory for issuer audits per the PCAOB and is optional for non-issuer audits per SAS.
+ That's the engagement completion document.
+ Might be a good question.
+ PCAOB, engagement completion document required.
+ Non-issuer audits for SAS, not required.
+ So, audit documentation is divided into two main categories.
+ There's a permanent file and a current file.
+ The permanent file contains documentation with continuing interest across multiple accounting periods.
+ So, like organizational documents, minutes, flow charts, long-term contracts, equity account analysis, depreciation schedules.
+ So, that's the permanent file.
+ The current file encompasses all documentation applicable to the current year under audit.
+ So, the audit plan, working trial balance, lead schedules, audit work papers, confirmation and representation letters, the auditor's analysis and worksheets, any significant audit findings or issues, that's the current file.
+ Now, the essential elements of the audit work papers are the heading.
+ So, client name, work paper title, audit year.
+ Exceptions.
+ Any, the identification, commentary and resolution documentation.
+ Conclusions.
+ Closing comments.
+ Alignment.
+ Auditor's opinion.
+ Then, initials and signature.
+ So, the preparer's initials, the reviewer's initials, then tick marks.
+ So, those are the essential elements of the audit work papers.
+ Now, what about any departure from gas?
+ In rare situations where an auditor finds it necessary to depart from a relevant, presumptively mandatory, gas, generally accepted audit standards requirement, it's crucial to maintain detailed documentation to ensure transparency, accountability and adherence to professional standards.
+ So, here are some key components of this documentation.
+ The justification for the departure.
+ So, it should clearly articulate and document the specific reason that necessitated the departure from the gas requirement and alternative procedures.
+ The documentation should identify the alternative audit procedures that were performed in lieu of this standard requirement and explain the rationale behind choosing these alternative procedures and demonstrating how they are appropriate and relevant.
+ Because, remember, your butt is on the line as an auditor if you deviate from the plan.
+ Let's talk about ownership and confidentiality of the audit documentation.
+ So, the audit documentation is property of the auditor and it remains confidential.
+ Now, auditors may provide copies to the entity at their discretion without compromising integrity.
+ So, confidentiality must be maintained and the documentation should not be shared without client consent except for investigations or reviews authorized by professional accounting bodies, inquiries by accounting professional organizations requiring documentation for the accountant's defense.
+ So, like we talked about before, like your butt's on the line.
+ Or legal subpoenas or summons from judicial authorities.
+ Management representation letter.
+ It's a formal document provided by an entity's management to the auditor.
+ It's a crucial document in the audit process.
+ It serves as mandatory evidence and confirmation from management regarding various aspects of the financial statements and the information provided to the auditors.
+ So, key components of the management representation letter.
+ Written confirmation.
+ So, management representation letter is written and signed by management typically dated on the last day of field work aligning with the audit report date.
+ It should emphasize all financial statements and periods referred to in the auditor's report.
+ Also included are management's responsibilities, any fraud related representations, legal compliance, uncorrected misstatements, litigation and claim information, accounting estimates, related party transactions, subsequent events, and any additional representations.
+ This is all in the management representation letter.
+ And in the NINJA book, we have an example of a management representation letter.
+ In our final section, you're like woohoo, we will discuss the evaluation of audit findings and forming an opinion.
+ This is a critical phase in the audit process where auditors analyze the collected audit evidence to form an opinion on the financial statements.
+ So, we perform analytical procedures in our overall review.
+ And these are mandatory.
+ Remember, we discussed previously, they're mandatory in the planning and then also in the review.
+ So, analytical procedures in the overall review stage of the audit can help evaluate our evidence and identify any unusual balances.
+ So, as we evaluate our audit evidence, we must ensure that our evidence is sufficient and appropriate because it's been obtained to support the audit opinion.
+ So, the auditor must determine if there's enough evidence, sufficient evidence, if it's appropriate, if it's consistent, if our audit evidence is consistent with our audit findings.
+ And then, our evaluation of any misstatements.
+ So, misstatements can be categorized into factual misstatements.
+ These are indisputable errors.
+ These are misstatements about which there's no doubt.
+ Or, judgmental misstatements.
+ These are arising from the unreasonable selection or application of accounting policies or using unreasonable accounting estimates.
+ Or, projected misstatements.
+ These are the auditor's best estimates of misstatements across the entire population based on identified misstatements in the audit sample.
+ So, for example, if an auditor identifies a misstatement in a sample of sales transactions, they might project this error onto the entire population of sales transactions to estimate the total misstatement in sales.
+ Then, we have accumulation, communication, and evaluation.
+ The accumulation of misstatements, the auditor should accumulate all factual and judgmental misstatements identified during the audit, excluding those that are clearly trivial.
+ And then, the auditor must communicate misstatements to management promptly, typically to individuals at least one level above those involved.
+ And then, request correction by management.
+ If they correct it, the auditor should document them in a summary of adjustments passed.
+ Corrections do not impact the audit opinion, but it may affect the risk of material misstatement.
+ That's if they correct it.
+ If they refuse, they opt to not correct the identified misstatements.
+ The auditor must understand and document the rationale behind this decision.
+ The auditor should project the identified uncorrected errors onto the entire population of the financial statements or the balances.
+ And this projection helps in estimating the potential impact of these errors on the statements as a whole.
+ And then, the auditor evaluates whether uncorrected misstatements are material individually or in the aggregate, considering the size and the nature of the misstatements and their effect on the financial statements.
+ If they're material, sorry, if they're immaterial.
+ So if the misstatements are immaterial, unmodified opinion.
+ If they're material but not pervasive, qualified due to gap.
+ If they're material and pervasive, adverse.
+ So when forming an opinion on the financial statements, the auditor should conclude whether they have obtained reasonable assurance that the financial statements are free from material misstatement, whether due to fraud or error.
+ This conclusion should be based on the following evaluations and considerations.
+ Whether or not we obtained sufficient, appropriate audit evidence.
+ Also, our evaluation of uncorrected misstatements.
+ We just spoke about that.
+ Compliance with the financial reporting framework.
+ The assessment of accounting policies and estimates.
+ The evaluation of information presented.
+ The appropriateness of the terminology.
+ So, whether, evaluate whether the terminology used in the financial statements including the title of each financial statement is appropriate.
+ The overall presentation and is it fair?
+ Is the overall presentation, the structure, and the content of the financial statements acceptable?
+ And then finally, reference to the financial reporting framework.
+ Ensure that the financial statements adequately refer to or describe the applicable financial reporting framework.
+ This includes substantive procedures and audit completion.
+ 
